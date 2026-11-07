@@ -1,0 +1,378 @@
+\n--- PAGE 1 ---\nPhysics data booklet
+For use during the course and in the examinations 
+First assessment 2025
+Version 1.0
+
+\n--- PAGE 2 ---\n4082
+International Baccalaureate , Baccalauréat International , Bachillerato Internacional   
+and IB logos are registered trademarks of the International Baccalaureate Organization.
+Published February 2023
+Published on behalf of the International Baccalaureate Organization, a not-for-profit 
+educational foundation of 15 Route des Morillons, 1218 Le Grand-Saconnex, Geneva, 
+Switzerland by the
+International Baccalaureate Organization (UK) Ltd 
+Peterson House, Malthouse Avenue, Cardiff Gate 
+Cardiff, Wales CF23 8GL 
+United Kingdom 
+Website: ibo.org
+© International Baccalaureate Organization 2023
+The International Baccalaureate Organization (known as the IB) offers four high-quality 
+and challenging educational programmes for a worldwide community of schools, aiming 
+to create a better, more peaceful world. This publication is one of a range of materials 
+produced to support these programmes.
+The IB may use a variety of sources in its work and checks information to verify accuracy 
+and authenticity, particularly when using community-based knowledge sources such as 
+Wikipedia. The IB respects the principles of intellectual property and makes strenuous 
+efforts to identify and obtain permission before publication from rights holders of all 
+copyright material used. The IB is grateful for permissions received for material used 
+in this publication and will be pleased to correct any errors or omissions at the earliest 
+opportunity.
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval 
+system, or transmitted, in any form or by any means, without the IB’s prior written 
+permission, or as expressly permitted by the Rules for use of IB Intellectual Property.
+IB merchandise and publications can be purchased through the IB Store  sales@
+(email: sales@ibo.org ). Any commercial use of IB publications (whether fee-covered or 
+commercial) by third parties acting in the IB’s ecosystem without a formal relationship 
+with the IB (including but not limited to tutoring organizations, professional development 
+providers, educational publishers and operators of curriculum mapping or teacher 
+resource digital platforms etc) is prohibited and requires a subsequent written license 
+from the IB. License requests should be sent to copyright@ibo.org. More information can 
+be obtained on the IB public website.
+Diploma Programme
+Physics data booklet
+\n--- PAGE 3 ---\n 
+Contents
+Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+Mathematical equations  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+Uncertainties  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Fundamental constants  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Metric (SI) multipliers  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Unit conversions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+Electrical circuit symbols  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Electromagnetic spectrum  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+A . Space, time and motion  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+B . The particulate nature of matter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+C . Wave behaviour . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+D . Fields  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+E . Nuclear and quantum physics  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Physics data booklet
+\n--- PAGE 4 ---\n 
+This page is intentionally blank .
+Physics data booklet
+\n--- PAGE 5 ---\n 
+Introduction
+This Diploma Programme (DP) Physics data booklet  accompanies the DP Physics guide  and DP 
+Physics teacher support material  . It contains electrical symbols, mathematics equations, constants, 
+and physics equations relevant to the course . 
+Students must have access to a copy of this booklet for the duration of the course so that they 
+can become familiar with its contents .  Direct reference is made to relevant equations in the 
+“Understandings” sections of the guide  . This helps to maintain the emphasis on interpretation and 
+application rather than memorization of symbols, constants and equations . 
+The Physics data booklet  is split into two sections .  The first includes information which is used 
+throughout the teaching of DP physics and the second contains equations relevant to specific themes 
+and topics . Note that all equations relate to the magnitude of the quantities only  . Vector notation has 
+not been used .
+Each student must have access to a clean copy of the Physics data booklet  during examinations  . 
+It is the responsibility of the school to download a copy of this booklet from IBIS or the Programme 
+Resource Centre and to ensure that there are sufficient copies available for all students .
+Physics data booklet 1
+\n--- PAGE 6 ---\n 
+Mathematical equations
+Area of a triangle Ab h= 12 ()  where b  is the base, h  is the height
+Area of a circle Ar=π 2  where r  is the radius
+Circumference of a circle Cr= 2π
+Volume of a cuboid Vw h= l  where l  is the length, w  is the width, h  is the 
+height
+Volume of a cylinder Vr h2
+Volume of a prism VA h=  where A  is the area of cross-section
+Volume of a sphere Vr= 43 3π
+Area of the curved surface 
+of a cylinder
+A rh2
+Vectors AA
+A
+V
+H
+θ
+A AH cos
+A AV sin
+Trigonometric relationships tan sincosθ θθ=
+sinc os22 1θθ+=
+Physics data booklet2
+\n--- PAGE 7 ---\n 
+Uncertainties
+If: y =±ab then: ∆∆ ∆y =+ ab
+If: y = abc then: ∆ ∆∆∆yy =+ +aa bb cc
+If: y = an then: ∆∆yy = n aa
+Fundamental constants
+Quantity Symbol Approximate value
+Acceleration of free fall g 98 2.m s−  (Earth’s surface)
+Gravitational constant G 66 71 0 11 22. × −− Nm kg
+Avogadro constant NA 60 21 023 1. × −mol
+Gas constant R 83 1 11.J Km ol−−
+Boltzmann constant kB 13 81 0 23 1. × −− JK
+Stefan–Boltzmann constant σ 56 71 0 82 4. × −− −Wm K
+Coulomb constant k 89 91 092 2. × −Nm C
+Permittivity of free space ε0 88 51 0 12 21 2. × −− −CN m
+Permeability of free space
+ 41 0 71π × −− Tm A
+Speed of light in vacuum c 30 01 081. × −ms
+Planck constant h 66 31 0 34. × − Js
+Elementary charge e 16 01 0 19. × − C
+Electron rest mass me 9 110 10 0 000549 0 51131 2.. .×= =−− kg uM eV c
+Proton rest mass mp 1 673 10 1 007276 93827 2.. ×= =−− kg uM eV c
+Neutron rest mass mn 1 675 10 1 008665 94027 2.. ×= =−− kg uM eV c
+(Unified) atomic mass unit u 1 661 10 931 527 2.. ×= −− kg MeVc
+Solar constant S 13 61 032. × −Wm
+Fermi radius R0 12 01 0 15. × − m
+Physics data booklet 3
+\n--- PAGE 8 ---\n 
+Metric (SI) multipliers
+Prefix Abbreviation Value
+peta P 1015
+tera T 1012
+giga G 109
+mega M 106
+kilo k 103
+hecto h 102
+deca da 101
+deci d 10 1−
+centi c 10 2−
+milli m 10 3−
+micro μ 10 6−
+nano n 10 9−
+pico p 10 12−
+femto f 10 15−
+Unit conversions 
+ 
+1 180 radian (rad) ≡ °π
+TemperatureK temperature° C 273() = () +
+1 light year ly m() =×94 61 015.
+1 parsecp cl y() = 32 6.
+1 astronomical unit AU m() =×15 01 011.
+1 kilowatt-hour kWhJ() =×36 01 06.
+hc =× =×−−19 91 01 24 1025 6.. Jm eV m
+Physics data booklet4
+\n--- PAGE 9 ---\n 
+Electrical circuit symbols
+Cell Battery Switch
+Voltmeter Ammeter Resistor
+Variable resistor Light-dependent resistor (LDR) Thermistor
+Potentiometer Lamp Light emitting diode (LED)
+Heating element Motor Earth (ground)
+Electromagnetic spectrum 
+ 
+energy
+            
+10 16−  10 14−  10 12−  10 10−  10 8−  10 6−  10 4−  10 2−  100  102  104  106  108   wavelength / m
+ rays X-rays UV IR microwaves radio waves
+V  I  B  G  Y  O  R
+wavelength / nm
+400 700
+Physics data booklet 5
+\n--- PAGE 10 ---\n 
+A . Space, time and motion
+Standard level and higher level
+A .1 Kinematics s uv t= +2
+vu at=+
+su ta t=+ 12 2
+vu as22 2=+
+A .2 Forces and momentum FFfs N≤ µ
+FFfd N= µ
+FkH =− x
+Fr vd = 6πη
+FV gb = ρ
+Fm gg =
+pm v=
+JF t=∆
+Fm a pt== ∆∆
+a vr r rT== =2 2 224ω π
+v rT r==2π ω
+A .3 Work, energy and power WF s= cosθ
+E pmk /g32/g32122 2 2mv
+∆∆Em ghp =
+EkH = 12 2∆x
+P Wt Fv==∆∆
+η ==EE PPoutputinput outputinput
+Physics data booklet6
+\n--- PAGE 11 ---\n 
+Additional higher level
+A .4 Rigid body mechanics τθ= Fr sin
+∆θ ωω= +fi
+2 t
+ωω αfi =+ t
+∆θω α=+ itt 12 2
+ωω αθfi22 2=+ ∆
+I =Σ mr 2
+τα= I
+L = Iω
+∆∆Lt= τ
+∆∆L = ()Iω
+E Lk ==122 2 2I Iω
+A .5 Galilean and special relativity xx' =− vt
+tt'=
+uu v' =−
+xx'( )=−γ vt  where γ =
+−
+1
+1
+2
+2
+v
+c
+tt vc' =−  γ x2
+u uvuv
+c
+' = −
+−1 2
+() ()∆∆ ∆sc t22 2=− x
+∆∆tt= γ 0
+L L= 0
+γ
+tanθ = vc
+Physics data booklet 7
+\n--- PAGE 12 ---\n 
+B . The particulate nature of matter
+Standard level and higher level
+B .1 Thermal energy transfers ρ = mV
+Ek TkB= 32
+Qm cT=∆
+Qm L=
+∆∆
+∆
+Q
+t kA T∆ = x
+LA T= σ 4
+b Ld= 4 2π
+λmax mKT =× −29 10 3.
+B .2 Greenhouse effect emissivity power radiated per unit area= σT 4
+albedo total scattered powertotal incident power=
+B .3 Gas laws P FA=
+n NN= A
+PV
+T = constant
+PV nRTN kT= = B
+Pv= 13 2ρ
+Un RT Nk T= =32 32 B
+Physics data booklet8
+\n--- PAGE 13 ---\n 
+B .5 Current and circuits I = ∆∆qt
+V Wq=
+R V= I
+ρ = RAL
+PV R VR= = =II 2 2
+Series circuits Parallel circuits
+II I= = =12 ... II I=+ +12 ...
+VV V=+ +12 ... VV V= = =12 ...
+RR Rs =+ +12 ... 11 1
+12RR Rp
+=+ + ...
+ε =+I()Rr
+Additional higher level
+B .4 Thermodynamics QU W=+∆
+WP V=∆
+∆∆ ∆Un RT Nk TB==32 32
+∆ ∆S QT=
+Sk= B ln Ω
+PV
+5
+3 = constant
+η = useful workinput energy
+ηCarnot c
+h
+=−1 TT
+Physics data booklet 9
+\n--- PAGE 14 ---\n 
+C . Wave behaviour
+Standard level and higher level
+C .1 Simple harmonic motion a =− ω2 x
+T ==12f πω
+T mk= 2π
+T g= 2π l
+C .2 Wave model v T==f λ λ
+C .3 Wave phenomena n
+n
+v
+v
+1
+2
+2
+1
+2
+1
+==sinsinθθ
+Constructive interference: 
+path difference = nλ
+Destructive interference:  
+ path difference =+()n 12 λ
+s Dd= λ
+C .5 Doppler effect ∆∆f
+f =≈ λλ vc
+Additional higher level
+C .1 Simple harmonic motion xx=+ 0 sin( )ωφt
+vt=+ωω φx0 cos( )
+v =± −ω xx022
+EmT = 12 2 02ω x
+Emp = 12 22ω x
+Physics data booklet10
+\n--- PAGE 15 ---\n 
+C .3 Wave phenomena θ λ= b
+ndλθ= sin
+C .5 Doppler effect
+Moving source: ′ = ± ff vvu s
+Moving observer: ′ = ±
+
+
+ff vuv o
+Physics data booklet 11
+\n--- PAGE 16 ---\n 
+D . Fields
+Standard level and higher level
+D .1 Gravitational fields FG mmr= 122
+g Fm G Mr= = 2
+D .2 Electric and magnetic fields Fk qqr= 122  where k = 14 0πε
+E Fq=
+E Vd=
+D .3 Motion in electromagnetic fields Fq vB= sinθ
+FB L= I sinθ
+F
+Lr= µ π0 122II
+Additional higher level
+D .1 Gravitational fields EG mmrp =− 12
+VG Mrg =−
+g Vr=− ∆∆ g
+Wm V=∆ g
+v GMresc = 2
+v GMrorbital =
+D .2 Electric and magnetic fields Ek qqrp = 12
+V kQre =
+E Vr=− ∆∆ e
+Wq V=∆ e
+Physics data booklet12
+\n--- PAGE 17 ---\n 
+D .4 Induction Φ= BA cosθ
+ε =− N t∆Φ∆
+ε = BvL
+E . Nuclear and quantum physics
+Standard level and higher level
+E .1 Structure of the atom Eh= f
+E .3 Radioactive decay Em c= 2
+E .5 Fusion and stars d(parsec) p(arc-second)= 1
+Additional higher level
+E .1 Structure of the atom
+RR A= 0
+1
+3
+E n=− 13 62. eV
+mvr nh= 2π
+E .2 Quantum physics Ehmax =− f Φ
+λ = hp
+λλ λθf
+e
+−= =−i ∆ hmc (c os )1
+E .3 Radioactive decay NN e t= −0 λ
+AN Ne t== −λλ λ0
+T1
+2
+2= lnλ
+Physics data booklet 13

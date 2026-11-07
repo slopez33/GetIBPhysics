@@ -1,0 +1,3143 @@
+\n--- PAGE 1 ---\nPhysics guide
+First assessment 2025
+\n--- PAGE 2 ---\nPhysics guide
+First assessment 2025
+
+\n--- PAGE 3 ---\nPublished February 2023
+Published on behalf of the International Baccalaureate Organization, a not-for-profit 
+educational foundation of 15 Route des Morillons, 1218 Le Grand-Saconnex, Geneva, 
+Switzerland by the
+International Baccalaureate Organization (UK) Ltd 
+Peterson House, Malthouse Avenue, Cardiff Gate 
+Cardiff, Wales CF23 8GL 
+United Kingdom 
+Website: ibo.org
+© International Baccalaureate Organization 2023
+The International Baccalaureate Organization (known as the IB) offers four high-quality 
+and challenging educational programmes for a worldwide community of schools, aiming 
+to create a better, more peaceful world. This publication is one of a range of materials 
+produced to support these programmes.
+The IB may use a variety of sources in its work and checks information to verify accuracy 
+and authenticity, particularly when using community-based knowledge sources such as 
+Wikipedia. The IB respects the principles of intellectual property and makes strenuous 
+efforts to identify and obtain permission before publication from rights holders of all 
+copyright material used. The IB is grateful for permissions received for material used 
+in this publication and will be pleased to correct any errors or omissions at the earliest 
+opportunity.
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval 
+system, or transmitted, in any form or by any means, without the IB’s prior written 
+permission, or as expressly permitted by the Rules for use of IB Intellectual Property.
+IB merchandise and publications can be purchased through the IB Store (email: sales@
+(email: sales@ibo.org ). Any commercial use of IB publications (whether fee-covered or 
+commercial) by third parties acting in the IB’s ecosystem without a formal relationship 
+with the IB (including but not limited to tutoring organizations, professional development 
+providers, educational publishers and operators of curriculum mapping or teacher 
+resource digital platforms etc) is prohibited and requires a subsequent written license 
+from the IB. License requests should be sent to copyright@ibo.org. More information can 
+be obtained on the IB public website.
+Diploma Programme
+Physics guide
+International Baccalaureate , Baccalauréat International , Bachillerato Internacional   
+and IB logos are registered trademarks of the International Baccalaureate Organization.
+\n--- PAGE 4 ---\nIB mission statement
+The International Baccalaureate aims to develop inquiring, knowledgeable and caring young people who 
+help to create a better and more peaceful world through intercultural understanding and respect.
+To this end the organization works with schools, governments and international organizations to develop 
+challenging programmes of international education and rigorous assessment.
+These programmes encourage students across the world to become active, compassionate and lifelong 
+learners who understand that other people, with their differences, can also be right.
+\n--- PAGE 5 ---\nIB learner profile I
+profile IB learner p
+arner profile IB lea
+ile IB learner profi
+IB learner profile I
+er profile IB learne
+© International Baccalaureate Organization 2017
+International Baccalaureate® | Baccalauréat International® | Bachillerato Internacional®
+The IB learner pro/f_ile represents 10 attributes valued by IB World Schools. We believe these attributes, and others 
+like them, can help individuals and groups become responsible members of local, national and global communities.
+We nurture our curiosity, developing skills for inquiry and 
+research. We know how to learn independently and with others. 
+We learn with enthusiasm and sustain our love of learning 
+throughout life.
+We develop and use conceptual understanding, exploring 
+knowledge across a range of disciplines. We engage with issues 
+and ideas that have local and global signi/f_icance. 
+We use critical and creative thinking skills to analyse and take 
+responsible action on complex problems. We exercise initiative in 
+making reasoned, ethical decisions.
+We express ourselves con/f_idently and creatively in more than one 
+language and in many ways.  We collaborate eﬀectively, listening 
+carefully to the perspectives of other individuals and groups.
+We act with integrity and honesty, with a strong sense of 
+fairness and justice, and with respect for the dignity and rights 
+of people everywhere. We take responsibility for our actions 
+and their consequences.
+We critically appreciate our own cultures and personal histories, 
+as well as the values and traditions of others. We seek and evaluate 
+a range of points of view, and we are willing to grow from the 
+experience.
+We show empathy, compassion and respect. We have a 
+commitment to service, and we act to make a positive diﬀerence 
+in the lives of others and in the world around us.
+We understand the importance of balancing diﬀerent aspects of 
+our lives /emdash.capintellectual, physical, and emotional/emdash.cap to achieve 
+well-being for ourselves and others. We recognize our interde-
+pendence with other people and with the world in which we live.
+We thoughtfully consider the world and our own ideas and expe-
+rience. We work to understand our strengths and weaknesses in 
+order to support our learning and personal development.
+We approach uncertainty with forethought and determination; 
+we work independently and cooperatively to explore new ideas 
+and innovative strategies. We are resourceful and resilient in the 
+face of challenges and change.
+IB learner profile
+The aim of all IB programmes is to develop internationally minded people who, recognizing their common 
+humanity and shared guardianship of the planet, help to create a better and more peaceful world.
+As IB learners we strive to be:
+THE IB LEARNER PROFILE
+\n--- PAGE 6 ---\nIntroduction 1
+Purpose of this document 1
+The Diploma Programme 2
+Nature of science 6
+Nature of physics 9
+Approaches to the teaching and learning of physics 15
+Collaborative sciences project 20
+Aims 21
+Assessment objectives 22
+Assessment objectives in practice 23
+Syllabus 24
+Syllabus outline 24
+Syllabus roadmap 25
+Syllabus format 26
+Skills in the study of physics 27
+Syllabus content 33
+Assessment 60
+Assessment in the Diploma Programme 60
+Assessment outline—SL 62
+Assessment outline—HL 63
+External assessment 64
+Internal assessment 66
+Appendices 76
+Glossary of command terms 76
+Bibliography 78
+Contents
+Physics guide
+
+\n--- PAGE 7 ---\nThis publication is intended to guide the planning, teaching and assessment of physics in schools. Subject 
+teachers are the primary audience, although it is expected that teachers will use the guide to inform 
+students and parents about the subject.
+This guide can be found on the subject page of the Programme Resource Centre at resources.ibo.org, a 
+password-protected International Baccalaureate (IB) website designed to support IB teachers. It can also be 
+purchased from the IB store at store.ibo.org.
+Additional resources
+Additional publications such as specimen papers and markschemes, teacher support material (TSM), 
+subject reports and grade descriptors can also be found on the Programme Resource Centre. Past 
+examination papers as well as markschemes can be purchased from the IB store.
+Teachers are encouraged to check the Programme Resource Centre for additional resources created or used 
+by other teachers. Teachers can provide details of useful resources, for example: websites, books, videos, 
+journals or teaching ideas.
+Acknowledgement
+The IB wishes to thank the educators and associated schools for generously contributing time and 
+resources to the production of this guide.
+First assessment 2025
+Introduction
+Purpose of this document
+1Physics guide
+
+\n--- PAGE 8 ---\nThe Diploma Programme (DP) is a rigorous pre-university course of study designed for students in the 
+16 to 19 age range. It is a broad-based two-year course that aims to encourage students to be 
+knowledgeable and inquiring, but also caring and compassionate. There is a strong emphasis on 
+encouraging students to develop intercultural understanding, open-mindedness, and the attitudes 
+necessary for them to respect and evaluate a range of points of view.
+The Diploma Programme model
+The course is presented as six academic areas enclosing a central core (see figure 1). It encourages the 
+concurrent study of a broad range of academic areas. Students study two modern languages (or a modern 
+language and a classical language), a humanities or social science subject, an experimental science, 
+mathematics and one of the creative arts. It is this comprehensive range of subjects that makes the DP a 
+demanding course of study designed to prepare students effectively for university entrance. In each of the 
+academic areas students have flexibility in making their choices, which means they can choose subjects 
+that particularly interest them and that they may wish to study further at university.
+Figure 1
+Diploma Programme model
+Introduction
+The Diploma Programme
+2 Physics guide
+
+\n--- PAGE 9 ---\nChoosing the right combination
+Students are required to choose one subject from each of the six academic areas, although they can, 
+instead of an arts subject, choose two subjects from another area. Normally, three subjects (and not 
+more than four) are taken at higher level (HL), and the others are taken at standard level (SL). The IB 
+recommends 240 teaching hours for HL subjects and 150 hours for SL. Subjects at HL are studied in greater 
+depth and breadth than at SL.
+At both levels, many skills are developed, especially those of critical thinking and analysis. At the end of the 
+course, students’ abilities are measured by means of external assessment. Many subjects contain some 
+element of coursework assessed by teachers.
+The core of the Diploma Programme model
+All DP students participate in the three course elements that make up the core of the model.
+Theory of knowledge (TOK) is a course that is fundamentally about critical thinking and inquiry into the 
+process of knowing rather than about learning a specific body of knowledge. The TOK course examines the 
+nature of knowledge and how we know what we claim to know. It does this by encouraging students to 
+analyse knowledge claims and explore questions about the construction of knowledge. The task of TOK is 
+to emphasize connections between areas of shared knowledge and link them to personal knowledge in 
+such a way that an individual becomes more aware of their own perspectives and how they might differ 
+from others.
+In TOK, students explore the means of producing knowledge within the core theme of “knowledge and the 
+knower” as well as within various optional themes (knowledge and technology, knowledge and politics, 
+knowledge and language, knowledge and religion, and knowledge and indigenous societies) and areas of 
+knowledge (the arts, natural sciences, human sciences, history and mathematics). The course also 
+encourages students to make comparisons between different areas of knowledge and reflect on how 
+knowledge is arrived at in the various disciplines, what the disciplines have in common, and the differences 
+between them.
+Creativity, activity, service (CAS) is at the heart of the DP. The emphasis in CAS is on helping students to 
+develop their own identities, in accordance with the ethical principles embodied in the IB mission 
+statement and the IB learner profile. It involves students in a range of activities alongside their academic 
+studies throughout the DP. The three strands of CAS are creativity (arts and other experiences that involve 
+creative thinking), activity (physical exertion contributing to a healthy lifestyle) and service (an unpaid and 
+voluntary exchange that has a learning benefit for the student). Possibly, more than any other component 
+in the DP, CAS contributes to the IB’s mission to create a better and more peaceful world through 
+intercultural understanding and respect.
+The extended essay (EE), including the world studies extended essay, offers the opportunity for IB students 
+to investigate a topic of special interest, in the form of a 4,000-word piece of independent research. The 
+area of research undertaken is chosen from one of the students’ six DP subjects, or in the case of the 
+interdisciplinary world studies essay, two subjects, and acquaints them with the independent research and 
+writing skills expected at university. This leads to a major piece of formally presented, structured writing, in 
+which ideas and findings are communicated in a reasoned and coherent manner, appropriate to the subject 
+or subjects chosen. It is intended to promote high-level research and writing skills, intellectual discovery 
+and creativity. An authentic learning experience, it provides students with an opportunity to engage in 
+personal research on a topic of choice, under the guidance of a supervisor.
+Approaches to teaching and approaches to 
+learning
+Approaches to teaching and approaches to learning (ATL) across the DP refers to deliberate strategies, skills 
+and attitudes that permeate the teaching and learning environment. These approaches and tools, 
+intrinsically linked with the learner profile attributes, enhance student learning and assist student 
+The Diploma Programme
+3Physics guide
+
+\n--- PAGE 10 ---\npreparation for the DP assessment and beyond. The aims of approaches to teaching and learning in the DP 
+are to:
+• empower teachers as teachers of learners as well as teachers of content
+• empower teachers to create clearer strategies for facilitating learning experiences in which students 
+are more meaningfully engaged in structured inquiry and greater critical and creative thinking
+• promote both the aims of individual subjects (making them more than course aspirations) and linking 
+previously isolated knowledge (concurrency of learning)
+• encourage students to develop an explicit variety of skills that will equip them to continue to be 
+actively engaged in learning after they leave school, and to help them not only obtain university 
+admission through better grades but also prepare for success during tertiary education and beyond
+• enhance further the coherence and relevance of the students’ DP experience
+• allow schools to identify the distinctive nature of an IB DP education, with its blend of idealism and 
+practicality.
+The five ATL (developing thinking skills, social skills, communication skills, self-management skills and 
+research skills) along with the six approaches to teaching (teaching that is inquiry-based, conceptually 
+focused, contextualized, collaborative, differentiated and informed by assessment) encompass the key 
+values and principles that underpin IB pedagogy.
+The IB mission statement and the IB learner profile
+The DP aims to develop in students the knowledge, skills and attitudes they will need to fulfil the aims of 
+the IB, as expressed in the organization’s mission statement and the learner profile. Teaching and learning 
+in the DP represent the reality in daily practice of the organization’s educational philosophy.
+Academic integrity
+Academic integrity in the DP is a set of values and behaviours informed by the attributes of the learner 
+profile. In teaching, learning and assessment, academic integrity serves to promote personal integrity, 
+engender respect for the integrity of others and their work, and ensure that all students have an equal 
+opportunity to demonstrate the knowledge and skills they acquire during their studies.
+All coursework—including work submitted for assessment—is to be authentic, based on the student’s 
+individual and original ideas with the ideas and work of others fully acknowledged. Assessment tasks that 
+require teachers to provide guidance to students or that require students to work collaboratively must be 
+completed in full compliance with the detailed guidelines provided by the IB for the relevant subjects.
+For further information on academic integrity in the IB and the DP, please consult the IB publications 
+Academic integrity policy, Effective citing and referencing, Diploma Programme: From principles into practice 
+and the general regulations in Diploma Programme Assessment procedures (updated annually). Specific 
+information regarding academic integrity as it pertains to external and internal assessment components of 
+this DP subject can be found in this guide.
+Acknowledging the ideas or work of another 
+person
+Coordinators and teachers are reminded that candidates must acknowledge all sources used in work 
+submitted for assessment. The following is intended as a clarification of this requirement.
+DP candidates submit work for assessment in a variety of media that may include audiovisual material, text, 
+graphs, images and/or data published in print or electronic sources. If a candidate uses the work or ideas of 
+another person, the candidate must acknowledge the source using a standard style of referencing in a 
+consistent manner. A candidate’s failure to acknowledge a source will be investigated by the IB as a 
+potential breach of regulations that may result in a penalty imposed by the IB final award committee.
+The Diploma Programme
+4 Physics guide
+
+\n--- PAGE 11 ---\nThe IB does not prescribe which style(s) of referencing or in-text citation should be used by candidates; this 
+is left to the discretion of appropriate faculty/staff in the candidate’s school. The wide range of subjects, 
+response languages and the diversity of referencing styles make it impractical and restrictive to insist on 
+particular styles. In practice, certain styles may prove most commonly used, but schools are free to choose a 
+style that is appropriate for the subject concerned and the language in which candidates’ work is written. 
+Regardless of the reference style adopted by the school for a given subject, it is expected that the minimum 
+information given includes: name of author, date of publication, title of source, and page numbers as 
+applicable.
+Candidates are expected to use a standard style and use it consistently so that credit is given to all sources 
+used, including sources that have been paraphrased or summarized. When writing text candidates must 
+clearly distinguish between their words and those of others by the use of quotation marks (or other 
+method, such as indentation) followed by an appropriate citation that denotes an entry in the bibliography. 
+If an electronic source is cited, the date of access must be indicated. Candidates are not expected to show 
+faultless expertise in referencing, but are expected to demonstrate that all sources have been 
+acknowledged. Candidates must be advised that audiovisual material, text, graphs, images and/or data 
+published in print or in electronic sources that is not their own must also attribute the source. Again, an 
+appropriate style of referencing/citation must be used.
+Learning diversity and learning support 
+requirements
+Schools must ensure that equal access arrangements and reasonable adjustments are provided to 
+candidates with learning support requirements that are in line with the IB documents Access and inclusion 
+policy and Learning diversity and inclusion in IB programmes: Removing barriers to learning. 
+The publications Meeting student learning diversity in the classroom and The IB guide to inclusive education: a 
+resource for whole school development are available to support schools in the ongoing process of increasing 
+access and engagement by removing barriers to learning.
+Programme standards and practices
+The programme standards and practices are a set of principles for schools to ensure quality and fidelity in 
+the implementation of IB programmes. Teaching and learning are important markers of quality and 
+effective practice in schools; thus the expectations teachers and learners share across all IB programmes can 
+be found in the programme standards and practices.
+The programme standards and practices provide a framework to help teachers understand their rights and 
+responsibilities in IB World Schools as they develop learning environments and experiences for their 
+students. The IB recognizes that in order for effective teaching to take place, teachers must be supported in 
+their understanding, well-being, environment and resources. Teachers use the core tenets of IB philosophy 
+and pedagogy (approaches to teaching, ATL, the learner profile and international-mindedness) to design 
+learning experiences that prepare learners to fulfil the aims and objectives outlined in this guide.
+To learn more about teachers’ rights and responsibilities, please see the IB publication Programme 
+standards and practices on the Programme Resource Centre.
+The Diploma Programme
+5Physics guide
+
+\n--- PAGE 12 ---\nWhat is nature of science?
+Nature of science (NOS) is an overarching theme in the biology, chemistry and physics courses that seeks to 
+explore conceptual understandings related to the purpose, features and impact of scientific knowledge.
+What do we want to know in science?
+Nobel laureate and influential popularizer of science, Richard Feynman, once described the process of 
+science using the analogy of watching an unknown board game being played “... and you don’t know the 
+rules of the game, but you’re allowed to look at the board from time to time. And from these observations, 
+you try to figure out what the rules are of the game, [and] the rules of the pieces moving” (Feynman et al., 
+1963).
+What is the scientific endeavour?
+Classifying such observations and underlying patterns in the natural world is the essence of what scientists 
+do, underpinned by the assumption that the universe exists as an external reality accessible to the human 
+experience. The varied and often non-linear processes used in scientific methodologies have several key 
+features in common to maximize the validity and reliability of knowledge produced. The development of 
+falsifiable hypotheses, a requirement for replicable data, and the utilization of peer-review may be among 
+the most essential of these and help differentiate a scientific process from a pseudoscientific one. The 
+communal and collaborative nature of this approach further strengthens the objectivity of science by 
+ensuring the inclusion of diverse perspectives and shared responsibility for its outcomes.
+What type of knowledge do we produce?
+Formal scientific knowledge may encompass several categories including representative models, 
+explanatory theories and descriptive laws. As the focus of each discipline of natural science differs, so too 
+does the balance of their contributions to each category. What remains constant, however, is the 
+acknowledgement of assumptions, exceptions and limitations of scientific knowledge to provide realistic 
+parameters to our understanding of the natural world. Claims of certainty are treated with caution given 
+the presence of paradigmatic shifts throughout the history of science.
+What is the impact of scientific knowledge?
+As well as the pursuit of knowledge for its own sake, it is useful to consider the interplay of science with 
+other areas of society. Although advances in technology traditionally fuelled great leaps in scientific 
+understanding, in recent times it may be more common to see science as a driver of technological 
+development. In addition, the implications of science within environmental, political, social, cultural and 
+economic domains can also be profound. These connections illustrate the importance of local, national and 
+international scientific bodies that engage with the public understanding of science and heighten the 
+responsibility of scientists to adhere to principles of academic integrity in their research.
+Introduction
+Nature of science
+6 Physics guide
+
+\n--- PAGE 13 ---\nTable 1
+Aspects of nature of science
+Aspects How are scientific knowledge claims generated, tested, communicated, 
+evaluated and used? What issues arise from these actions?
+Observations Scientists act as observers, looking at Earth and all other parts of the universe, to 
+obtain data about natural phenomena. Observations can be made directly using 
+human senses, or with the aid of instruments such as electronic sensors. 
+Unexpected or unplanned observations can open up new research fields.
+Patterns and trends Scientists analyse their observations, looking for patterns or trends, and try to draw 
+general conclusions by inductive reasoning. They also look for discrepancies. 
+Scientists classify objects through pattern recognition. A trend may take the form 
+of a positive or negative correlation between variables. Correlations may be based 
+on a causal relationship, but correlation does not prove causation.
+Hypotheses Scientists make provisional explanations for the patterns that they have observed 
+in natural phenomena. These hypotheses can be tested, with further observations 
+or experiments, to obtain support for a hypothesis or show that it is false.
+Experiments Scientists design and perform experiments to obtain data, which can be used to 
+test hypotheses. The quality of experimental evidence depends on careful control 
+of variables and on the quantity of data generated. Progress in science often 
+follows technological developments that allow new experimental techniques. 
+Creativity and imagination play a role in experimental design, interpretation and 
+conclusion.
+Measurement Quantitative measurements are more objective than qualitative observations, but 
+all measurements are limited in precision and accuracy. Measurements are 
+repeated to strengthen the reliability of data. Random errors in measurement due 
+to unknown or unpredictable differences lead to imprecision and uncertainty, 
+whereas systematic errors lead to inaccuracy.
+Models Scientists construct models as artificial representations of natural phenomena. 
+They are useful when direct observation or experimentation is difficult. Models are 
+simplifications of complex systems and can be physical representations, abstract 
+diagrams, mathematical equations or algorithms. All models have limitations that 
+need to be considered in their application.
+Evidence Scientists adopt a sceptical attitude to claims and evaluate them using evidence. 
+Some claims cannot be tested using verifiable evidence, so cannot be falsified. 
+They are therefore not scientific. Scientific knowledge must be supported by 
+evidence.
+Theories Scientists develop general explanations that are widely applicable, based on 
+observed patterns or tested hypotheses. Predictions can be generated from these 
+theories by deductive reasoning. If these predictions are tested, they may 
+corroborate a theory or show that it is false and should be rejected. Paradigm shifts 
+take place when a new theory replaces an old one. The term “law” is sometimes 
+used for statements that allow predictions to be made about natural phenomena 
+without explaining them.
+Falsification Scientists can use evidence to falsify a claim formulated as a hypothesis, theory or 
+model, but they cannot prove with certainty that such a claim is true. There is 
+therefore inherent uncertainty in all scientific knowledge. Nonetheless, many 
+theories in science are corroborated by strong evidence and allow for prediction 
+and explanation. Scientists must remain open-minded with respect to new 
+evidence.
+Nature of science
+7Physics guide
+
+\n--- PAGE 14 ---\nAspects How are scientific knowledge claims generated, tested, communicated, 
+evaluated and used? What issues arise from these actions?
+Science as a shared 
+endeavour
+Scientists communicate and collaborate throughout the world. Agreed 
+conventions and common terminology facilitate unambiguous communication. 
+Peer review is essential to verify the research methods of knowledge claims prior 
+to their publication in journals.
+Global impact of 
+science
+Scientists have an obligation to assess the risks associated with their work and 
+must aim to do no harm. Developments in science may have ethical, 
+environmental, political, social, cultural and economic consequences that must be 
+considered during decision-making. The pursuit of science may have unintended 
+consequences. Research proposals are often filtered through ethics boards. 
+Scientists have a responsibility to communicate their findings to the public with 
+honesty and clarity.
+How is NOS different from TOK?
+In contrast to the specificity of understanding of science, the TOK course encourages students to think 
+critically about the concepts that underpin knowledge production. For example, peer review is used as a 
+tool to support objectivity in scientific research. Through the study of TOK, students question the 
+limitations of the peer review process and extend their thinking to an assessment of objectivity in other 
+areas of knowledge.
+Nature of science
+8 Physics guide
+
+\n--- PAGE 15 ---\nWhat is physics?
+To study physics is to attempt to understand the nature of the universe itself. It is the search for answers 
+from how the universe exploded into life in the Big Bang to what the nature of time is itself. Some of the 
+greatest discoveries in history have been made by physicists and these discoveries have revolutionized our 
+world—and physicists are continuing to change the way we think today.
+Physics encompasses everything that we do as human beings. The very meaning of the word is “the study 
+of nature”. Indeed, when the discipline was first defined, it was about observing the Milky Way, the entire 
+known universe at the time, while wondering about the existence of the atom. As with the universe, physics 
+knowledge is constantly expanding. The existence of black holes, gravitational forces so strong that even 
+light is unable to escape, was first theorized in the 18th century. In 2019, an image of a black hole was 
+captured for the first time.
+However, physics is not just about staring into the vastness of space or scrutinizing the tiniest particles that 
+make up the fabric of the universe. The fact is that discoveries in physics are the root of ideas that 
+revolutionize the technology used in our daily lives. It is an everyday, grounded science encompassing 
+advances in communication, medical technology and renewable energy.
+It is above all a creative discipline. Physics requires solid knowledge of basic principles and a willingness to 
+put them to the test in new ways. It requires curiosity and an appetite to explore what might be.
+Creativity is essential to particle physics, cosmology, and to mathematics, and to other fields of 
+science, just as it is to its more widely acknowledged beneficiaries—the arts and humanities.
+Lisa Randall
+Look up at the stars and not down at your feet … Be curious.
+Stephen Hawking
+What do physicists do?
+To put it succinctly, physicists seek to expand knowledge. They work to test hypotheses and explain 
+observations. They use the results to build evidence, which ultimately leads to discoveries. These are 
+scrutinized by the scientific community and, if accepted, become knowledge. This progression is a process 
+of continuous succession of inquiry questions which when answered, raise new ones, leading to further 
+inquiry, further explorations, further discoveries and the deepening of knowledge. This collective work by 
+the scientific community is one of the features of “doing” physics.
+The process of doing physics never ends. Even the soundest findings are subject to rigorous questions and 
+further scientific exploration. Physicists constantly test and re-evaluate accepted truths. Knowledge is 
+constantly scrutinized and rechecked, and therefore, confirmed or rejected by fresh insights. It is in this 
+manner that objective experiments are subjectively experienced by scientists who repeat them to confirm 
+the value of what is transmitted, constituting the essence of the scientific experience.
+Facts are not science—as the dictionary is not literature.
+Martin H. Fischer
+…it is worthwhile rechecking by new direct experience, and not necessarily trusting the … 
+experience from the past.
+Richard Feynman
+Introduction
+Nature of physics
+9Physics guide
+
+\n--- PAGE 16 ---\nHow do physicists do physics?
+This question is the subject of heated debate in the world of education. Some argue that the “doing” of 
+physics is a set of fixed steps to construct scientific methods around arguments. Beyond the debate, the 
+way scientists work and construct knowledge is, in the words of John Dewey more than a hundred years 
+ago, “the only method of thinking that has proved fruitful in any subject”.
+There is an even simpler summary of how physicists do physics: “Write down the problem, think hard, write 
+down the answer” (Richard Feynman). This—considered alongside Albert Einstein’s famous 
+pronouncement that “Imagination is more important than knowledge”—is an excellent overview of the 
+general features of a physicist’s work. In summary, they collect evidence to reach partial conclusions that 
+eventually might be accepted as laws or explanatory theories.
+However, physicists also create models. These could be mathematical equations, analogies or physical 
+representations. They take different formats, some more abstract than others, but they all aim at the same 
+objective—to mediate and enable understanding.
+In laboratories all over the world, physicists are working on exploring the boundaries of long-established 
+disciplines like mechanics and electromagnetism. Meanwhile, physicists explore new frontiers of 
+understanding as varied as the existence of gravitational waves, the path to artificial intelligence, 
+sustainable energy sources on earth and the expansion of travel into space. There are almost no limits to 
+the areas where physics is relevant today.
+Equipped with his five senses, man explores the universe around him and calls the adventure 
+Science.
+Edwin Powell Hubble
+Physics is really nothing more than a search for ultimate simplicity, but so far all we have is a kind 
+of elegant messiness.
+Bill Bryson
+Distinction between SL and HL
+Students at SL and HL share the following.
+• An understanding of science through a stimulating experimental programme
+• The nature of science as an overarching theme
+• The study of a concept-based syllabus
+• One piece of internally assessed work, the scientific investigation
+• The collaborative sciences project
+The SL course provides students with a fundamental understanding of physics and experience of the 
+associated skills. The HL course requires students to increase their knowledge and understanding of the 
+subject, and so provides a solid foundation for further study at university level.
+The SL course has a recommended 150 teaching hours, compared to 240 hours for the HL course. This 
+difference is reflected in the additional content studied by HL students. Some of the HL content is 
+conceptually more demanding and explored in greater depth. The distinction between SL and HL is 
+therefore one of both breadth and depth. The increased breadth and depth at HL result in increased 
+networked knowledge, requiring the student to make more connections between diverse areas of the 
+syllabus.
+Physics and the core
+Physics and theory of knowledge
+The TOK course plays a special role in the DP by providing opportunities for students to reflect on the 
+nature, scope and limitations of knowledge and the process of knowing through an exploration of 
+knowledge questions.
+Nature of physics
+10 Physics guide
+
+\n--- PAGE 17 ---\nThe areas of knowledge (AOK) are specific branches of knowledge, each of which can be seen to have a 
+distinct nature and sometimes use different methods of gaining knowledge. In TOK, students explore five 
+compulsory AOK: history, the human sciences, the natural sciences, mathematics and the arts.
+There are several different ways in which aspects of the physics course can be connected to the exploration 
+of knowledge. During the teaching and learning of the physics course, teachers and students evaluate 
+knowledge claims by exploring questions concerning their validity, reliability, credibility and certainty, as 
+well as individual and cultural perspectives on them.
+Exploration of the relationship between knowledge and TOK concepts can help students to deepen their 
+understanding and make connections between disciplines. For example, while discussing the depletion of 
+energy sources and the constant need for new energy resources to meet energy demands, students can 
+explore the concepts of responsibility, power and justification.
+Many aspects of the physics course lend themselves to the exploration of knowledge questions. Some 
+examples are provided in the following table.
+Table 2
+Examples of knowledge questions
+Learning opportunities Knowledge question
+Expressing laws as formulas Can all knowledge be expressed in words or symbols?
+Time dilation What is the role of imagination and intuition in the creation of 
+hypotheses in the natural sciences?
+Analysis of light from distant 
+galaxies using spectroscopy
+How do the tools that we use shape the knowledge that we 
+produce?
+Classification of star types To what extent do the classification systems we use in the pursuit of 
+knowledge affect the conclusions that we reach?
+The shift from the world of classical 
+physics to the quantum world
+How can it be that scientific knowledge changes over time?
+What role do paradigm shifts play in the progression of scientific 
+knowledge?
+For more information, please refer to the Theory of knowledge guide and the Theory of knowledge teacher 
+support material.
+Physics and the extended essay
+Students who choose to write an EE in physics undertake independent research as part of an in-depth study 
+of a focused topic. The topic for study may be generated from the physics course or may relate to a subject 
+area beyond the syllabus content. This detailed study will help develop research, thinking, self-
+management and communication skills, which will support students’ learning in the physics course, and in 
+further studies.
+Examples of areas for research topics
+• Fluid dynamics: time it takes to empty a water can via a small opening at the bottom of the can.
+• Sound waves: analysis of harmonics of a note played with a musical instrument using fast Fourier 
+Transform or the waveforms of the same musical note played on different musical instruments.
+• Induced emf: maximum emf induced in a small rectangular coil fixed into position between the poles 
+of a horseshoe magnet sitting at the centre of a rotating turntable.
+Students and supervisors must ensure that an EE does not duplicate other work submitted for the diploma.
+For more information, please refer to the Extended essay guide and the Extended essay teacher support 
+material.
+Nature of physics
+11Physics guide
+
+\n--- PAGE 18 ---\nPhysics and creativity, activity, service
+The CAS component of the DP core provides many opportunities for students to link science concepts and 
+topics to practical experiences. Teachers can highlight how knowledge and understanding developed 
+through the course might inform meaningful experiences. Outside the classroom, CAS experiences might 
+also ignite students’ passion for addressing topics inside the physics classroom.
+Some examples of relevant CAS experiences are as follows.
+• Organizing a science club for students in lower years
+• Implementing environmental initiatives within the school or local community, such as recycling, 
+composting and roof gardens
+• Organizing or participating in a social media outreach or advocacy campaign, for example, on an 
+environmental or health concern
+CAS experiences can be a single event or may be an extended series of events. It is important that CAS 
+experiences be distinct from and not submitted as part of a physics assessment.
+For more information, please refer to the Creativity, activity, service guide and the Creativity, activity, service 
+teacher support material.
+Physics and international-mindedness
+Science has been, and continues to be, a truly international endeavour. From the beginnings of seismology 
+in China, through material science in Mesopotamia to astronomy in the Islamic Golden Age, the search for 
+an objective understanding of the natural world transcends the limitations imposed by national 
+boundaries. The scientific process, requiring curiosity, insight and an open-minded approach, benefits from 
+the widest possible participation across genders and cultures through inclusivity and diversity.
+Given the global nature of many scientific issues, international organizations often have a focus on the 
+engagement of science with the public domain. The World Health Organization and the Intergovernmental 
+Panel on Climate Change are two well-known examples that model a responsibility to inform nations of 
+scientific progress on an equitable basis. Underlying this responsibility is the interest of promoting a 
+peaceful and sustainable future.
+Advancements in technology, along with the cost of modern research facilities, continues to reinforce the 
+role of international collaborative work. The project between the Joint Institute of Nuclear Research in 
+Russia and the Lawrence Livermore National Laboratory in the USA to provide evidence for the existence of 
+element 118, oganesson, is a good example of international collaboration.
+The importance of collaboration in contemporary science is reflected by the large number of international 
+organizations tasked with collating and sharing data with the scientific community. Access to shared 
+knowledge through websites and databases must be integrated into classroom teaching as it plays an 
+important role in validating experimental work.
+In addition to integrating technology and collaborative work, the collaborative sciences project provides an 
+excellent opportunity for students to engage with global issues.
+Physics and the IB learner profile
+Each box provides an example of how each learner profile attribute could be modelled by learners and 
+teachers.
+Example attribute
+• Learners who best embody the attribute with reference to science.
+• Directing teachers with possible routes to develop the attribute in the classroom.
+• Practical ways in which learners demonstrate the attribute in the process of “doing” science.
+Nature of physics
+12 Physics guide
+
+\n--- PAGE 19 ---\nAttributes of the IB learner profile
+Inquirer
+• Inquirers are curious, they actively use research skills, work independently and show enthusiasm 
+about the world around them.
+• Teachers facilitate skill development and promote inquiry; they provide students with opportunities 
+to ask questions, search for answers, and experiment.
+• Learners use their inquiry skills to extend their scientific knowledge and engage with research.
+Knowledgeable
+• Learners explore concepts, ideas and issues related to science in order to broaden and deepen their 
+understanding of factual and procedural knowledge.
+• Access to a variety of resources and opportunities provides learner agency to develop scientific 
+knowledge and understanding.
+• Learners apply their knowledge to unfamiliar contexts and make connections between concepts and 
+facts to illustrate their understanding of science.
+Thinker
+• Learners are eager to solve complex problems and reflect on their thinking strategies.
+• Teachers provide opportunities for learners to critically analyse their approaches and methods and 
+deepen their understanding of science, allowing them to be creative in finding solutions to problems.
+• Learners practise reasoning and critical thinking by testing assumptions, formulating hypotheses, 
+interpreting data and drawing conclusions from the evidence provided.
+Communicator
+• Learners collaborate effectively with others and use a variety of modes of communication to express 
+their ideas and opinions.
+• Teachers facilitate group work, encourage open discussions and the use of the scientific language to 
+provide models for successful communication.
+• Learners demonstrate effective communication skills as part of collaborative activities through 
+listening to others and sharing ideas.
+Principled
+• Learners take responsibility for their work, promote shared values and act in an ethical manner.
+• Teachers can provide opportunities to model principled behaviour including acknowledging the 
+work of others and citing sources. The collaborative sciences project provides opportunities for 
+learners to take a principled stance.
+• Learners appreciate the importance of integrity in data collection and consider all data, even that 
+which does not match their original hypothesis.
+Open-minded
+• Open-minded learners accept that different perspectives, models or hypotheses exist, and these can 
+be used to enhance scientific understanding.
+• Teachers can provide models that were at the time supported by data or observations, but through 
+reasoning, deduction or falsification may be rejected or refined.
+Nature of physics
+13Physics guide
+
+\n--- PAGE 20 ---\nOpen-minded
+• Learners need to be prepared to have their perspectives and ideas challenged through the study of 
+science.
+Caring
+• Learners act to protect the environment and to improve the lives of others.
+• Teachers can draw attention to how daily choices have consequences by challenging learners to 
+adopt sustainable practice and providing support to help fellow learners. Reference should be made 
+to the Sciences experimentation guidelines.
+• Learners can connect curriculum content to global challenges such as healthcare, energy supply or 
+food production. The collaborative sciences project provides an opportunity for learners to support 
+each other to enable their group to achieve their goal successfully.
+Risk-taker
+• Risk-takers seek new opportunities to develop their learning and explore new approaches to solve 
+problems. They actively thrive on challenges.
+• Teachers can provide support and guidance for learners, encouraging them to explore new 
+techniques or methods of learning. This might include scaffolds for the use of language, the design of 
+experiments and the analysis of data. As learners grow in confidence, these supports can be phased 
+out giving them more freedom to choose their own approach.
+• Learners should be prepared for the next set of experimental data to falsify their ideas as uncertainty 
+is a feature of science. They understand that this is a step forward in their understanding.
+Balanced
+• Balanced learners look holistically at all aspects of their development and ensure that various tasks 
+are given appropriate attention without focusing on one to the detriment of others.
+• Teachers should encourage learners to consider a balanced perspective on scientific issues without 
+bias.
+• Learners need to organize their own time effectively, giving themselves sufficient time to complete 
+all parts of their learning without negatively impacting on the emotional and social aspects of their 
+lives.
+Reflective
+• Reflective learners consider why and how they achieve success, and also how they could change their 
+approach when learning is difficult.
+• Teachers provide opportunities for learners to continually review strategies, methods, techniques 
+and approaches to problem-solving in order to improve their conceptual understandings in science. 
+Assessment criteria or checklists can help learners to consider the quality of their work in a guided 
+way.
+• Learners develop skills and concepts throughout the course, networking their knowledge by 
+continually reflecting on their understanding.
+Nature of physics
+14 Physics guide
+
+\n--- PAGE 21 ---\nThe approaches to learning framework
+What are approaches to learning skills and why do we teach them?
+The approaches to learning (ATL) framework seeks to develop in students affective, cognitive and 
+metacognitive skills that will support their learning processes during and beyond their IB experience. The 
+development of ATL skills is closely connected with the IB learner profile attributes and therefore helps to 
+advance the IB mission. The ATL skills are an integral part of IB learning and teaching that should be 
+developed across the whole programme—it is not expected that a single course should ever address all of 
+them.
+How are they organized?
+The ATL framework for IB programmes consists of five general skill categories: thinking skills, 
+communication skills, social skills, research skills and self-management skills. Each of these categories 
+covers a broad range, as shown by the examples presented in the table below. The ATL skill categories are 
+closely linked and interrelated and therefore individual skills may be relevant to more than one category.
+How do we teach them?
+ATL skills can be learned and taught, improved with practice and developed incrementally. The table below 
+illustrates, through a number of examples, how the physics course can support ATL skill development. The 
+examples shown in the table are not exhaustive. Teachers are encouraged to adapt them for use in their 
+school context and collaboratively identify further examples of ATL skill development.
+Further information on the ATL framework and strategies for the development of the ATL skills can be 
+found in the Physics teacher support material and the Diploma Programme Approaches to teaching and 
+learning website.
+Table 3
+ATL skills and development
+Skill category Examples of ATL skill development in the classroom
+Thinking skills • Being curious about the natural world
+• Asking questions and framing hypotheses based upon sensible scientific 
+rationale
+• Designing procedures and models
+• Reflecting on the credibility of results
+• Providing a reasoned argument to support conclusions
+• Evaluating and defending ethical positions
+• Combining different ideas in order to create new understandings
+• Applying key ideas and facts in new contexts
+• Engaging with, and designing, linking questions
+• Experimenting with new strategies for learning
+• Reflecting at all stages of the assessment and learning cycle
+Communication skills • Practising active listening skills
+Introduction
+Approaches to the teaching and learning of physics
+15Physics guide
+
+\n--- PAGE 22 ---\nSkill category Examples of ATL skill development in the classroom
+• Evaluating extended writing in terms of relevance and structure
+• Applying interpretive techniques to different forms of media
+• Reflecting on the needs of the audience when creating engaging 
+presentations
+• Clearly communicating complex ideas in response to open-ended 
+questions
+• Using digital media for communicating information
+• Using terminology, symbols and communication conventions consistently 
+and correctly
+• Presenting data appropriately
+• Delivering constructive criticism appropriately
+Social skills • Working collaboratively to achieve a common goal
+• Assigning and accepting specific roles during group activities
+• Appreciating the diverse talents and needs of others
+• Resolving conflicts during collaborative work
+• Actively seeking and considering the perspective of others
+• Reflecting on the impact of personal behaviour or comments on others
+• Constructively assessing the contribution of peers
+Research skills • Evaluating information sources for accuracy, bias, credibility and 
+relevance
+• Explicitly discussing the importance of academic integrity and full 
+acknowledgement of the ideas of others
+• Using a single, standard method of referencing and citation
+• Comparing, contrasting and validating information
+• Using search engines and libraries effectively
+Self-management skills • Breaking down major tasks into a sequence of stages
+• Being punctual and meeting deadlines
+• Taking risks and regarding setbacks as opportunities for growth
+• Avoiding unnecessary distractions
+• Drafting, revising and improving academic work
+• Setting learning goals and adjusting them in response to experience
+• Seeking and acting on feedback
+Experimental programme
+Integral to the student experience of a physics course is the learning that takes place through scientific 
+inquiry within the classroom, laboratory or in the field. Experimentation through a variety of forms can be 
+used to introduce a topic, address a phenomenon or allow students to consider and examine authentic 
+questions and curiosities.
+A school’s experimental programme should allow students to experience the full breadth and depth of the 
+course, develop scientific skills and demonstrate safe, competent and methodical use of a range of tools, 
+techniques and equipment. Students should therefore be encouraged to develop investigations to support 
+their learning through open-ended inquiry with a focus on laboratory and fieldwork experiments, 
+databases, simulations and modelling.
+Approaches to the teaching and learning of physics
+16 Physics guide
+
+\n--- PAGE 23 ---\nConceptual learning
+Concept-based teaching and learning is encouraged across the continuum of IB programmes.
+Concepts are mental representations of categories. They are constructed, modified and activated by the 
+learner through learning experiences. Concepts do not exist in isolation but are interrelated. Conceptual 
+understanding is always a work in progress—it is continually being developed and refined.
+Conceptual understanding is therefore an outcome of a non-linear, ongoing process of evolving 
+understandings, adapting previous understandings, and identifying and dispelling misconceptions. It 
+consists of making connections between prior and new knowledge to construct and build an awareness of 
+this network of knowledge.
+Concepts vary in their level of abstraction and universality.
+• They can be organizing ideas that are applicable in many contexts and have relevance both within and 
+across subject areas.
+• They can provide a deep understanding of specific knowledge fields (or fields of knowledge) and help 
+to organize knowledge further, as well as reveal connections between different areas of the subject.
+For example, consider the following sequence of three concepts.
+Change > Energy > Thermal radiation
+Thermal radiation is a component in the understanding of energy, which in turn helps to develop an 
+understanding of change in physics.
+Outcomes of a concept-based approach
+Fostering critical thinking, the outcome of a concept-based approach is that students are able to:
+• identify examples of a concept
+• organize, reflect on, modify and expand their network of knowledge
+• apply concepts to existing and future knowledge
+• apply their conceptual understanding as a scientific thinking tool for predicting outcomes, justifying 
+conclusions and evaluating knowledge claims.
+Structure of the syllabus and conceptual understanding
+The structure of this physics syllabus is intended to promote concept-based learning and teaching that can 
+be connected through three concepts: energy, particles and forces. These three concepts appear 
+throughout the physics syllabus in each of the themes.
+There are five organizing themes in the physics syllabus.
+A. Space, time and motion
+B. The particulate nature of matter
+C. Wave behaviour
+D. Fields
+E. Nuclear and quantum physics
+The themes have been chosen to represent the main areas of physics relevant for this level of study and do 
+not suggest a teaching order.
+Each of these themes is subdivided into topics. “Space, time and motion” includes the topics of kinematics 
+and rigid body mechanics, “Fields” includes the topics of gravitational fields and induction, “Nuclear and 
+quantum physics” includes the topics of radioactive decay and fission. Each of the topics comprises guiding 
+questions, recommended teaching hours for each level, a list of understandings that students should know, 
+guidance and linking questions.
+The topics can be connected through three concepts: energy, particles and forces. Each topic is headed by 
+guiding questions to give a sense of what is covered. The purpose of these guiding questions is to promote 
+Approaches to the teaching and learning of physics
+17Physics guide
+
+\n--- PAGE 24 ---\ninquiry: they are therefore not straightforward and best answered once the associated understandings have 
+been acquired. Teachers and students are encouraged to create their own guiding questions based on the 
+content of units of study.
+Linking questions strengthen students’ understanding by making connections. Linking questions are 
+intended to promote the skills in the study of physics and highlight links between different topics. The 
+questions encourage students to look at a topic from a range of different perspectives, originating in 
+another part of the course. Linking questions are designed to facilitate these connections and their ideal 
+outcome is to promote a highly networked understanding of physics. For example, when considering the 
+processes within a nuclear fission plant, students can make the connections from the structure of the 
+nucleus via the release of kinetic energy in the form of neutrons, all the way through to the generation of 
+electricity. By looking at this process through the concept of energy, transformation and conservation laws 
+are also highlighted, which further connect to other areas of physics. The linking questions found in the 
+guide are not exhaustive. Students and teachers may well encounter other connections between 
+understandings and concepts in the syllabus, leading to additional linking questions.
+Teaching physics in context
+The study of physics enables constructive engagement with topical scientific issues. By contextualizing 
+physics concepts, scientific knowledge claims can be evaluated more effectively, and informed choices on 
+such issues as human health and the environment can be made. Physics research has brought innovation 
+and benefit to many fields and continues to be at the heart of seeking effective solutions to many global 
+challenges. It is therefore important to explore applications of physics in our world while teaching the 
+course to elicit interest, understanding and curiosity.
+Teaching the content of the course in relation to specific contexts supports the pedagogical principle of 
+teaching in local and global contexts as part of the approaches to teaching framework and offers a number 
+of advantages. First, it helps students relate their learning to genuine applications of physics, highlighting 
+the relevance to global issues as well as the significance in students’ own contexts. Second, it develops an 
+appreciation for the interaction between scientific solutions and their implications, be it ethical, 
+environmental or economic. Third, it helps to illustrate some of the NOS aspects underpinning the course.
+The Physics teacher support material highlights possible areas that could be visited throughout the course 
+and that may provide context for some topics to stimulate the application of ideas and problem-solving 
+skills. Consideration of these and related areas may help provide ideas for the scientific investigation, the 
+collaborative sciences project, TOK exhibition, CAS, or an EE in physics or world studies.
+Engaging with sensitive topics
+Students and teachers are encouraged to engage with exciting, stimulating and personally relevant topics 
+and issues that may be, at times, sensitive or personally challenging. Teachers should be aware of this and 
+provide guidance on how to engage with such topics in a responsible manner. Consideration should be 
+given to the personal, political and spiritual values of others.
+Prior learning
+Past experience shows that students will be able to study physics at SL successfully with no background in, 
+or previous knowledge of, science. Their approach to learning, characterized by the IB learner profile 
+attributes, will be significant here.
+However, for most students considering the study of physics at HL, while there is no intention to restrict 
+access, some previous exposure to formal science education would be necessary. Specific topic details are 
+not specified but students who have undertaken the IB Middle Years Programme (MYP) or studied an 
+equivalent national science qualification or a school-based science course would be well prepared for an HL 
+subject.
+Approaches to the teaching and learning of physics
+18 Physics guide
+
+\n--- PAGE 25 ---\nLinks to the Middle Years Programme
+The MYP sciences courses seek to promote skills and attitudes needed to apply scientific knowledge in 
+theoretical, experimental and authentic contexts. A strong foundation is established for DP sciences in 
+which learners will capitalize on—and continue advancing—their skills and attitudes to develop 
+knowledge and understanding commensurate with pre-university level science.
+The MYP offers a framework for learning and teaching while maintaining flexibility with curriculum content. 
+The content in MYP sciences courses can therefore vary greatly from one school to another. Content in DP 
+sciences courses is more prescribed, and this is one of the main differences teachers will notice when 
+comparing the two programmes.
+A connected, conceptual curriculum where learning is inquiry-based and contextualized is the pedagogical 
+principle that underpins both programmes and indeed the entire IB continuum (International 
+Baccalaureate, 2019).
+Conceptual learning focuses on organizing ideas and their interconnections. A conceptual approach is 
+encouraged in IB programmes because it promotes deep learning and facilitates the construction of further 
+knowledge. Conceptual understanding aids the application of knowledge in unfamiliar and novel contexts. 
+This skill is reflected in the aims and assessment objectives of both programmes.
+Broad concepts frame MYP learning and teaching with the purpose of unifying ideas across subject areas. 
+Discipline-specific related concepts are intended to provide disciplinary depth (International Baccalaureate, 
+2014). Key and related concepts are not required in the DP, although some teachers may find that they wish 
+to continue developing a curriculum around them. In DP sciences, overarching concepts are manifested in 
+the course roadmaps and the NOS. DP sciences seek to highlight the interconnectedness of the course 
+understandings. The intention is to promote conceptual understanding and further the construction of 
+learners’ knowledge networks.
+Both MYP and DP teaching involve inquiry-based approaches, which foster a high degree of student 
+engagement, collaboration and interaction. The inquiry, design, experimental, analysis, evaluation and 
+communication skills encouraged by criteria B and C will serve students well as they prepare to undertake 
+the scientific investigation for the internal assessment (IA). In addition, MYP students will gain familiarity 
+with criterion-related assessment and the use of assessment criteria, which will further support their 
+understanding of the DP sciences IA criteria.
+IB programmes encourage the exploration of scientific principles in connection to local and global contexts. 
+Doing so helps students ground abstract concepts in more concrete local and global real-world situations 
+as well as cultivating international-mindedness (see the “Approaches to teaching” section in Diploma 
+Programme Approaches to teaching and learning website). Teachers should therefore weave opportunities for 
+contextualization into the curriculum. MYP sciences criterion D analyses the real-world application of 
+science. In the DP, sciences teachers are encouraged to frequently anchor their teaching in real-world 
+applications that are invoked throughout the course of the programme.
+In addition to equipping students with scientific knowledge and skills, the MYP and DP sciences courses 
+share similar guiding principles that seek to develop in students the learner profile attributes.
+Links to the Career-related Programme
+In the Career-related Programme (CP), students study at least two DP subjects, a core consisting of four 
+components and a career-related study, which is determined by the local context and aligned with student 
+needs. The CP has been designed to add value to the students’ career-related studies. This provides the 
+context for the choice of DP courses. The physics course can assist CP students planning careers in a variety 
+of professional fields where, for example, a sound understanding of science and mathematical skills are 
+important. This includes technological and manufacturing industries, and engineering. While physics helps 
+students understand the underlying science in the contemporary world, it also encourages the 
+development of strong problem-solving, critical thinking and ethical approaches that will assist students in 
+the global workplace.
+Approaches to the teaching and learning of physics
+19Physics guide
+
+\n--- PAGE 26 ---\nThe collaborative sciences project is an interdisciplinary sciences project, providing a worthwhile challenge 
+to DP and CP students, addressing real-world problems that can be explored through the sciences. The 
+nature of the challenge should allow students to integrate factual, procedural and conceptual knowledge 
+developed through the study of their disciplines.
+Through the identification and research of complex issues, students can develop an understanding of how 
+interrelated systems, mechanisms and processes impact a problem. Students will then apply their collective 
+understanding to develop solution-focused strategies that address the issue. With a critical lens they will 
+evaluate and reflect on the inherent complexity of solving real-world problems.
+Students will develop an understanding of the extent of global interconnectedness between regional, 
+national, and local communities, which will empower them to become active and engaged citizens of the 
+world. While addressing local and global issues, students will appreciate that the issues of today exist across 
+national boundaries and can only be solved through collective action and international cooperation.
+The collaborative sciences project supports the development of students’ ATL skills, including 
+teambuilding, negotiation and leadership. It facilitates an appreciation of the environment, and the social 
+and ethical implications of science and technology.
+Full details of the requirements are in the Collaborative sciences project guide.
+Introduction
+Collaborative sciences project
+20 Physics guide
+
+\n--- PAGE 27 ---\nThe course enables students, through the overarching theme of the NOS, to:
+1. develop conceptual understanding that allows connections to be made between different areas of the 
+subject, and to other DP sciences subjects
+2. acquire and apply a body of knowledge, methods, tools and techniques that characterize science
+3. develop the ability to analyse, evaluate and synthesize scientific information and claims
+4. develop the ability to approach unfamiliar situations with creativity and resilience
+5. design and model solutions to local and global problems in a scientific context
+6. develop an appreciation of the possibilities and limitations of science
+7. develop technology skills in a scientific context
+8. develop the ability to communicate and collaborate effectively
+9. develop awareness of the ethical, environmental, economic, cultural and social impact of science.
+Introduction
+Aims
+21Physics guide
+
+\n--- PAGE 28 ---\nThe assessment objectives for physics reflect those parts of the aims that will be formally assessed either 
+internally or externally. It is the intention of this course that students are able to fulfil the following 
+assessment objectives.
+1. Demonstrate knowledge of:
+a. terminology, facts and concepts
+b. skills, techniques and methodologies.
+2. Understand and apply knowledge of:
+a. terminology and concepts
+b. skills, techniques and methodologies.
+3. Analyse, evaluate, and synthesize:
+a. experimental procedures
+b. primary and secondary data
+c. trends, patterns and predictions.
+4. Demonstrate the application of skills necessary to carry out insightful and ethical investigations.
+Introduction
+Assessment objectives
+22 Physics guide
+
+\n--- PAGE 29 ---\nAssessments align with the course’s aims, objectives and conceptual approach; the NOS and subject-
+specific skills are also assessed. This allows students to demonstrate learning effectively through varied 
+tasks that are reliably and accurately marked or moderated by subject-area educators and experts.
+Assessment objective Which component addresses 
+this assessment objective?
+How is the assessment objective 
+addressed?
+AO1 Demonstrate knowledge Paper 1
+Paper 2
+Scientific investigation
+Students respond to a range of 
+multiple-choice, short-answer 
+questions and extended-response 
+questions.
+Students investigate and answer a 
+research question that is their 
+own.
+AO2 Understand and apply 
+knowledge
+Paper 1
+Paper 2
+Scientific investigation
+Students respond to a range of 
+multiple-choice, short-answer, 
+data-based and extended-
+response questions.
+Students investigate and answer a 
+research question that is their 
+own.
+AO3 Analyse, evaluate, and 
+synthesize
+Paper 1
+Paper 2
+Scientific investigation
+Students respond to a range of 
+multiple-choice, short-answer, 
+data-based and extended-
+response questions.
+Students investigate and answer a 
+research question that is their 
+own.
+AO4 Demonstrate the application 
+of skills necessary to carry out 
+insightful and ethical 
+investigations
+Scientific investigation Students investigate and answer a 
+research question that is their 
+own.
+Component Approximate weighting of assessment objectives (%)
+AO1 + AO2 AO3
+Paper 1 50 50
+Paper 2 50 50
+Internal assessment Covers AO1, AO2, AO3 and AO4
+Introduction
+Assessment objectives in practice
+23Physics guide
+
+\n--- PAGE 30 ---\nSyllabus component Teaching hours
+SL HL
+Syllabus content
+A. Space, time and motion
+B. The particulate nature of matter
+C. Wave behaviour
+D. Fields
+E. Nuclear and quantum physics
+110
+27
+24
+17
+19
+23
+180
+42
+32
+29
+38
+39
+Experimental programme
+Practical work
+Collaborative sciences project
+Scientific investigation
+40
+20
+10
+10
+60
+40
+10
+10
+Total teaching hours 150 240
+The recommended teaching time is 150 hours to complete SL courses and 240 hours to complete HL 
+courses as stated in the general regulations (in Diploma Programme Assessment procedures).
+Syllabus
+Syllabus outline
+24 Physics guide
+
+\n--- PAGE 31 ---\nThe aim of the syllabus is to integrate concepts, topic content and the nature of science through inquiry. 
+Students and teachers are encouraged to personalize their approach to the syllabus according to their 
+circumstances and interests.
+Skills in the study of physics should be integrated into the teaching of the syllabus content.
+Table 4
+Physics syllabus content overview
+A. Space, time and 
+motion
+B. The particulate 
+nature of matter
+C. Wave behaviour D. Fields E. Nuclear and 
+quantum physics
+A.1 Kinematics •
+A.2 Forces and 
+momentum •
+A.3 Work, energy 
+and power •
+A.4 Rigid body 
+mechanics •••
+A.5 Galilean and 
+special relativity •••
+B.1 Thermal energy 
+transfers •
+B.2 Greenhouse 
+effect •
+B.3 Gas laws •
+B.4 
+Thermodynamics •••
+B.5 Current and 
+circuits •
+C.1 Simple 
+harmonic motion ••
+C.2 Wave model •
+C.3 Wave 
+phenomena ••
+C.4 Standing waves 
+and resonance •
+C.5 Doppler effect ••
+D.1 Gravitational 
+fields ••
+D.2 Electric and 
+magnetic fields ••
+D.3 Motion in 
+electromagnetic 
+fields •
+D.4 Induction •••
+E.1 Structure of the 
+atom ••
+E.2 Quantum 
+physics •••
+E.3 Radioactive 
+decay ••
+E.4 Fission •
+E.5 Fusion and stars 
+•
+• Topics with content that should be taught to all students
+•• Topics with content that should be taught to all students plus additional HL content
+••• Topics with content that should only be taught to HL students
+Syllabus
+Syllabus roadmap
+25Physics guide
+
+\n--- PAGE 32 ---\nSyllabus
+Syllabus format
+26 Physics guide
+
+\n--- PAGE 33 ---\nThe skills and techniques students must experience through the course are encompassed within the tools. 
+These support the application and development of the inquiry process in the delivery of the physics course.
+Tools
+• Tool 1: Experimental techniques
+• Tool 2: Technology
+• Tool 3: Mathematics
+Inquiry process
+• Inquiry 1: Exploring and designing
+• Inquiry 2: Collecting and processing data
+• Inquiry 3: Concluding and evaluating
+Teachers are encouraged to provide opportunities for students to encounter and practise the skills 
+throughout the programme. Rather than being taught as stand-alone topics, they should be integrated into 
+the teaching of the syllabus when they are relevant to the syllabus topics being covered. The skills in the 
+study of physics can be assessed through internal and external assessment.
+The approaches to learning provide the framework for the development of these skills.
+Syllabus
+Skills in the study of physics
+27Physics guide
+
+\n--- PAGE 34 ---\nFigure 2
+Skills for physics
+Tools
+Tool 1: Experimental techniques
+Skill Description
+Addressing safety of self, others 
+and the environment
+Recognize and address relevant safety, ethical or environmental issues 
+in an investigation.
+Measuring variables Understand how to accurately measure the following to an appropriate 
+level of precision.
+• Mass
+• Time
+• Length
+• Volume
+• Temperature
+• Force
+• Electric current
+• Electric potential difference
+Skills in the study of physics
+28 Physics guide
+
+\n--- PAGE 35 ---\nSkill Description
+• Angle
+• Sound and light intensity
+Tool 2: Technology
+Skill Description
+Applying technology to collect 
+data
+• Use sensors.
+• Identify and extract data from databases.
+• Generate data from models and simulations.
+• Carry out image analysis and video analysis of motion.
+Applying technology to process 
+data
+• Use spreadsheets to manipulate data.
+• Represent data in a graphical form.
+• Use computer modelling.
+Tool 3: Mathematics
+Skill Description
+Applying general mathematics • Use basic arithmetic and algebraic calculations to solve problems.
+• Calculate areas and volumes for simple shapes.
+• Carry out calculations involving decimals, fractions, percentages, 
+ratios, reciprocals, exponents and trigonometric ratios.
+• Carry out calculations involving logarithmic and exponential 
+functions.
+• Determine rates of change.
+• Calculate mean and range.
+• Use and interpret scientific notation (for example, 3.5 × 106).
+• Select and manipulate equations.
+• Derive relationships algebraically.
+• Use approximation and estimation.
+• Appreciate when some effects can be neglected and why this is 
+useful.
+• Compare and quote ratios, values and approximations to the 
+nearest order of magnitude.
+• Distinguish between continuous and discrete variables.
+• Understand direct and inverse proportionality, as well as positive 
+and negative relationships or correlations between variables.
+• Determine the effect of changes to variables on other variables in 
+a relationship.
+• Calculate and interpret percentage change and percentage 
+difference.
+• Calculate and interpret percentage error and percentage 
+uncertainty.
+• Construct and use scale diagrams.
+• Identify a quantity as a scalar or vector.
+Skills in the study of physics
+29Physics guide
+
+\n--- PAGE 36 ---\nSkill Description
+• Draw and label vectors including magnitude, point of application 
+and direction.
+• Draw and interpret free-body diagrams showing forces at point of 
+application or centre of mass as required.
+• Add and subtract vectors in the same plane (limited to three 
+vectors).
+• Multiply vectors by a scalar.
+• Resolve vectors (limited to two perpendicular components).
+Using units, symbols and 
+numerical values
+• Apply and use International System of Units (SI) prefixes and units.
+• Identify and use symbols stated in the guide and the data booklet.
+• Work with fundamental units.
+• Use of units (for example, eV, eVc –2, ly, pc, h, day, year) whenever 
+appropriate.
+• Express derived units in terms of SI units.
+• Check an expression using dimensional analysis of units (the 
+formal process of dimensional analysis will not be assessed).
+• Express quantities and uncertainties to an appropriate number of 
+significant figures or decimal places.
+Processing uncertainties • Understand the significance of uncertainties in raw and processed 
+data.
+• Record uncertainties in measurements as a range (±) to an 
+appropriate level of precision.
+• Propagate uncertainties in processed data in calculations 
+involving addition, subtraction, multiplication, division and raising 
+to a power.
+• Express measurement and processed uncertainties—absolute, 
+fractional (relative) and percentage—to an appropriate number of 
+significant figures or level of precision.
+Graphing • Sketch graphs, with labelled but unscaled axes, to qualitatively 
+describe trends.
+• Construct and interpret tables, charts and graphs for raw and 
+processed data including bar charts, pie charts, histograms, 
+scatter graphs and line and curve graphs.
+• Construct and interpret graphs using logarithmic scales.
+• Plot linear and non-linear graphs showing the relationship 
+between two variables with appropriate scales and axes.
+• Draw lines or curves of best fit.
+• Draw and interpret uncertainty bars.
+• Extrapolate and interpolate graphs.
+• Linearize graphs (only where appropriate).
+• On a best-fit linear graph, construct lines of maximum and 
+minimum gradients with relative accuracy (by eye) considering all 
+uncertainty bars.
+• Determining the uncertainty in gradients and intercepts.
+Skills in the study of physics
+30 Physics guide
+
+\n--- PAGE 37 ---\nSkill Description
+• Interpret features of graphs including gradient, changes in 
+gradient, intercepts, maxima and minima, and areas under the 
+graph.
+Inquiry process
+Inquiry 1: Exploring and designing
+Skill Description
+Exploring • Demonstrate independent thinking, initiative and insight.
+• Consult a variety of sources.
+• Select sufficient and relevant sources of information.
+• Formulate research questions and hypotheses.
+• State and explain predictions using scientific understanding.
+Designing • Demonstrate creativity in the designing, implementation and 
+presentation of the investigation.
+• Develop investigations that involve hands-on laboratory 
+experiments, databases, simulations and modelling.
+• Identify and justify the choice of dependent, independent and 
+control variables.
+• Justify the range and quantity of measurements.
+• Design and explain a valid methodology.
+• Pilot methodologies.
+Controlling variables Appreciate when and how to:
+• calibrate measuring apparatus, including sensors
+• maintain constant environmental conditions of systems
+• insulate against heat loss or gain
+• reduce friction
+• reduce electrical resistance
+• take background radiation into account.
+Inquiry 2: Collecting and processing data
+Skill Description
+Collecting data • Identify and record relevant qualitative observations.
+• Collect and record sufficient relevant quantitative data.
+• Identify and address issues that arise during data collection.
+Processing data • Carry out relevant and accurate data processing.
+Interpreting results • Interpret qualitative and quantitative data.
+• Interpret diagrams, graphs and charts.
+• Identify, describe and explain patterns, trends and relationships.
+• Identify and justify the removal or inclusion of outliers in data 
+(no mathematical processing is required).
+Skills in the study of physics
+31Physics guide
+
+\n--- PAGE 38 ---\nSkill Description
+• Assess accuracy, precision, reliability and validity.
+Inquiry 3: Concluding and evaluating
+Skill Description
+Concluding • Interpret processed data and analysis to draw and justify 
+conclusions.
+• Compare the outcomes of an investigation to the accepted 
+scientific context.
+• Relate the outcomes of an investigation to the stated research 
+question or hypothesis.
+• Discuss the impact of uncertainties on the conclusions.
+Evaluating • Evaluate hypotheses.
+• Identify and discuss sources and impacts of random and 
+systematic errors.
+• Evaluate the implications of methodological weaknesses, 
+limitations and assumptions on conclusions.
+• Explain realistic and relevant improvements to an investigation.
+Data booklet
+The IB publishes a Physics data booklet which contains electrical symbols, mathematical equations, 
+constants, and physics equations relevant to the course. Students must have access to a copy for the 
+duration of the course so that they can become familiar with its contents. Direct reference is made to 
+relevant equations in the understandings sections of the guide. This helps to maintain the emphasis on 
+interpretation and application rather than memorization of symbols, constants and equations. A clean copy 
+of the Physics data booklet must also be made available to candidates for all examination papers at both SL 
+and HL.
+Skills in the study of physics
+32 Physics guide
+
+\n--- PAGE 39 ---\nA. Space, time and motion
+A.1 Kinematics
+Guiding questions
+How can the motion of a body be described quantitatively and qualitatively?
+How can the position of a body in space and time be predicted?
+How can the analysis of motion in one and two dimensions be used to solve real-life problems?
+Understandings
+Standard level and higher level: 9 hours
+Students should understand:
+• that the motion of bodies through space and time can be described and analysed in terms of position, 
+velocity, and acceleration
+• velocity is the rate of change of position, and acceleration is the rate of change of velocity
+• the change in position is the displacement
+• the difference between distance and displacement
+• the difference between instantaneous and average values of velocity, speed and acceleration, and 
+how to determine them
+• the equations of motion for solving problems with uniformly accelerated motion as given by
+s = u + v2 t
+v = u + at
+s = ut + 12 at2
+v2 = u2 + 2as
+• motion with uniform and non-uniform acceleration
+• the behaviour of projectiles in the absence of fluid resistance, and the application of the equations of 
+motion resolved into vertical and horizontal components
+• the qualitative effect of fluid resistance on projectiles, including time of flight, trajectory, velocity, 
+acceleration, range and terminal speed.
+Additional higher level
+There is no additional higher level content in A.1
+Guidance
+A quantitative approach to projectile motion will be limited to situations where fluid resistance is absent or 
+can be neglected.
+The trajectory of projectile motion is parabolic in the absence of fluid resistance, but the equation of the 
+trajectory is not required.
+Familiarity with projectiles launched horizontally, at angles above, and at angles below the horizontal is 
+required.
+Syllabus
+Syllabus content
+33Physics guide
+
+\n--- PAGE 40 ---\nProjectile motion will only involve problems using a constant value of g close to the surface of the Earth.
+Fluid resistance refers to the effects of gases and liquids on the motion of a body.
+Linking questions
+How does the motion of a mass in a gravitational field compare to the motion of a charged particle in an 
+electric field?
+How are the equations for rotational motion related to those for linear motion?
+When can certain types of problems on projectile motion be solved by applying conservation of energy 
+instead of kinematic equations?
+How effectively do the equations of motion model Newton’s laws of dynamics?
+How does a gravitational force allow for orbital motion?
+How does the motion of an object change within a gravitational field?
+How does graphical analysis allow for the determination of other physical quantities? (NOS)
+A.2 Forces and momentum
+Guiding questions
+How can forces acting on a system be represented both visually and algebraically?
+How can Newton’s laws be modelled mathematically?
+How can knowledge of forces and momentum be used to predict the behaviour of interacting bodies?
+Understandings
+Standard level and higher level: 10 hours
+Students should understand:
+• Newton’s three laws of motion
+• forces as interactions between bodies
+• that forces acting on a body can be represented in a free-body diagram
+• that free-body diagrams can be analysed to find the resultant force on a system
+• the nature and use of the following contact forces
+◦ normal force FN is the component of the contact force acting perpendicular to the surface that 
+counteracts the body
+◦ surface frictional force Ff  acting in a direction parallel to the plane of contact between a body 
+and a surface, on a stationary body as given by Ff ≤ μsFN or a body in motion as given by 
+Ff = μdFN where μs and μd are the coefficients of static and dynamic friction respectively
+◦ tension
+◦ elastic restoring force FH following Hooke’s law as given by FH = –kx where k  is the spring 
+constant
+◦ viscous drag force Fd acting on a small sphere opposing its motion through a fluid as given by 
+Fd = 6πηrv where η is the fluid viscosity, r  is the radius of the sphere and v is the velocity of the 
+sphere through the fluid
+◦ buoyancy Fb acting on a body due to the displacement of the fluid as given by Fb = ρVg where 
+V  is the volume of fluid displaced
+• the nature and use of the following field forces
+◦ gravitational force Fg is the weight of the body and calculated is given by Fg = mg
+◦ electric force Fe
+◦ magnetic force Fm
+Syllabus content
+34 Physics guide
+
+\n--- PAGE 41 ---\n• that linear momentum as given by p = mv remains constant unless the system is acted upon by a 
+resultant external force
+• that a resultant external force applied to a system constitutes an impulse J  as given by J = FΔt  where 
+F  is the average resultant force and Δt  is the time of contact
+• that the applied external impulse equals the change in momentum of the system
+• that Newton’s second law in the form F = ma assumes mass is constant whereas F = ΔpΔt  allows for 
+situations where mass is changing
+• the elastic and inelastic collisions of two bodies
+• explosions
+• energy considerations in elastic collisions, inelastic collisions, and explosions
+• that bodies moving along a circular trajectory at a constant speed experience an acceleration that is 
+directed radially towards the centre of the circle—known as a centripetal acceleration as given by 
+a = v2
+r = ω2r = 4π2rT 2
+• that circular motion is caused by a centripetal force acting perpendicular to the velocity
+• that a centripetal force causes the body to change direction even if its magnitude of velocity may 
+remain constant
+• that the motion along a circular trajectory can be described in terms of the angular velocity ω which is 
+related to the linear speed v by the equation as given by v = 2πrT = ωr.
+Additional higher level
+There is no additional higher level content in A.2.
+Guidance
+Sketches and interpretations of free-body diagrams and a determination of the resultant force are for one- 
+and two-dimensional situations only.
+Forces should be labelled using commonly accepted names or symbols.
+Newton’s first law will be applied to problems involving translational equilibrium.
+Examples of Newton’s third law will include the identification of force pairs in various situations.
+The use of simultaneous equations involving conservation of momentum and energy in collisions is not 
+required.
+A quantitative approach to collisions and explosions is for one-dimensional situations for standard level 
+students and for two-dimensional situations for higher level students.
+Situations should involve both uniform and non-uniform circular motion in both horizontal and vertical 
+planes.
+Analysis of forces on bodies in non-uniform circular motion in a vertical plane at points other than the top 
+or bottom is not required.
+Quantitative treatment of problems involving banked surfaces is not required.
+Linking questions
+How do collisions between charge carriers and the atomic cores of a conductor result in thermal energy 
+transfer?
+How can knowledge of electrical and magnetic forces allow the prediction of changes to the motion of 
+charged particles?
+How does the application of a restoring force acting on a particle result in simple harmonic motion?
+How are concepts of equilibrium and conservation applied to understand matter and motion from the 
+smallest atom to the whole universe?
+Syllabus content
+35Physics guide
+
+\n--- PAGE 42 ---\nWhy is no work done on a body moving along a circular trajectory?
+In which way is conservation of momentum relevant to the workings of a nuclear power station?
+If experimental measurements contain uncertainties, how can laws be developed based on experimental 
+evidence? (NOS)
+What assumptions about the forces between molecules of gas allow for ideal gas behaviour? (NOS)
+A.3 Work, energy and power
+Guiding questions
+How are concepts of work, energy and power used to predict changes within a system?
+How can a consideration of energetics be used as a method to solve problems in kinematics?
+How can transfer of energy be used to do work?
+Understandings
+Standard level and higher level: 8 hours
+Students should understand:
+• the principle of the conservation of energy
+• that work done by a force is equivalent to a transfer of energy
+• that energy transfers can be represented on a Sankey diagram
+• that work W  done on a body by a constant force depends on the component of the force along the 
+line of displacement as given by W = Fs cos θ
+• that work done by the resultant force on a system is equal to the change in the energy of the system
+• that mechanical energy is the sum of kinetic energy, gravitational potential energy and elastic 
+potential energy
+• that in the absence of frictional, resistive forces, the total mechanical energy of a system is conserved
+• that if mechanical energy is conserved, work is the amount of energy transformed between different 
+forms of mechanical energy in a system, such as:
+◦ the kinetic energy of translational motion as given by Ek = 12 mv2 = p22m
+◦ the gravitational potential energy, when close to the surface of the Earth as given by 
+ΔEp = mgΔh
+◦ the elastic potential energy as given by EH = 12 k(Δx)2
+• that power developed P is the rate of work done, or the rate of energy transfer, as given by 
+P = ΔWΔt = Fv
+• efficiency η in terms of energy transfer or power as given by η = Eoutput
+Einput
+= Poutput
+Pinput
+• energy density of the fuel sources.
+Additional higher level
+There is no additional higher level content in A.3.
+Guidance
+The change in the total mechanical energy of a system should be interpreted in terms of the work done on 
+the system by any non-conservative force.
+Linking questions
+Which other quantities in physics involve rates of change?
+Syllabus content
+36 Physics guide
+
+\n--- PAGE 43 ---\nHow is the equilibrium state of a system, such as the Earth’s atmosphere or a star, determined?
+How do travelling waves allow for a transfer of energy without a resultant displacement of matter?
+Why is the equation for the change in gravitational potential energy only relevant close to the surface of the 
+Earth, and what happens when moving further away from the surface?
+Where do the laws of conservation apply in other areas of physics? (NOS)
+A.4 Rigid body mechanics
+Guiding questions
+How can the understanding of linear motion be applied to rotational motion?
+How is the understanding of the torques acting on a system used to predict changes in rotational motion?
+How does the distribution of mass within a body affect its rotational motion?
+Understandings
+Standard level and higher level
+There is no standard level content in A.4.
+Additional higher level: 7 hours
+Students should understand:
+• the torque τ  of a force about an axis as given by τ = Fr sin θ
+• that bodies in rotational equilibrium have a resultant torque of zero
+• that an unbalanced torque applied to an extended, rigid body will cause angular acceleration
+• that the rotation of a body can be described in terms of angular displacement, angular velocity and 
+angular acceleration
+• that equations of motion for uniform angular acceleration can be used to predict the body’s angular 
+position θ , angular displacement Δθ , angular speed ω and angular acceleration α, as given by
+Δθ = ωf + ωi
+2 t
+ωf = ωi + αt
+Δθ = ωit + 12 αt2
+ωf2 = ωi2 + 2αΔθ
+• that the moment of inertia I  depends on the distribution of mass of an extended body about an axis of 
+rotation
+• the moment of inertia for a system of point masses as given by I = Σmr2
+• Newton’s second law for rotation as given by τ = Iα  where τ  is the average torque
+• that an extended body rotating with an angular speed has an angular momentum L  as given by 
+L = Iω
+• that angular momentum remains constant unless the body is acted upon by a resultant torque
+• that the action of a resultant torque constitutes an angular impulse ΔL  as given by ΔL = τΔt = Δ(Iω)
+•
+the kinetic energy of rotational motion as given by Ek = 12 Iω2 = L22I .
+Guidance
+The vector nature of torque and angular momentum need not be addressed, but the sense (clockwise or 
+counter-clockwise) of a torque should be included.
+Syllabus content
+37Physics guide
+
+\n--- PAGE 44 ---\nA calculation of the centre of mass of bodies is not required; there should be an understanding that when 
+considering linear motion, the mass of an extended body may be taken as concentrated at the centre of 
+mass.
+The equation for the moment of inertia of a specific mass distribution will be provided when necessary.
+Simultaneous rotational and translational motion will be restricted to rolling without slipping.
+Angular speed will be used rather than angular velocity as a formal vector treatment.
+The term angular velocity will be used although a formal vector treatment is not required.
+Situations should involve change of moment of inertia in extended bodies and coupled pairs of bodies.
+Linking questions
+How does rotation apply to the motion of charged particles or satellites in orbit?
+How does conservation of angular momentum lead to the determination of the Bohr radius?
+How does a torque lead to simple harmonic motion?
+How are the laws of conservation and equations of motion in the context of rotational motion analogous to 
+those governing linear motion?
+How can rotation lead to the generation of an electric current?
+A.5 Galilean and special relativity
+Guiding questions
+How do observers in different reference frames describe events in terms of space and time?
+How does special relativity change our understanding of motion compared to Galilean relativity?
+How are space–time diagrams used to represent relativistic motion?
+Understandings
+Standard level and higher level
+There is no standard level content in A.5.
+Additional higher level: 8 hours
+Students should understand:
+• reference frames
+• that Newton's laws of motion are the same in all inertial reference frames and this is known as Galilean 
+relativity
+• that in Galilean relativity the position x′ and time t′ of an event are given by x′ = x–vt and t′ = t
+• that Galilean transformation equations lead to the velocity addition equation as given by u′ = u–v
+• the two postulates of special relativity
+• that the postulates of special relativity lead to the Lorentz transformation equations for the 
+coordinates of an event in two inertial reference frames as given by
+x′ = γ(x–vt)
+t′ = γ t– vxc2
+where γ = 1
+1– v2
+c2
+• that Lorentz transformation equations lead to the relativistic velocity addition equation as given by 
+u′ = u–v
+1– uvc2
+Syllabus content
+38 Physics guide
+
+\n--- PAGE 45 ---\n• that the space–time interval Δs between two events is an invariant quantity as given by 
+(Δs)2 = (cΔt)2–(Δx)2
+• proper time interval and proper length
+• time dilation as given by Δt = γΔt0
+• length contraction as given by L = L0
+γ
+• the relativity of simultaneity
+• space–time diagrams
+• that the angle between the world line of a moving particle and the time axis on a space–time diagram 
+is related to the particle’s speed as given by tan θ = vc
+• that muon decay experiments provide experimental evidence for time dilation and length contraction.
+Guidance
+An inertial reference frame is non-accelerating.
+The derivation of the Lorentz transformation equations and the relativistic velocity addition equations are 
+not required.
+The derivation of the time dilation and length contraction equations is not required.
+The time axis on space–time diagrams will be labelled ct .
+The discussion of world lines of moving particles will be limited to constant velocity.
+Time dilation, length contraction and simultaneity can be visualized using space–time diagrams.
+The scales on the time axes ct  and ct′ and on the space axes x  and x′ of two inertial reference frames 
+moving relative to one another are not the same and are defined by lines of constant space–time interval.
+Linking questions
+How are equations of linear motion adapted in relativistic contexts?
+Why is the equation for the Doppler effect for light so different from that for sound?
+Special relativity places a limit on the speed of light. What other limits exist in physics? (NOS)
+B. The particulate nature of matter
+B.1 Thermal energy transfers
+Guiding questions
+How do macroscopic observations provide a model of the microscopic properties of a substance?
+How is energy transferred within and between systems?
+How can observations of one physical quantity be used to determine the other properties of a system?
+Understandings
+Standard level and higher level: 6 hours
+Students should understand:
+• molecular theory in solids, liquids and gases
+• density ρ as given by ρ = mV
+• that Kelvin and Celsius scales are used to express temperature
+• that the change in temperature of a system is the same when expressed with the Kelvin or Celsius 
+scales
+Syllabus content
+39Physics guide
+
+\n--- PAGE 46 ---\n• that Kelvin temperature is a measure of the average kinetic energy of particles as given by Ek = 32 kBT
+• that the internal energy of a system is the total intermolecular potential energy arising from the forces 
+between the molecules plus the total random kinetic energy of the molecules arising from their 
+random motion
+• that temperature difference determines the direction of the resultant thermal energy transfer between 
+bodies
+• that a phase change represents a change in particle behaviour arising from a change in energy at 
+constant temperature
+• quantitative analysis of thermal energy transfers Q with the use of specific heat capacity c and specific 
+latent heat of fusion and vaporization of substances L  as given by Q = mcΔT and Q = mL
+• that conduction, convection and thermal radiation are the primary mechanisms for thermal energy 
+transfer
+• conduction in terms of the difference in the kinetic energy of particles
+• quantitative analysis of rate of thermal energy transfer by conduction in terms of the type of material 
+and cross-sectional area of the material and the temperature gradient as given by ΔQΔt = kA ΔTΔx
+• qualitative description of thermal energy transferred by convection due to fluid density differences
+• quantitative analysis of energy transferred by radiation as a result of the emission of electromagnetic 
+waves from the surface of a body, which in the case of a black body can be modelled by the Stefan-
+Boltzmann law as given by L = σAT 4 where L  is the luminosity, A is the surface area and T  is the 
+absolute temperature of the body
+• the concept of apparent brightness b
+• luminosity L  of a body as given by b = L4πd2
+• the emission spectrum of a black body and the determination of the temperature of the body using 
+Wien’s displacement law as given by λmaxT = 2 . 9 × 10−3mK where λmax is the peak wavelength 
+emitted.
+Additional higher level
+There is no additional higher level content in B.1.
+Guidance
+An elementary explanation of the physical differences between solids, liquids and gases in terms of the 
+molecular model is required.
+The conversion of Kelvin and Celsius scales is required.
+The terms melting, freezing, boiling, condensing and evaporation should be familiar.
+The luminosity of a star can be expressed in watts or in terms of the luminosity of the Sun L⊙.
+Linking questions
+How is the understanding of systems applied to other areas of physics?
+How can the phase change of water be used in the process of electricity generation?
+What applications does the Stefan-Boltzmann law have in astrophysics and in the use of solar energy?
+How can observations of one physical quantity allow for the determination of another? (NOS)
+What role does the molecular model play in understanding other areas of physics? (NOS)
+Where do inverse square law relationships appear in other areas of physics? (NOS)
+How has international collaboration helped to develop the understanding of the nature of matter? (NOS)
+Syllabus content
+40 Physics guide
+
+\n--- PAGE 47 ---\nB.2 Greenhouse effect
+Guiding questions
+How does the greenhouse effect help to maintain life on Earth and how does human activity enhance this 
+effect?
+How is the atmosphere as a system modelled to quantify the Earth–atmosphere energy balance?
+Understandings
+Standard level and higher level: 6 hours
+Students should understand:
+• the conservation of energy
+• emissivity as the ratio of the power radiated per unit area by a surface compared to that of an ideal 
+black surface at the same temperature as given by emissivity = power radiated per unit areaσT 4
+• albedo as a measure of the average energy reflected off a macroscopic system as given by 
+albedo = total scattered powertotal incident power
+• that Earth’s albedo varies daily and is dependent on cloud formations and latitude
+• the solar constant S
+• that the incoming radiative power is dependent on the projected surface of a planet along the 
+direction of the path of the rays, resulting in a mean value of the incoming intensity being S4
+• that methane CH4, water vapour H2O, carbon dioxide CO2, and nitrous oxide N2O, are the main 
+greenhouse gases and each of these has origins that are both natural and created by human activity
+• the absorption of infrared radiation by the main greenhouse gases in terms of the molecular energy 
+levels and the subsequent emission of radiation in all directions
+• that the greenhouse effect can be explained in terms of both a resonance model and molecular 
+energy levels
+• that the augmentation of the greenhouse effect due to human activities is known as the enhanced 
+greenhouse effect.
+Additional higher level
+There is no additional higher level content in B.2.
+Guidance
+Problems will include the estimation of equilibrium temperature of a body using energy balance between 
+incoming and outgoing radiation intensity, including albedo, emissivity, and solar or other constants.
+Energy balance problems will include energy exchanged between the surface and the atmosphere of a 
+body.
+The burning of fossil fuels is a primary cause of the enhanced greenhouse effect.
+Linking questions
+What relevance do simple harmonic motion and resonance have to climate change?
+How do different methods of electricity production affect the energy balance of the atmosphere?
+How are developments in science and technology affected by climate change?
+What limitations are there in using a resonance model to explain the greenhouse effect?
+Syllabus content
+41Physics guide
+
+\n--- PAGE 48 ---\nB.3 Gas laws
+Guiding questions
+How are the macroscopic characteristics of a gas related to the behaviour of individual molecules?
+What assumptions and observations lead to universal gas laws?
+How can models be used to help explain observed phenomena?
+Understandings
+Standard level and higher level: 6 hours
+Students should understand:
+• pressure as given by P = FA  where F  is the force exerted perpendicular to the surface
+• the amount of substance n as given by n = NNA  where N  is the number of molecules and NA is the 
+Avogadro constant
+• that ideal gases are described in terms of the kinetic theory and constitute a modelled system used to 
+approximate the behaviour of real gases
+• that the ideal gas law equation can be derived from the empirical gas laws for constant pressure, 
+constant volume and constant temperature as given by PVT = constant
+• the equations governing the behaviour of ideal gases as given by PV = NkBT and PV = nRT
+• that the change in momentum of particles due to collisions with a given surface gives rise to pressure 
+in gases and, from that analysis, pressure is related to the average translational speed of molecules as 
+given by P = 13 ρv2
+• the relationship between the internal energy U of an ideal monatomic gas and the number of 
+molecules or amount of substance as given by U = 32 NkBT or U = 32 RnT
+• the temperature, pressure and density conditions under which an ideal gas is a good approximation of 
+a real gas.
+Additional higher level
+There is no additional higher level content in B.3.
+Guidance
+The assumption of the kinetic model is of an ideal gas.
+The differences between an ideal gas and a real gas should be understood.
+Gas laws are limited to constant volume, constant temperature, constant pressure and the ideal gas law.
+Changes of state of an ideal gas can be represented on pressure–volume diagrams.
+A qualitative explanation of the macroscopic properties of an ideal gas in terms of molecular behaviour is 
+required.
+Linking questions
+How does the concept of force and momentum link mechanics and thermodynamics?
+How does a consideration of the kinetic energy of molecules relate to the development of the gas laws?
+How can gas particles of high kinetic energy be used to perform work?
+What other simplified models are relied upon to communicate the understanding of complex phenomena? 
+(NOS)
+Syllabus content
+42 Physics guide
+
+\n--- PAGE 49 ---\nB.4 Thermodynamics
+Guiding questions
+How can energy transfers and energy storage within a system be analysed?
+How can the future evolution of a system be determined?
+In what way is entropy fundamental to the evolution of the universe?
+Understandings
+Standard level and higher level
+There is no standard level content in B.4.
+Additional higher level: 8 hours
+Students should understand:
+• that the first law of thermodynamics as given by Q = ΔU + W results from the application of 
+conservation of energy to a closed system and relates the internal energy of a system to the transfer of 
+energy as heat and as work
+• that the work done by or on a closed system as given by W = PΔV when its boundaries are changed 
+can be described in terms of pressure and changes of volume of the system
+• that the change in internal energy as given by ΔU = 32 NkBΔT = 32 nRΔT of a system is related to the 
+change of its temperature
+• that entropy S  is a thermodynamic quantity that relates to the degree of disorder of the particles in a 
+system
+• that entropy can be determined in terms of macroscopic quantities such as thermal energy and 
+temperature as given by ΔS = ΔQT  and also in terms of the properties of individual particles of the 
+system as given by S = kB ln Ω where kB is the Boltzmann constant and Ω is the number of possible 
+microstates of the system
+• that the second law of thermodynamics refers to the change in entropy of an isolated system and sets 
+constraints on possible physical processes and on the overall evolution of the system
+• that processes in real isolated systems are almost always irreversible and consequently the entropy of 
+a real isolated system always increases
+• that the entropy of a non-isolated system can decrease locally, but this is compensated by an equal or 
+greater increase of the entropy of the surroundings
+• that isovolumetric, isobaric, isothermal and adiabatic processes are obtained by keeping one variable 
+fixed
+• that adiabatic processes in monatomic ideal gases can be modelled by the equation as given by 
+PV
+5
+3 = constant
+• that cyclic gas processes are used to run heat engines
+• that a heat engine can respond to different cycles and is characterized by its efficiency as given by 
+η = useful workinput energy
+• that the Carnot cycle sets a limit for the efficiency of a heat engine at the temperatures of its heat 
+reservoirs as given by ηCarnot = 1– TcTh .
+Guidance
+A closed system is understood to be one in which no mass can be transferred in or out, but energy can be 
+transferred in both directions as heat or as work.
+An isolated system is understood to be one in which neither mass nor energy can be transferred in or out.
+Syllabus content
+43Physics guide
+
+\n--- PAGE 50 ---\nProblems will use the Clausius’ sign convention where Q is the resultant thermal energy supplied to the 
+system and W  is the resultant work done by the system.
+The second law of thermodynamics should be described in Clausius form and Kelvin form, as well as in 
+terms of entropy change in reversible and irreversible processes occurring in isolated systems.
+Work done on a system is taken to be negative.
+Work done by a system is taken to be positive.
+In quantitative problems, systems will be limited to monatomic ideal gases, including situations where 
+pressure is not constant.
+The microstates of a system are equally probable and can be described in a simple combinatorial model (for 
+example, based on coins).
+Linking questions
+What are the consequences of the second law of thermodynamics to the universe as a whole?
+Why is there an upper limit on the efficiency of any energy source or engine?
+How are efficiency considerations important in motors and generators?
+What paradigm shifts enabling change to human society, such as harnessing the power of steam, can be 
+attributed to advancements in physics understanding? (NOS)
+B.5 Current and circuits
+Guiding questions
+How do charged particles flow through materials?
+How are the electrical properties of materials quantified?
+What are the consequences of resistance in conductors?
+Understandings
+Standard level and higher level: 6 hours
+Students should understand:
+• that cells provide a source of emf
+• chemical cells and solar cells as the energy source in circuits
+• that circuit diagrams represent the arrangement of components in a circuit
+• direct current (dc) I  as a flow of charge carriers as given by I = ΔqΔt
+• that the electric potential difference V  is the work done per unit charge on moving a positive charge 
+between two points along the path of the current as given by V = Wq
+• the properties of electrical conductors and insulators in terms of mobility of charge carriers
+• electric resistance and its origin
+• electrical resistance R as given by R = VI
+• resistivity as given by ρ = RAL
+• Ohm’s law
+• the ohmic and non-ohmic behaviour of electrical conductors, including the heating effect of resistors
+•
+electrical power P dissipated by a resistor as given by P = IV = I2R = V 2
+R
+• the combinations of resistors in series and parallel circuits
+Syllabus content
+44 Physics guide
+
+\n--- PAGE 51 ---\nSeries circuits Parallel circuits
+I = I1 = I2 = Ω
+V = V1 + V2 + Ω
+Rs = R1 + R2 + Ω
+I = I1 + I2 + Ω
+V = V1 = V2 = Ω
+1
+Rp
+= 1R1 + 1R2 + Ω
+• that electric cells are characterized by their emf ε and internal resistance r  as given by ε = I(R + r)
+• that resistors can have variable resistance.
+Additional higher level
+There is no additional higher level content in B.5.
+Guidance
+Advantages and disadvantages of difference sources of electrical energy are required.
+Refer to the Physics data booklet for the electrical circuit symbols that are required.
+Alternating current (ac) circuits are not required.
+Unless otherwise stated, ammeters and voltmeters will be considered as ideal. In cases where non-ideal 
+meters are used, the resistance will be constant.
+A metal conductor at a constant temperature will be considered an ohmic device.
+Variable resistors will be limited to thermistors, light-dependent resistors (LDR) and potentiometers.
+Linking questions
+In what ways can an electrical circuit be described as a system like the Earth’s atmosphere or a heat engine?
+How are the fields in other areas of physics similar to and different from each other?
+How can the heating of an electrical resistor be explained using other areas of physics?
+What are the advantages of cells as a source of electrical energy?
+How does a particle model allow electrical resistance to be explained? (NOS)
+What are the parallels in the models for thermal and electrical conductivity? (NOS)
+C. Wave behaviour
+C.1 Simple harmonic motion
+Guiding questions
+What makes the harmonic oscillator model applicable to a wide range of physical phenomena?
+Why must the defining equation of simple harmonic motion take the form it does?
+How can the energy and motion of an oscillation be analysed both graphically and algebraically?
+Understandings
+Standard level and higher level: 3 hours
+Students should understand:
+• conditions that lead to simple harmonic motion
+• the defining equation of simple harmonic motion as given by a = –ω2x
+• a particle undergoing simple harmonic motion can be described using time period T , frequency ƒ , 
+angular frequency ω, amplitude, equilibrium position, and displacement
+• the time period in terms of frequency of oscillation and angular frequency as given by T = 1ƒ = 2πω
+Syllabus content
+45Physics guide
+
+\n--- PAGE 52 ---\n• the time period of a mass–spring system as given by T = 2π mk
+• the time period of a simple pendulum as given by T = 2π lg
+• a qualitative approach to energy changes during one cycle of an oscillation.
+Additional higher level: 4 hours
+Students should understand:
+• that a particle undergoing simple harmonic motion can be described using phase angle
+• that problems can be solved using the equations for simple harmonic motion as given by
+x = x0 sin (ωt + ϕ)
+v = ωx0 cos (ωt + ϕ)
+v = ± ω x02–x2
+ET = 12 mω2x02
+Ep = 12 mω2x2.
+Guidance
+The significance of the minus sign in the defining equation for simple harmonic motion should be 
+understood.
+Energy changes during simple harmonic motion (kinetic, potential and total) should be described 
+qualitatively.
+A quantitative approach to energy changes during simple harmonic motion is required at higher level only.
+Radians are used for phase angle calculations.
+Linking questions
+How can greenhouse gases be modelled as simple harmonic oscillators?
+How can circular motion be used to visualize simple harmonic motion?
+How does damping affect periodic motion?
+How can the understanding of simple harmonic motion apply to the wave model? (NOS)
+What physical explanation leads to the enhanced greenhouse effect? (NOS)
+C.2 Wave model
+Guiding questions
+What are the similarities and differences between different types of waves?
+How can the wave model describe the transmission of energy as a result of local disturbances in a medium?
+What effect does a change in the frequency of oscillation or medium through which the wave is travelling 
+have on the wavelength of a travelling wave?
+Understandings
+Standard level and higher level: 3 hours
+Students should understand:
+• transverse and longitudinal travelling waves
+• wavelength λ , frequency ƒ , time period T , and wave speed v applied to wave motion as given by 
+v = ƒλ = λT
+• the nature of sound waves
+Syllabus content
+46 Physics guide
+
+\n--- PAGE 53 ---\n• the nature of electromagnetic waves
+• the differences between mechanical waves and electromagnetic waves.
+Additional higher level
+There is no additional higher level content in C.2.
+Guidance
+Problems will involve describing the motion of particles of a medium when a wave passes through it for 
+both transverse and longitudinal waves. This will be in terms of displacement with respect to the position 
+along the wave and with time.
+Travelling waves transfer energy, even if there is no resultant displacement of the medium.
+Refer to the Physics data booklet for the approximate orders of magnitude of the wavelengths of radio, 
+microwave, infrared, visible, ultraviolet, X-rays and gamma rays.
+The wave model should be applied to both mechanical waves and electromagnetic waves.
+Linking questions
+How can light be modelled as an electromagnetic wave?
+What happens when waves overlap or coincide?
+How can the length of a wave be determined using concepts from kinematics?
+Why does the intensity of an electromagnetic wave decrease with distance according to the inverse square 
+law?
+How are electromagnetic waves able to travel through a vacuum?
+How were X-rays discovered? (NOS)
+Can the wave model inform the understanding of quantum mechanics? (NOS)
+How are waves used in technology to improve society? (NOS)
+C.3 Wave phenomena
+Guiding questions
+How are observations of wave behaviours at a boundary between different media explained?
+How is the behaviour of waves passing through apertures represented?
+What happens when two waves meet at a point in space?
+Understandings
+Standard level and higher level: 5 hours
+Students should understand:
+• that waves travelling in two and three dimensions can be described through the concepts of 
+wavefronts and rays
+• wave behaviour at boundaries in terms of reflection, refraction and transmission
+• wave diffraction around a body and through an aperture
+• wavefront-ray diagrams showing refraction and diffraction
+• Snell’s law, critical angle and total internal reflection
+• Snell’s law as given by n1
+n2
+= sin θ2
+sin θ1
+= v2
+v1
+ where n is the refractive index and θ  is the angle between the 
+normal and the ray
+• superposition of waves and wave pulses
+• that double-source interference requires coherent sources
+• the condition for constructive interference as given by path difference = nλ
+Syllabus content
+47Physics guide
+
+\n--- PAGE 54 ---\n• the condition for destructive interference as given by path difference = ( n + 12 )λ
+• Young’s double-slit interference as given by s = λDd  where s is the separation of fringes, d  is the 
+separation of the slits, and D is the distance from the slits to the screen.
+Additional higher level: 6 hours
+Students should understand:
+• single-slit diffraction including intensity patterns as given by θ = λb  where b is the slit width
+• that the single-slit pattern modulates the double slit interference pattern
+• interference patterns from multiple slits and diffraction gratings as given by nλ = d sin θ.
+Guidance
+Problems may involve sketching and interpreting wavefronts and rays. These will be limited to incident, 
+reflected, and transmitted waves.
+Interference and diffraction patterns will be limited to those produced at normal incidence.
+The effect of slit width on the intensity of the single-slit diffraction pattern should be considered 
+qualitatively.
+The discussion of single-slit diffraction will be limited to monochromatic light and rectangular slits.
+Multiple slit and diffraction grating patterns produced from white light and a range of monochromatic light 
+wavelengths should be discussed.
+Linking questions
+What can an understanding of the results of Young’s double-slit experiment reveal about the nature of 
+light?
+What evidence is there that particles possess wave-like properties such as wavelength? (NOS)
+C.4 Standing waves and resonance
+Guiding questions
+What distinguishes standing waves from travelling waves?
+How does the form of standing waves depend on the boundary conditions?
+How can the application of force result in resonance within a system?
+Understandings
+Standard level and higher level: 4 hours
+Students should understand:
+• the nature and formation of standing waves in terms of superposition of two identical waves travelling 
+in opposite directions
+• nodes and antinodes, relative amplitude and phase difference of points along a standing wave
+• standing waves patterns in strings and pipes
+• the nature of resonance including natural frequency and amplitude of oscillation based on driving 
+frequency
+• the effect of damping on the maximum amplitude and resonant frequency of oscillation
+• the effects of light, critical and heavy damping on the system.
+Additional higher level
+There is no additional higher level content in C.4.
+Syllabus content
+48 Physics guide
+
+\n--- PAGE 55 ---\nGuidance
+The formation of standing waves from the superposition of more than two waves should not be considered.
+Pipes will be referred to as open or closed.
+End corrections for open pipes are not required.
+Boundary conditions for strings include two fixed boundaries, one fixed and one free boundary, and two 
+free boundaries.
+Boundary conditions for air in pipes include two closed ends, one closed and one open end, and two open 
+ends.
+Vibration modes of air in pipes will be discussed in terms of displacement nodes and antinodes.
+For standing waves in air, pressure nodes and antinodes are not required.
+The lowest frequency mode of a standing wave will be referred to as the first harmonic. The terms 
+fundamental and overtone are not to be used in this course.
+A determination of the wavelength and the frequency of the nth harmonic given the length of the string or 
+pipe and the speed of the wave is required.
+Only a qualitative analysis is required concerning the impact of damping on the frequency response of a 
+driven oscillator.
+Knowledge of the useful and destructive effects of resonance is required.
+Linking questions
+How does the amplitude of vibration at resonance depend on the dissipation of energy in the driven 
+system?
+What is the relationship between resonance and simple harmonic motion?
+How can resonance be explained in terms of conservation of energy?
+How can the idea of resonance of gas molecules be used to model the greenhouse effect? (NOS)
+C.5 Doppler effect
+Guiding questions
+How can the Doppler effect be explained both qualitatively and quantitatively?
+What are some practical applications of the Doppler effect?
+Why are there differences when applying the Doppler effect to different types of waves?
+Understandings
+Standard level and higher level: 2 hours
+Students should understand:
+• the nature of the Doppler effect for sound waves and electromagnetic waves
+• the representation of the Doppler effect in terms of wavefront diagrams when either the source or the 
+observer is moving
+• the relative change in frequency or wavelength observed for a light wave due to the Doppler effect 
+where the speed of light is much larger than the relative speed between the source and the observer 
+as given by Δƒƒ = Δλλ  ≈  vc
+• that shifts in spectral lines provide information about the motion of bodies like stars and galaxies in 
+space.
+Additional higher level: 2 hours
+Students should understand:
+• the observed frequency for sound waves and mechanical waves due to the Doppler effect as given by:
+Syllabus content
+49Physics guide
+
+\n--- PAGE 56 ---\nmoving source ƒ′ = ƒ vv ± us  where us is the velocity of the source
+moving observer ƒ′ = ƒ v ± uo
+v  where uo is the velocity of the observer.
+Guidance
+Problems will not include situations where both source and observer are moving.
+Problems can involve the determination of the velocity of the source/observer.
+The use of the Doppler effect in medical physics and in radars should be considered as examples.
+Linking questions
+What are the similarities and difference between light and sound waves?
+How can the Doppler effect be utilized to measure the rotational speed of extended bodies?
+What happens if the speed of light is not much larger that the relative speed between the source and the 
+observer?
+What gives rise to emission spectra and how can they be used to determine astronomical distances?
+How can the use of Doppler effect for light be used to calculate speed? (NOS)
+D. Fields
+D.1 Gravitational fields
+Guiding questions
+How are the properties of a gravitational field quantified?
+How does an understanding of gravitational fields allow for humans to explore the solar system?
+Understandings
+Standard level and higher level: 5 hours
+Students should understand:
+• Kepler’s three laws of orbital motion
+• Newton's universal law of gravitation as given by F = G m1m2
+r2  for bodies treated as point masses
+• conditions under which extended bodies can be treated as point masses
+• that gravitational field strength g at a point is the force per unit mass experienced by a small point 
+mass at that point as given by g = Fm = G Mr2
+• gravitational field lines.
+Additional higher level: 7 hours
+Students should understand:
+• that the gravitational potential energy Ep of a system is the work done to assemble the system from 
+infinite separation of the components of the system
+• the gravitational potential energy for a two-body system as given by Ep = –G m1m2r  where r  is the 
+separation between the centre of mass of the two bodies
+• that the gravitational potential Vg at a point is the work done per unit mass in bringing a mass from 
+infinity to that point as given by Vg = –G Mr
+Syllabus content
+50 Physics guide
+
+\n--- PAGE 57 ---\n• the gravitational field strength g as the gravitational potential gradient as given by g = – ΔVg
+Δr
+• the work done in moving a mass m in a gravitational field as given by W = mΔVg
+• equipotential surfaces for gravitational fields
+• the relationship between equipotential surfaces and gravitational field lines
+• the escape speed vesc at any point in a gravitational field as given by vesc = 2GMr
+• the orbital speed vorbital of a body orbiting a large mass as given by vorbital = GMr
+• the qualitative effect of a small viscous drag force due to the atmosphere on the height and speed of 
+an orbiting body.
+Guidance
+For calculations involving orbital motion the orbits will be assumed to be circular.
+Newton’s universal law of gravitation should be extended to spherical masses of uniform density by 
+assuming that their mass is concentrated at their centre.
+Determination of the resultant gravitational field strength will be restricted to points along a line joining 
+two bodies.
+Sketching and interpretation of gravitational field lines is required.
+Gravitational potential is defined as being zero at infinity.
+Problems may include, but are not limited to, determining the:
+• speed to maintain orbit
+• changes in energy when a satellite changes orbit
+• energetics of a satellite going into orbit around a non-rotating planet starting from rest on its surface
+• energy conditions for an orbiting satellite to escape the gravitational influence of a planet.
+Gravitational fields will include the radial fields around point or spherical masses and the (assumed) uniform 
+field close to the surface of massive celestial bodies and planetary bodies.
+The orbital motion of a satellite around a planet is restricted to a consideration of circular orbits.
+An ability to map fields using potential is required.
+Linking questions
+What measurements of a binary star system need to be made in order to determine the nature of the two 
+stars?
+How is uniform circular motion like—and unlike—real-life orbits?
+How is the amount of fuel required to launch rockets into space determined by considering energy?
+How can air resistance be used to alter the motion of a satellite orbiting Earth?
+What are the benefits of using consistent terminology to describe different types of fields? (NOS)
+How can the motion of electrons in the atom be modelled on planetary motion and in what ways does this 
+model fail? (NOS)
+Physics utilizes a number of constants such as G. What is the purpose of these constants and how are they 
+determined? (NOS)
+D.2 Electric and magnetic fields
+Guiding questions
+Which experiments provided evidence to determine the nature of the electron?
+How can the properties of fields be understood using both an algebraic approach and a visual 
+representation?
+Syllabus content
+51Physics guide
+
+\n--- PAGE 58 ---\nWhat are the consequences of interactions between electric and magnetic fields?
+Understandings
+Standard level and higher level: 8 hours
+Students should understand:
+• the direction of forces between the two types of electric charge
+• Coulomb’s law as given by F = k q1q2
+r2  for charged bodies treated as point charges where k = 14πε0
+• the conservation of electric charge
+• Millikan’s experiment as evidence for quantization of electric charge
+• that the electric charge can be transferred between bodies using friction, electrostatic induction and 
+by contact, including the role of grounding (earthing)
+• the electric field strength as given by E = Fq
+• electric field lines
+• the relationship between field line density and field strength
+• the uniform electric field strength between parallel plates as given by E = Vd
+• magnetic field lines.
+Additional higher level: 6 hours
+Students should understand:
+• the electric potential energy Ep in terms of work done to assemble the system from infinite separation
+• the electric potential energy for a system of two charged bodies as given by Ep = k q1q2r
+• that the electric potential is a scalar quantity with zero defined at infinity
+• that the electric potential Ve at a point is the work done per unit charge to bring a test charge from 
+infinity to that point as given by Ve = kQr
+• the electric field strength E  as the electric potential gradient as given by E = – ΔVe
+Δr
+• the work done in moving a charge q in an electric field as given by W = qΔVe
+• equipotential surfaces for electric fields
+• the relationship between equipotential surfaces and electric field lines.
+Guidance
+Electric fields will include:
+• the radial field around single point charge
+• inside and outside a single spherical conducting body
+• the field between two point charges
+• two oppositely charged parallel plates, including edge effects.
+Sketching and interpretation of electric field lines is required.
+Magnetic field patterns will be restricted to a bar magnet, a current-carrying straight wire, a current-
+carrying circular coil and an air-core solenoid.
+Sketching and interpretation of magnetic field lines is required.
+The determination of the direction of the magnetic field based in the current direction in a current-carrying 
+straight wire is required.
+Work done in electric fields can be expressed in both joules and electronvolts.
+Syllabus content
+52 Physics guide
+
+\n--- PAGE 59 ---\nA range of permittivity values for Coulomb’s law are required.
+Electric potential is defined as being zero at infinity.
+No work is done in moving charge or mass on an equipotential surface.
+Equipotential surfaces should be recognized:
+• for a point charge
+• for a collection of up to four point charges
+• inside and outside a solid charged conducting sphere
+• inside and outside a hollow charged conduction sphere
+• between two oppositely charged parallel plates.
+Linking questions
+How are electric and magnetic fields like gravitational fields?
+What are the relative strengths of the four fundamental forces?
+How can moving charges in magnetic fields help probe the fundamental nature of matter?
+Charge is quantized. Which other physical quantities are quantized? (NOS)
+D.3 Motion in electromagnetic fields
+Guiding questions
+How do charged particles move in magnetic fields?
+What can be deduced about the nature of a charged particle from observations of it moving in electric and 
+magnetic fields?
+Understandings
+Standard level and higher level: 6 hours
+Students should understand:
+• the motion of a charged particle in a uniform electric field
+• the motion of a charged particle in a uniform magnetic field
+• the motion of a charged particle in perpendicularly orientated uniform electric and magnetic fields
+• the magnitude and direction of the force on a charge moving in a magnetic field as given by 
+F = qvB sin θ
+• the magnitude and direction of the force on a current-carrying conductor in a magnetic field as given 
+by F = BΙL sin θ
+• the force per unit length between parallel wires as given by FL = μ0 I1I22πr  where r  is the separation 
+between the two wires.
+Additional higher level
+There is no additional higher level content in D.3.
+Guidance
+The kinetic energy of a charged particle stays constant in a magnetic field.
+The determination of the charge to mass ratio for a charged particle by investigating its path in a uniform 
+magnetic field is required.
+The determination of the direction of the magnetic field based in the current direction in a current-carrying 
+straight wire is required.
+For parallel current carrying wires, the force is attractive when the current is flowing in the same direction.
+Syllabus content
+53Physics guide
+
+\n--- PAGE 60 ---\nLinking questions
+What causes circular motion of charged particles in a field?
+How can the orbital radius of a charged particle moving in a field be used to determine the nature of the 
+particle?
+How can conservation of energy be applied to motion in electromagnetic fields?
+How are the concepts of energy, forces and fields used to determine the size of an atom?
+How are the properties of electric and magnetic fields represented? (NOS)
+D.4 Induction
+Guiding questions
+What are the effects of relative motion between a conductor and a magnetic field?
+How can the power output of electrical generators be increased?
+How did the discovery of electromagnetic induction effect industrialization?
+Understandings
+Standard level and higher level
+There is no standard level content in D.4.
+Additional higher level: 6 hours
+Students should understand:
+• magnetic flux Φ  as given by Φ = BA cos θ
+• that a time-changing magnetic flux induces an emf ε as given by Faraday’s law of induction 
+ε = − N ΔΦΔt
+• that a uniform magnetic field induces an emf in a straight conductor moving perpendicularly to it as 
+given by ε = BvL
+• that the direction of induced emf is determined by Lenz’s law and is a consequence of energy 
+conservation
+• that a uniform magnetic field induces a sinusoidal varying emf in a coil rotating within it
+• the effect on induced emf caused by changing the frequency of rotation.
+Guidance
+Examples of production of an induced emf should include:
+• time-varying magnetic fields
+• coils rotating within a uniform magnetic field
+• relative motion between a conductor and a magnetic field (for example, a magnet oscillating on a 
+spring above a conducting coil, or a coil moved in or out of the region of a magnetic field).
+A quantitative treatment of induced emf will be restricted to straight conductors moving at right angles to 
+magnetic fields and rectangular coils moving in and out of fields and rotating in fields.
+Only a qualitative treatment of self-induction is required.
+A discussion of inductance and resistance-inductor (RL) circuits is not required.
+Linking questions
+How is the efficiency of electricity generation dependent on the source of energy?
+Faraday’s law of induction includes a rate of change. Which other areas of physics relate to rates of change? 
+(NOS)
+Syllabus content
+54 Physics guide
+
+\n--- PAGE 61 ---\nE. Nuclear and quantum physics
+E.1 Structure of the atom
+Guiding questions
+What is the current understanding of the nature of an atom?
+What is the role of evidence in the development of models of the atom?
+In what ways are previous models of the atom still valid despite recent advances in understanding?
+Understandings
+Standard level and higher level: 6 hours
+Students should understand:
+• the Geiger–Marsden–Rutherford experiment and the discovery of the nucleus
+• nuclear notation XZA  where A is the nucleon number Z  is the proton number and X is the chemical 
+symbol
+• that emission and absorption spectra provide evidence for discrete atomic energy levels
+• that photons are emitted and absorbed during atomic transitions
+• that the frequency of the photon released during an atomic transition depends on the difference in 
+energy level as given by E = hƒ
+• that emission and absorption spectra provide information on the chemical composition.
+Additional higher level: 3 hours
+Students should understand:
+• the relationship between the radius and the nucleon number for a nucleus as given by R = R0A 13 and 
+implications for nuclear densities
+• deviations from Rutherford scattering at high energies
+• the distance of closest approach in head-on scattering experiments
+• the discrete energy levels in the Bohr model for hydrogen as given by E = − 13 . 6n2  eV
+• that the existence of quantized energy and orbits arise from the quantization of angular momentum in 
+the Bohr model for hydrogen as given by mvr = nh2π .
+Guidance
+Recall of chemical symbols is not required.
+Only a qualitative approach to the Geiger–Marsden–Rutherford experiment is required for standard level.
+Rutherford’s simple energy conservation considerations can be used to determine the distance of closest 
+approach.
+For scattering experiments, energy values will be low enough so as only to consider the particle being 
+repelled by the electric force.
+Linking questions
+How can emission spectra allow for the properties of stars to be deduced?
+How is the distance of closest approach calculated using conservation of energy?
+How can emission spectra be used to calculate the distances and velocities of celestial bodies?
+Under what circumstances does the Bohr model fail? (NOS)
+How have observations led to developments in the model of the atom? (NOS)
+Syllabus content
+55Physics guide
+
+\n--- PAGE 62 ---\nE.2 Quantum physics
+Guiding questions
+How can light be used to create an electric current?
+What is meant by wave–particle duality?
+Understandings
+Standard level and higher level
+There is no standard level content in E.2.
+Additional higher level: 8 hours
+Students should understand:
+• the photoelectric effect as evidence of the particle nature of light
+• that photons of a certain frequency, known as the threshold frequency, are required to release 
+photoelectrons from the metal
+• Einstein’s explanation using the work function and the maximum kinetic energy of the photoelectrons 
+as given by Emax = hƒ–Φ where Φ is the work function of the metal
+• diffraction of particles as evidence of the wave nature of matter
+• that matter exhibits wave–particle duality
+• the de Broglie wavelength for particles as given by λ = hp
+• Compton scattering of light by electrons as additional evidence of the particle nature of light
+• that photons scatter off electrons with increased wavelength
+• the shift in photon wavelength after scattering off an electron as given by λf–λi = Δλ = hmec (1–cos θ).
+Guidance
+A discussion of which features of the photoelectric effect cannot be explained using the classical wave 
+theory of light is required.
+A description of a scattering experiment including the location of minimum intensity for the diffracted 
+particles based on their de Broglie wavelength is required.
+The derivation of the Compton formula is not required
+Linking questions
+How can particles diffract?
+What are the defining features and behaviours of waves?
+What evidence indicates the diffraction of a wave?
+How is photon scattering off an electron similar to and how is it different from the collision of two solid 
+balls?
+Can the Bohr model help explain the photoelectric effect? (NOS)
+How did the explanation of the photoelectric effect lead to the falsification that light was purely a wave? 
+(NOS)
+Why is Compton scattering more convincing evidence for the particle nature of light than that from the 
+photoelectric effect? (NOS)
+E.3 Radioactive decay
+Guiding questions
+Why are some isotopes more stable than others?
+Syllabus content
+56 Physics guide
+
+\n--- PAGE 63 ---\nIn what ways can a nucleus undergo change?
+How do large, unstable nuclei become more stable?
+How can the random nature of radioactive decay allow for predictions to be made?
+Understandings
+Standard level and higher level: 7 hours
+Students should understand:
+• isotopes
+• nuclear binding energy and mass defect
+• the variation of the binding energy per nucleon with nucleon number
+• the mass-energy equivalence as given by E = mc2 in nuclear reactions
+• the existence of the strong nuclear force, a short-range, attractive force between nucleons
+• the random and spontaneous nature of radioactive decay
+• the changes in the state of the nucleus following alpha, beta and gamma radioactive decay
+• the radioactive decay equations involving α, β−, β+, γ
+• the existence of neutrinos ν and antineutrinos ν
+• the penetration and ionizing ability of alpha particles, beta particles and gamma rays
+• the activity, count rate and half-life in radioactive decay
+• the changes in activity and count rate during radioactive decay using integer values of half-life
+• the effect of background radiation on count rate.
+Additional higher level: 5 hours
+Students should understand:
+• the evidence for the strong nuclear force
+• the role of the ratio of neutrons to protons for the stability of nuclides
+• the approximate constancy of binding energy curve above a nucleon number of 60
+• that the spectrum of alpha and gamma radiations provides evidence for discrete nuclear energy levels
+• the continuous spectrum of beta decay as evidence for the neutrino
+• the decay constant λ  and the radioactive decay law as given by N = N0e−λt
+• that the decay constant approximates the probability of decay in unit time only in the limit of 
+sufficiently small λt
+• the activity as the rate of decay as given by A = λN = λN0e−λt
+• the relationship between half-life and the decay constant as given by T 1
+2
+= ln2λ .
+Guidance
+An interpretation of binding energy curves is required.
+Nuclear masses will be expressed in kg, in MeVc−2  and in (unified) atomic mass units u.
+Real-life contexts for this topic should include the choice of isotope in medical use, leaks in underground 
+pipes, thickness of materials, and radioactive dating based on the penetration of the decay particle and 
+half-life.
+The weak nuclear force is not considered in this course.
+An application of the radioactive decay equations for arbitrary time intervals is required for additional 
+higher level.
+The determination of the half-life of a nuclide is required.
+Syllabus content
+57Physics guide
+
+\n--- PAGE 64 ---\nLinking questions
+Are there differences between the photons emitted as a result of atomic versus nuclear transitions?
+How does equilibrium within a star compare to stability within the nucleus of an atom?
+Would a nucleus be able to exist if only gravitational and electric forces were considered?
+How did conservation lead to experimental evidence of the neutrino? (NOS)
+Which areas of physics involve exponential change? (NOS)
+E.4 Fission
+Guiding questions
+In which form is energy stored within the nucleus of the atom?
+How can the energy released from the nucleus be harnessed?
+Understandings
+Standard level and higher level: 4 hours
+Students should understand:
+• that energy is released in spontaneous and neutron-induced fission
+• the role of chain reactions in nuclear fission reactions
+• the role of control rods, moderators, heat exchangers and shielding in a nuclear power plant
+• the properties of the products of nuclear fission and their management.
+Additional higher level
+There is no additional higher level content in E.4.
+Guidance
+Calculations to determine the energy released in fission reactions are required.
+The impact of the long-term storage of nuclear waste should be considered.
+Linking questions
+In which form is energy released as a result of nuclear fission?
+How is binding energy used to determine the rate of energy production in a nuclear power plant?
+To what extent is there a role for fission in addressing climate change? (NOS)
+E.5 Fusion and stars
+Guiding questions
+How are elements created?
+What physical processes lead to the evolution of stars?
+Can observations of the present state of the universe predict the future outcome of the universe?
+Understandings
+Standard level and higher level: 6 hours
+Students should understand:
+• that the stability of stars relies on an equilibrium between outward radiation pressure and inward 
+gravitational forces
+• that fusion is a source of energy in stars
+• the conditions leading to fusion in stars in terms of density and temperature
+• the effect of stellar mass on the evolution of a star
+Syllabus content
+58 Physics guide
+
+\n--- PAGE 65 ---\n• the main regions of the Hertzsprung–Russell (HR) diagram and how to describe the main properties of 
+stars in these regions
+• the use of stellar parallax as a method to determine the distance d  to celestial bodies as given by 
+d(parsec) = 1p(arc‐second)
+• how to determine stellar radii.
+Guidance
+Energy release calculations are required.
+The conversion between astronomical units (AU), light years (ly) and parsecs (pc) is required.
+The sketching and interpretation of HR diagrams, including the location of main sequence stars, red giants, 
+super giants, white dwarfs, the instability strip and lines of constant radius, is required.
+HR diagrams will be labelled with luminosity on the vertical axis and temperature on the horizontal axis.
+The surface temperature and composition of a star can be determined from the stellar spectrum.
+The determination of stellar radii using luminosity and surface temperature is required.
+Cepheid variables are not required.
+Linking questions
+How is fusion like—and unlike—fission?
+How can the understanding of black-body radiation help determine the properties of stars?
+How do emission spectra provide information about observations of the cosmos?
+HR diagrams have been helpful in the classification of stars by finding patterns in their properties. Which 
+other areas of physics use classification to help our understanding? (NOS)
+In which ways has technology helped to collect data from observations of distant stars? (NOS)
+How can gas laws be used to model stars? (NOS)
+Syllabus content
+59Physics guide
+
+\n--- PAGE 66 ---\nGeneral
+Assessment is an integral part of teaching and learning. The most important aims of assessment in the 
+Diploma Programme (DP) are that it should support curricular goals and encourage appropriate student 
+learning. Both external and internal assessments are used in the DP. IB examiners mark work produced for 
+external assessment, while work produced for internal assessment is marked by teachers and externally 
+moderated by the IB.
+There are two types of assessment identified by the IB.
+• Formative assessment informs both teaching and learning. It is concerned with providing accurate and 
+helpful feedback to students and teachers on the kind of learning taking place and the nature of 
+students’ strengths and weaknesses in order to help develop students’ understanding and capabilities. 
+Formative assessment can also help to improve teaching quality, as it can provide information to 
+monitor progress towards meeting the course aims and objectives (0404-01).
+• Summative assessment gives an overview of previous learning and is concerned with measuring 
+student achievement at, or towards the end, of the course of study (0404-04).
+A comprehensive assessment policy is viewed as being integral with teaching, learning and course 
+organization. For further information, see the IB Programme standards and practices publication.
+The approach to assessment used by the IB is criterion-related, not norm-referenced. This approach to 
+assessment judges students’ work by their performance in relation to identified levels of attainment, and 
+not in relation to the work of other students. For further information on assessment within the DP, please 
+refer to the publication Assessment principles and practices—Quality assessments in a digital age.
+To support teachers in the planning, delivery and assessment of the DP courses, a variety of resources can 
+be found on the Programme Resource Centre or purchased from the IB store (store.ibo.org). Additional 
+publications such as specimen papers and markschemes, teacher support material (TSM), subject reports 
+and grade descriptors can also be found on the Programme Resource Centre. Past examination papers as 
+well as markschemes can be purchased from the IB store.
+Methods of assessment
+The IB uses several methods to assess work produced by students.
+Assessment criteria
+Assessment criteria are used when the assessment task is open-ended. Each criterion concentrates on a 
+particular skill that students are expected to demonstrate. An assessment objective describes what 
+students should be able to do, and assessment criteria describe how well they should be able to do it. Using 
+assessment criteria allows discrimination between different answers and encourages a variety of responses. 
+Each criterion comprises a set of hierarchically ordered level descriptors. Each level descriptor is worth one 
+or more marks. Each criterion is applied independently using a best-fit model. The maximum marks for each 
+criterion may differ according to the criterion’s importance. The marks awarded for each criterion are added 
+together to give the total mark for the piece of work.
+Markbands
+Markbands are a comprehensive statement of expected performance against which responses are judged. 
+They represent a single holistic criterion divided into level descriptors. Each level descriptor corresponds to 
+Assessment
+Assessment in the Diploma Programme
+60 Physics guide
+
+\n--- PAGE 67 ---\na range of marks to differentiate student performance. A best-fit approach is used to ascertain which 
+particular mark to use from the possible range for each level descriptor.
+Analytic markschemes
+Analytic markschemes are prepared for those examination questions that expect a particular kind of 
+response and/or a given final answer from students. They give detailed instructions to examiners on how to 
+break down the total mark for each question for different parts of the response.
+Marking notes
+For some assessment components marked using assessment criteria, marking notes are provided. Marking 
+notes give guidance on how to apply assessment criteria to the particular requirements of a question.
+Inclusive access arrangements
+Inclusive access arrangements are available for candidates with access requirements. Standard assessment 
+conditions may put candidates with assessment access requirements at a disadvantage by preventing them 
+from demonstrating their attainment level. Inclusive access arrangements enable candidates to 
+demonstrate their ability under assessment conditions that are as fair as possible.
+The IB document Access and inclusion policy provides details on all the inclusive access arrangements 
+available to candidates. The IB document Learning diversity and inclusion in IB programmes: Removing 
+barriers to learning outlines the position of the IB with regard to candidates with diverse learning needs in 
+the IB programmes. For candidates affected by adverse circumstances, the publication Diploma Programme 
+Assessment procedures (updated annually), which includes the general regulations, provides details on 
+access consideration.
+Responsibilities of the school
+The school is required to ensure that equal access arrangements and reasonable adjustments are provided 
+to candidates with learning support requirements that are in line with the IB documents Access and 
+inclusion policy and Learning diversity and inclusion in IB programmes: Removing barriers to learning.
+Assessment in the Diploma Programme
+61Physics guide
+
+\n--- PAGE 68 ---\nFirst assessment 2025
+Assessment component Weighting
+External assessment (3 hours) 80%
+Paper 1 (1 hour and 30 minutes)
+Paper 1A—Multiple-choice questions
+Paper 1B—Data-based questions
+(Total 45 marks)
+36%
+Paper 2 (1 hour and 30 minutes) 
+Short-answer and extended-response questions on standard level material only.
+(Total 55 marks)
+44%
+Internal assessment (10 hours) 20%
+The internal assessment consists of one task: the scientific investigation.
+This component is internally assessed by the teacher and externally moderated by the IB at 
+the end of the course.
+(Total 24 marks)
+Assessment
+Assessment outline—SL
+62 Physics guide
+
+\n--- PAGE 69 ---\nFirst assessment 2025
+Assessment component Weighting
+External assessment (4 hours 30 minutes) 80%
+Paper 1 (2 hours)
+Paper 1A—Multiple-choice questions
+Paper 1B—Data-based questions
+(Total 60 marks) 
+36%
+Paper 2 (2 hour and 30 minutes)
+Short-answer and extended-response questions on standard level and additional higher 
+level material.
+(Total 90 marks)
+44%
+Internal assessment (10 hours) 20%
+The internal assessment consists of one task: the scientific investigation.
+This component is internally assessed by the teacher and externally moderated by the IB at 
+the end of the course.
+(Total 24 marks)
+Assessment
+Assessment outline—HL
+63Physics guide
+
+\n--- PAGE 70 ---\nDetailed markschemes specific to each examination paper (paper 1 and paper 2) are used to assess 
+students.
+Some aspects of the examination are to be linked to a general understanding of the nature of science 
+(NOS). Specific NOS items in the guide can be associated with examination content but knowledge of 
+definitions within a NOS aspect will not be assessed.
+External assessment details—SL
+Paper 1
+Duration: 1 hour and 30 minutes
+Weighting: 36%
+Marks: 45
+Paper 1 is presented as two separate booklets 
+Paper 1A—25 marks
+• 25 multiple-choice questions on standard level material only.
+No marks are deducted for incorrect answers.
+Paper 1B—20 marks
+• Data-based questions.
+Paper 1A and paper 1B are to be completed together without interruptions.
+The questions on paper 1 test assessment objectives 1, 2 and 3.
+The use of calculators is permitted. See the Calculators guidance for examinations booklet on the Programme 
+Resource Centre.
+Each student must have access to a clean copy of the Physics data booklet during the examination. It is the 
+responsibility of the school to download a copy from IBIS or the Programme Resource Centre and to ensure 
+that there are sufficient copies available for all students.
+Paper 2
+Duration: 1 hour and 30 minutes
+Weighting: 44%
+Marks: 55
+• Short-answer and extended-response questions on standard level material only.
+The questions on paper 2 test assessment objectives 1, 2 and 3.
+The use of calculators is permitted. See the Calculators guidance for examinations booklet on the Programme 
+Resource Centre.
+Each student must have access to a clean copy of the Physics data booklet during the examination. It is the 
+responsibility of the school to download a copy from IBIS or the Programme Resource Centre and to ensure 
+that there are sufficient copies available for all students.
+Assessment
+External assessment
+64 Physics guide
+
+\n--- PAGE 71 ---\nExternal assessment details—HL
+Paper 1
+Duration: 2 hours
+Weighting: 36%
+Marks: 60
+Paper 1 is presented as two separate booklets
+Paper 1A—40 marks
+• 40 multiple-choice questions on standard level and additional higher level material.
+No marks are deducted for incorrect answers.
+Paper 1B—20 marks
+• Data-based questions.
+Paper 1A and paper 1B are to be completed together without interruptions.
+The questions on paper 1 test assessment objectives 1, 2 and 3.
+The use of calculators is permitted. See the Calculators guidance for examinations booklet on the Programme 
+Resource Centre.
+Each student must have access to a clean copy of the Physics data booklet during the examination. It is the 
+responsibility of the school to download a copy from IBIS or the Programme Resource Centre and to ensure 
+that there are sufficient copies available for all students.
+Paper 2
+Duration: 2 hours and 30 minutes
+Weighting: 44%
+Marks: 90
+• Short-answer and extended-response questions on standard level and additional higher level material.
+The questions on paper 2 test assessment objectives 1, 2 and 3.
+The use of calculators is permitted. See the Calculators guidance for examinations booklet on the Programme 
+Resource Centre.
+Each student must have access to a clean copy of the Physics data booklet during the examination. It is the 
+responsibility of the school to download a copy from IBIS or the Programme Resource Centre and to ensure 
+that there are sufficient copies available for all students.
+External assessment
+65Physics guide
+
+\n--- PAGE 72 ---\nPurpose of internal assessment
+Internal assessment is an integral part of the course and is compulsory for both SL and HL students. It 
+enables students to demonstrate the application of their skills and knowledge, and to pursue their personal 
+interests, without the time limitations and other constraints that are associated with written examinations. 
+The internal assessment should, as far as possible, be woven into normal classroom teaching and not be a 
+separate activity conducted after a course has been taught.
+The internal assessment requirements at SL and at HL are the same.
+Guidance and authenticity
+The scientific investigation (SL and HL) submitted for internal assessment must be the student’s own work. 
+However, it is not the intention that students should decide upon a title or topic and be left to work on the 
+internal assessment component without any further support from the teacher. The teacher should play an 
+important role during both the planning stage and the period when the student is working on the 
+internally assessed work. It is the responsibility of the teacher to ensure that students are familiar with:
+• the requirements of the type of work to be internally assessed
+• the Sciences experimentation guidelines publication
+• the assessment criteria. Students must understand that the work submitted for assessment must 
+address these criteria effectively.
+Teachers and students must discuss the internally assessed work. Students should be encouraged to initiate 
+discussions with the teacher to obtain advice and information, and students must not be penalized for 
+seeking guidance. As part of the learning process, teachers should read and give advice to students on one 
+draft of the work. The teacher should provide oral or written advice on how the work could be improved, 
+but not edit the draft. The next version handed to the teacher must be the final version for submission.
+It is the responsibility of teachers to ensure that all students understand the basic meaning and significance 
+of concepts that relate to academic integrity, especially authenticity and intellectual property. Teachers 
+must ensure that all student work for assessment is prepared according to the requirements and must 
+explain clearly to students that the internally assessed work must be entirely their own. Where 
+collaboration between students is permitted, it must be clear to all students what the difference is between 
+collaboration and collusion.
+All work submitted to the IB for moderation or assessment must be authenticated by a teacher, and must 
+not include any known instances of suspected or confirmed malpractice. Each student must confirm that 
+the work is their authentic work and constitutes the final version of that work. Once a student has officially 
+submitted the final version of the work, it cannot be retracted. The requirement to confirm the authenticity 
+of work applies to the work of all students, not just the sample work that will be submitted to the IB for the 
+purpose of moderation. For further details, refer to the IB publications Academic integrity policy, Diploma 
+Programme: From principles into practice and the relevant general regulations (in Diploma Programme 
+Assessment procedures).
+Authenticity may be checked by discussion with the student on the content of the work, and by scrutiny of 
+one or more of the following.
+• The student’s initial proposal
+• The first draft of the written work
+• The references cited
+Assessment
+Internal assessment
+66 Physics guide
+
+\n--- PAGE 73 ---\n• The style of writing compared with work known to be that of the student
+• The analysis of the work by a web-based plagiarism detection service such as www.turnitin.com
+The same piece of work cannot be submitted to meet the requirements of both the IA and the EE.
+Time allocation
+Internal assessment is an integral part of the physics course, contributing 20% to the final assessment in the 
+SL and the HL courses. This weighting should be reflected in the time that is allocated to teaching the 
+knowledge, skills and understanding required to undertake the work, as well as the total time allocated to 
+carry out the work.
+It is recommended that a total of approximately 10 hours (SL and HL) of teaching time should be allocated 
+to the work. This should include:
+• time for the teacher to explain to students the requirements of the internal assessment
+• class time for students to work on the internal assessment component and ask questions
+• time for consultation between the teacher and each student
+• time to review and monitor progress, and to check authenticity.
+Safety requirements and recommendations
+It is the responsibility of everyone involved in science education to make an ongoing commitment to safe 
+and healthy practical work.
+The working practices and protocols should be effective in safeguarding students and protecting the 
+environment. Schools are responsible for following national or local guidelines, which differ from country to 
+country. The Physics teacher support material provides some further guidance.
+Using assessment criteria for internal assessment
+For internal assessment, a number of assessment criteria have been identified. Each assessment criterion 
+has level descriptors describing specific achievement levels, together with an appropriate range of marks. 
+The level descriptors concentrate on positive achievement, although for the lower levels failure to achieve 
+may be included in the description.
+Teachers must judge the internally assessed work at SL and at HL against the criteria using the level 
+descriptors.
+• The same assessment criteria are provided for SL and HL.
+• The aim is to find, for each criterion, the descriptor that conveys most accurately the level attained by 
+the student, using the best-fit model. A best-fit approach means that compensation should be made 
+when a piece of work matches different aspects of a criterion at different levels. The mark awarded 
+should be one that most fairly reflects the balance of achievement against the criterion. It is not 
+necessary for every single aspect of a level descriptor to be met for that mark to be awarded.
+• When assessing a student’s work, teachers should read the level descriptors for each criterion until 
+they reach a descriptor that most appropriately describes the level of the work being assessed. If a 
+piece of work seems to fall between two descriptors, both descriptors should be read again and the 
+one that more appropriately describes the student’s work should be chosen.
+• Where there are two marks available within a level, teachers should award the upper marks if the 
+student’s work demonstrates the qualities described to a great extent; the work may be close to 
+achieving marks in the level above. Teachers should award the lower marks if the student’s work 
+demonstrates the qualities described to a lesser extent; the work may be close to achieving marks in 
+the level below.
+• Only whole numbers should be recorded; partial marks (fractions and decimals) are not acceptable.
+Internal assessment
+67Physics guide
+
+\n--- PAGE 74 ---\n• Teachers should not think in terms of a pass or fail boundary but should concentrate on identifying the 
+appropriate descriptor for each assessment criterion.
+• The highest level descriptors do not imply faultless performance but should be achievable by a 
+student. Teachers should not hesitate to use the extremes if they are appropriate descriptions of the 
+work being assessed.
+• A student who attains a high achievement level in relation to one criterion will not necessarily attain 
+high achievement levels in relation to the other criteria. Similarly, a student who attains a low 
+achievement level for one criterion will not necessarily attain low achievement levels for the other 
+criteria. Teachers should not assume that the overall assessment of the students will produce any 
+particular distribution of marks.
+• It is recommended that the assessment criteria be made available to students.
+Internal assessment details—SL and HL
+The scientific investigation
+Duration: 10 hours
+Weighting: 20%
+The IA requirement is the same for biology, chemistry and physics. The IA, worth 20% of the final 
+assessment, consists of one task—the scientific investigation.
+The scientific investigation is an open-ended task in which the student gathers and analyses data in order 
+to answer their own formulated research question.
+The outcome of the scientific investigation will be assessed through the form of a written report. The 
+maximum overall word count for the report is 3,000 words.
+The following are not included in the word count.
+• Charts and diagrams
+• Data tables
+• Equations, formulas and calculations
+• Citations/references (whether parenthetical, numbered, footnotes or endnotes)
+• Bibliography
+• Headers
+The following details should be stated at the start of the report.
+• Title of the investigation
+• IB candidate code (alphanumeric, for example, xyz123)
+• IB candidate code for all group members (if applicable)
+• Number of words
+There is no requirement to include a cover page or a contents page.
+Facilitating the scientific investigation
+The research question should be of interest to the student, but it is not necessary that it encompasses 
+concepts beyond those described by the understandings within the guide.
+The scientific investigation undertaken must have sufficient extent and depth to allow for all the descriptors 
+of the assessment criteria to be meaningfully addressed.
+The investigation of the research question must involve the collection and analysis of quantitative data that 
+should be supported by qualitative observations where appropriate.
+The scientific investigation allows a wide range of techniques for data gathering and analysis to be 
+employed. The approaches that could be used in isolation or in conjunction with each other are as follows.
+• Hands-on practical laboratory work
+Internal assessment
+68 Physics guide
+
+\n--- PAGE 75 ---\n• Fieldwork
+• Use of a spreadsheet for analysis and modelling
+• Extraction and analysis of data from a database
+• Use of a simulation.
+The Physics teacher support material contains further guidance on these possible approaches.
+Teachers must:
+• ensure that students are familiar with the assessment criteria
+• ensure that students are able to investigate their individual research question
+• counsel the students on whether their proposed methodology is feasible in consideration of available 
+time and resources
+• ensure that students have given appropriate consideration to safety, ethical and environmental factors 
+before undertaking the action phase
+• remind students of the requirements for academic integrity and the consequences of academic 
+malpractice. The difference between collaboration and collusion must be made clear.
+Developing the research question
+Each student is expected to formulate, investigate and answer a unique research question, seeking advice 
+from their teacher.
+A student must not present the same set of raw data as another student.
+Methodology for individual work
+Each student develops their own methodology to answer their individual research question. The student 
+investigates by:
+• manipulating an independent variable
+or
+• selecting variables during fieldwork
+or
+• selecting different data from external databases.
+The student might seek support from peers when collecting data.
+Methodology for collaborative work
+Collaborative work is optional and where it is facilitated the groups formed must be no larger than three 
+students. Students may organize their own groups. The teacher must provide guidance to ensure that all 
+students are fully engaged in the collaborative activity. Students must clearly understand the requirement 
+to conduct an individual investigation.
+The methodology developed to answer their individual research question may be in part the outcome of 
+collaborative activity. A student within the group investigates their individual research question by 
+manipulating:
+• a different independent variable from those selected by other group members
+or
+• the same independent variable with a different dependent variable from those selected by other 
+group members
+or
+• different data from those selected by other group members from within a larger communally acquired 
+data set.
+In this context, collaborative work is permitted under the understanding that the final report presented for 
+assessment is that of the individual student. A report by the group is not permitted. All authoring, including 
+Internal assessment
+69Physics guide
+
+\n--- PAGE 76 ---\nthe description of the methodology, must be done individually. This diagram illustrates a possible route 
+through the IA process where students collaborate.
+Figure 3
+A possible route through collaborative work
+Class collaboration to set up a database
+A school may take part in a large-scale activity collecting data to generate a database using standardized 
+protocols. If a student decides to utilize this database in order to answer their research question, then the 
+investigation must be treated as a database investigation. In such a case the methodology should be 
+focused on the way the data is filtered and sampled from the whole database in the same way as if the data 
+was wholly acquired from an external source.
+Assessing the scientific investigation
+The performance in IA at both SL and HL is marked against common assessment criteria, with a total mark 
+out of 24. Student work is internally assessed by the teacher and externally moderated by the IB.
+The four assessment criteria are as follows.
+• Research design
+Internal assessment
+70 Physics guide
+
+\n--- PAGE 77 ---\n• Data analysis
+• Conclusion
+• Evaluation
+Each assessment criterion has level descriptors describing specific achievement levels, together with an 
+appropriate range of marks. The level descriptors concentrate on positive achievement, although for the 
+lower levels failure to achieve may be included in the description.
+Teachers must judge the internally assessed work at SL and at HL against the same criteria using the level 
+descriptors and aided by the clarifications. The criteria must be applied systematically using a best-fit 
+approach—when a piece of work matches different aspects of a criterion at different levels the mark 
+awarded should be one that most fairly reflects the balance of achievement against the criterion. It is not 
+necessary for every single aspect of a level descriptor to be met for that mark to be awarded. The highest 
+level descriptors do not imply faultless performance.
+Where there are two or more marks available within a level, teachers should award the upper mark if the 
+student’s work largely satisfies the qualities described; the work may be close to achieving marks in the 
+level above. Teachers should award the lower marks if the student’s work demonstrates the qualities 
+described to a lesser extent; the work may be close to achieving marks in the level below.
+Only whole numbers must be recorded; partial marks (fractions and decimals) are not acceptable.
+The criteria should be considered independently. A student who attains a high achievement level in 
+relation to one criterion will not necessarily attain high achievement levels in relation to the other criteria. 
+Similarly, a student who attains a low achievement level for one criterion will not necessarily attain low 
+achievement levels for the other criteria. Teachers should not assume that the overall assessment of the 
+students will produce any particular distribution of marks.
+Where command terms are used in the level descriptors, they are to be interpreted as indicated in the 
+“Glossary of command terms” section of this guide. These command terms indicate the depth of treatment 
+required. Command terms used within the descriptors are provided in the following table.
+Assessment 
+objective
+Command term Descriptor
+AO1 State Give a specific name, value or other brief answer without explanation or 
+calculation.
+AO2 Identify Provide an answer from a number of possibilities.
+AO2 Outline Give a brief account or summary.
+AO2 Describe Give a detailed account.
+AO3 Explain Give a detailed account including reasons or causes.
+AO3 Justify Give valid reasons or evidence to support an answer or conclusion.
+Referencing and academic integrity
+Appropriate referencing to sourced information used in the report of the scientific investigation is 
+expected. Omitted or improper referencing will be considered to be academic malpractice.
+Students must ensure their assessment work adheres to the IB’s academic integrity policy and that all 
+sources are appropriately referenced. A student’s failure to appropriately acknowledge a source will be 
+investigated by the IB as a potential breach of regulations that may result in a penalty imposed by the IB 
+Final Award Committee. See the “Academic integrity” section of this guide for full details.
+Internal assessment criteria—SL and HL
+Download: Internal assessment criteria—SL and HL (PDF)
+Internal assessment
+71Physics guide
+
+\n--- PAGE 78 ---\nThere are four IA criteria for the scientific investigation. The marks and weightings are as follows.
+Criterion Maximum number of marks 
+available
+Weighting (%)
+Research design 6 25
+Data analysis 6 25
+Conclusion 6 25
+Evaluation 6 25
+Total 24 100
+Research design
+This criterion assesses the extent to which the student effectively communicates the methodology 
+(purpose and practice) used to address the research question.
+Marks Level descriptor
+0 The report does not reach the standard described by the descriptors below.
+1–2 • The research question is stated without context.
+• Methodological considerations associated with collecting data relevant to the 
+research question are stated.
+• The description of the methodology for collecting or selecting data lacks the detail 
+to allow for the investigation to be reproduced.
+3–4 • The research question is outlined within a broad context.
+• Methodological considerations associated with collecting relevant and sufficient 
+data to answer the research question are described.
+• The description of the methodology for collecting or selecting data allows for the 
+investigation to be reproduced with few ambiguities or omissions.
+5–6 • The research question is described within a specific and appropriate context.
+• Methodological considerations associated with collecting relevant and sufficient 
+data to answer the research question are explained.
+• The description of the methodology for collecting or selecting data allows for the 
+investigation to be reproduced.
+Clarifications for research design
+A research question with context should contain reference to the dependent and independent variables 
+or two correlated variables, include a concise description of the system in which the research question is 
+embedded, and include background theory of direct relevance.
+Methodological considerations include:
+• the selection of the methods for measuring the dependent and independent variables
+• the selection of the databases or model and the sampling of data
+• the decisions regarding the scope, quantity and quality of measurements (e.g. the range, interval or 
+frequency of the independent variable, repetition and precision of measurements)
+• the identification of control variables and the choice of method of their control
+• the recognition of any safety, ethical or environmental issues that needed to be taken into account.
+The description of the methodology refers to presenting sufficiently detailed information (such as specific 
+materials used and precise procedural steps) while avoiding unnecessary or repetitive information, so that 
+Internal assessment
+72 Physics guide
+
+\n--- PAGE 79 ---\nClarifications for research design
+the reader may readily understand how the methodology was implemented and could in principle repeat 
+the investigation.
+Data analysis
+This criterion assesses the extent to which the student’s report provides evidence that the student has 
+recorded, processed and presented the data in ways that are relevant to the research question.
+Marks Level descriptor
+0 The report does not reach a standard described by the descriptors below.
+1–2 • The recording and processing of the data is communicated but is neither clear nor 
+precise.
+• The recording and processing of data shows limited evidence of the consideration 
+of uncertainties.
+• Some processing of data relevant to addressing the research question is carried out 
+but with major omissions, inaccuracies or inconsistencies.
+3–4 • The communication of the recording and processing of the data is either clear or 
+precise.
+• The recording and processing of data shows evidence of a consideration of 
+uncertainties but with some significant omissions or inaccuracies.
+• The processing of data relevant to addressing the research question is carried out 
+but with some significant omissions, inaccuracies or inconsistencies.
+5–6 • The communication of the recording and processing of the data is both clear and 
+precise.
+• The recording and processing of data shows evidence of an appropriate 
+consideration of uncertainties.
+• The processing of data relevant to addressing the research question is carried out 
+appropriately and accurately.
+Clarifications for data analysis
+Data refers to quantitative data or a combination of both quantitative and qualitative data.
+Communication
+• Clear communication means that the method of processing can be understood easily.
+• Precise communication refers to following conventions correctly, such as those relating to the 
+annotation of graphs and tables or the use of units, decimal places and significant figures.
+Consideration of uncertainties is subject specific and further guidance is given in the Physics teacher 
+support material.
+Major omissions, inaccuracies or inconsistencies impede the possibility of drawing a valid conclusion that 
+addresses the research question.
+Significant omissions, inaccuracies or inconsistencies allow the possibility of drawing a conclusion that 
+addresses the research question but with some limit to its validity or detail.
+Conclusion
+This criterion assesses the extent to which the student successfully answers their research question with 
+regard to their analysis and the accepted scientific context.
+Internal assessment
+73Physics guide
+
+\n--- PAGE 80 ---\nMarks Level descriptor
+0 The report does not reach a standard described by the descriptors below.
+1–2 • A conclusion is stated that is relevant to the research question but is not supported 
+by the analysis presented.
+• The conclusion makes superficial comparison to the accepted scientific context.
+3–4 • A conclusion is described that is relevant to the research question but is not fully 
+consistent with the analysis presented.
+• A conclusion is described that makes some relevant comparison to the accepted 
+scientific context.
+5–6 • A conclusion is justified that is relevant to the research question and fully consistent 
+with the analysis presented.
+• A conclusion is justified through relevant comparison to the accepted scientific 
+context.
+Clarifications for conclusion
+A conclusion that is fully consistent requires the interpretation of processed data including associated 
+uncertainties.
+Scientific context refers to information that could come from published material (paper or online), 
+published values, course notes, textbooks or other outside sources. The citation of published materials 
+must be sufficiently detailed to allow these sources to be traceable.
+Evaluation
+This criterion assesses the extent to which the student’s report provides evidence of evaluation of the 
+investigation methodology and has suggested improvements.
+Marks Level descriptor
+0 The report does not reach a standard described by the descriptors below.
+1–2 • The report states generic methodological weaknesses or limitations.
+• Realistic improvements to the investigation are stated.
+3–4 • The report describes specific methodological weaknesses or limitations.
+• Realistic improvements to the investigation that are relevant to the identified 
+weaknesses or limitations, are described.
+5–6 • The report explains the relative impact of specific methodological weaknesses or 
+limitations.
+• Realistic improvements to the investigation, that are relevant to the identified 
+weaknesses or limitations, are explained.
+Clarifications for evaluation
+Generic is general to many methodologies and not specifically relevant to the methodology of the 
+investigation being evaluated.
+Methodological refers to the overall approach to the investigation of the research question as well as 
+procedural steps.
+Weaknesses could relate to issues regarding the control of variables, the precision of measurement or the 
+variation in the data.
+Internal assessment
+74 Physics guide
+
+\n--- PAGE 81 ---\nClarifications for evaluation
+Limitations could refer to how the conclusion is limited in scope by the range of the data collected, the 
+confines of the system or the applicability of assumptions made.
+Internal assessment
+75Physics guide
+
+\n--- PAGE 82 ---\nCommand terms for physics
+Students must be familiar with the following key terms and phrases used in examination questions, which 
+are to be understood as described in this section. Although these terms will be used frequently in 
+examination questions, other terms may be used to direct students to present an argument in a specific 
+way. These command terms indicate the depth of treatment required.
+Assessment objective 1
+Command term Definition
+Draw Represent by means of a labelled, accurate diagram or graph, using a pencil. A 
+ruler (straight edge) should be used for straight lines. Diagrams should be drawn 
+to scale. Graphs should have points correctly plotted (if appropriate) and joined in 
+a straight line or smooth curve.
+State Give a specific name, value or other brief answer without explanation or 
+calculation.
+Assessment objective 2
+Command term Definition
+Annotate Add brief notes to a diagram or graph.
+Calculate Obtain a numerical answer showing the relevant stages in the working.
+Describe Give a detailed account.
+Estimate Obtain an approximate value.
+Outline Give a brief account or summary.
+Assessment objective 3
+Command term Definition
+Analyse Break down in order to bring out the essential elements or structure.
+Determine Obtain the only possible answer.
+Discuss Offer a considered and balanced review that includes a range of arguments, factors 
+or hypotheses. Opinions or conclusions should be presented clearly and supported 
+by appropriate evidence.
+Explain Give a detailed account including reasons or causes.
+Predict Give an expected result.
+Show Give the steps in a calculation or derivation.
+Appendices
+Glossary of command terms
+76 Physics guide
+
+\n--- PAGE 83 ---\nCommand term Definition
+Sketch Represent by means of a diagram or graph (labelled as appropriate). The sketch 
+should give a general idea of the required shape or relationship, and should include 
+relevant features.
+Suggest Propose a solution, hypothesis or other possible answer.
+Glossary of command terms
+77Physics guide
+
+\n--- PAGE 84 ---\nThis bibliography lists the principal works used to inform the curriculum review. It is not an exhaustive list 
+and does not include all the literature available: judicious selection was made in order to better advise and 
+guide teachers. This bibliography is not a list of recommended textbooks.
+Bryson, B. (2016). A short history of nearly everything (p. 212). Black Swan. https://quotepark.com/quotes/
+1483518-bill-bryson-physics-is-really-nothing-more-than-a-search-for-u/
+Dewey, J. (1910). What is science? Science 31(787), pp. 121–127.
+Feynman, R., Leighton, R. & Sands M. (1963). The Feynman Lectures on Physics. California Institute of 
+Technology, Gottlieb, M. A. and Pfeiffer R. https://www.feynmanlectures.caltech.edu/I_02.html
+Feynman, R. (1969). What is science? The Physics Teacher, 7 (6), pp. 313–320. http://www.feynman.com/
+science/what-is-science/
+Fischer, M. Fabing, H (Ed.), & Marr, R. (Ed.). (1944). Fischerisms (p. 21). C.C. Thomas. https://todayinsci.com/F/
+Fischer_Martin/FischerMartin-Quotations.htm
+Hawking, S. (January 2012). Quote taken from a recorded speech played to a symposium at Cambridge 
+University to mark his 70th birthday. https://www.theguardian.com/science/2012/jan/08/stephen-
+hawking-70-cambridge-speech
+Hubble, E.P. (1954). The nature of science, and other lectures (p. 6). The Huntington Library. http://
+www.quotationspage.com/quote/41763.html
+International Baccalaureate. (2015). “Approaches to teaching” in Approaches to teaching and learning guide. 
+International Baccalaureate Organization. https://resources.ibo.org/dp/resource/11162-43504
+International Baccalaureate. (2019). What is an IB education? International Baccalaureate Organization. 
+https://resources.ibo.org/ib/works/edu_11162-58229
+International Baccalaureate. (2014). “Conceptual understanding” in MYP: From principles into practice. 
+International Baccalaureate Organization. https://resources.ibo.org/myp/resource/11162-32896
+Randall, L. (2012). Knocking on heaven’s door: How physics and scientific thinking illuminate our universe (p. 
+398). Random House.
+Appendices
+Bibliography
+78 Physics guide

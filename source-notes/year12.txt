@@ -1,0 +1,4516 @@
+\n--- PAGE 1 ---\nBRENT INTERNATIONAL SCHOOL MANILA 
+GRADE 12 HL PHYSICS 
+Instructors: 
+Overview of the Course: 
+IB Physics Higher Level 12 is the second year of a two-year course aimed at enhancing the understanding and 
+application of physics concepts and principles. The course uses a student-centered, inquiry-based approach to study 
+various physical phenomena. Students will analyze and process data to determine relationships between physical 
+variables, leading to logical conclusions about these relationships. Besides scientific investigation, students will 
+engage in problem-solving activities that involve critical thinking and the basic application of physics formulas. 
+TEXTS: Physics: Course Companion by David Homer, Maciej Pietka, and William Heathcote 
+Calculator:  Standard Scientific Calculator or TI-83 or TI-85 
+Notebook:  BRENT LINED notebook or three-ring binder to accommodate class materials and IB Physics Workbook 
+(provided) 
+COURSE OUTLINE: 
+(# of weeks)  --  approx. 16 wks/semester 
+C1 Simple harmonic motion (1) 
+C2 Wave model (1) 
+C3 Wave Phenomena (2) 
+C4 Standing waves and resonance (2) 
+C5 Doppler effect (1) 
+Internal Assessment (2) 
+B4 Thermodynamics (2) 
+D4 Induction (2) 
+A4 Rigid body mechanics (2) 
+A5 Galilean and special relativity (3) 
+E1 Structure of the atom (1) 
+E3 Radioactive Decay (1) 
+E4 Fission (2) 
+E5 Fusion and stars (2) 
+E2 Quantum physics (2) 
+IB EXAM REVIEW (3) 
+April – IB EXAMS 
+LABO
+RATORY EXPERIMENTS THROUGHOUT SEMESTER 1 & 2 
+Experiments focusing on DESIGN and DATA 
+LOGGING 
+DESIGN choices – investigations suitable for (D) 
+Snell’s Law DESIGN choice – 
+Wavelength of a laser and the diffraction grating DESIGN choice # -- 
+Standing waves and string tension DESIGN choice # -- 
+Alpha decay DESIGN choice # -- 
+The photoelectric effect DESIGN choice # -- 
+DESIGN choice # -- 
+DESIGN choice # -- 
+1
+\n--- PAGE 2 ---\nCOURSE GRADING: 
+Summative Assessments – 60% 
+Knowledge of content – 15% 
+Application of knowledge – 15% 
+Critical thinking and reasoning – 30% 
+Application of inquiry tools (i.e. laboratory work) – 28% 
+Content, application, and transfer tasks (i.e. projects, homework, etc.) – 2% 
+Semester Exam – 10% 
+Homework assignments will be given each time there is class. In most cases, students will have time to 
+complete the homework in class. Answers to questions will be provided the following class with the intent 
+that students will reflect on why answers were correct, partially correct, or incorrect. 
+Laboratory experiments will often be done at the beginning of a unit. The goal is for students to make 
+connections between quantities – specifically the independent and dependent variables under investigation. 
+Formative assessments will be given every class and vary in nature. The goal is for students is to rehearse 
+and reflect on their learning to improve on the learning outcome. 
+Summative assessments will be given at the end of a unit. 
+Class structure (students can expect the following): 
+(1) Question and answer session on any homework assigned.
+(2) Engagement session – A brief five-minute introduction to a concept that motivates thinking about
+the phenomenon.
+(3) Exploration – A lab activity involving the collection of data from an online simulation or through
+the use of laboratory equipment.
+(4) Explanation – A ten to twenty minute explanation of the concepts and material under investigation.
+Students will be expected to take notes. Various types of formative assessments will be utilized to
+help students improve and reflect on the learning outcomes.
+(5) Elaboration – Students will be assigned conceptual questions or computational questions with
+regards to the physics principles under investigation.
+2
+\n--- PAGE 3 ---\nC1 Simple harmonic motion
+Students should understand
+➢ oscillations and simple harmonic motion
+➢ the defining equation of simple harmonic motion
+➢ the conditions for simple harmonic motion
+➢ displacement, amplitude, time period, frequency, angular frequency and equilibrium position
+➢ phase angle (HL only)
+➢ the mass-spring system and the simple pendulum
+➢ energy changes during an oscillation
+➢ kinematic and energy calculations involving simple harmonic motion (HL only).
+Term Definition/Concept/Explanation Illustration/Explanation
+Oscillations
+– regular variation
+in motion around
+a single point
+Examples of oscillations
+1. ______________________________________
+2. ______________________________________
+3. object bobbing in water (eg. buoy, boat)
+4. vibrating cantilever (eg. diving board)
+5. earthquake
+6. bouncing ball
+7. musical instruments (eg. strings, percussion, brass,
+woodwinds, vocal chords)
+Oscillations are mathematically described with
+_____________________________________________
+Definitions:
+Displacement (for waves)(x) – distance a particle moves in a particular direction from its 
+_________________________________________ Unit: m, meter.
+Amplitude (x0) – maximum displacement from the mean position. Unit: m, meter
+Frequency (f) – _______________________________________ per unit time. Unit: s-1 = Hertz (Hz)
+Period (T) – time taken for one complete oscillation (cycle) (OR: time taken for one cycle to pass a given point)  
+Worked Example
+The pendulum of a wall clock completes 25 oscillations in 30s. Calculate:
+(a) the period
+(b) the frequency of the oscillations.
+Complete Practice Questions #1 to #3 on page 371 in the textbook.
+3
+\n--- PAGE 4 ---\nSimple Harmonic 
+Motion SHM)
+Angular 
+Frequency
+Unit: s-1  (note: the 
+radian is ignored 
+because it is a 
+unitless ratio)
+Simple Harmonic Motion – ______________________________________________________
+_____________________________________________________________________________
+_____________________________________________________________________________ 
+The defining equation for SHM
+___________________________
+Mass-Spring
+System
+Does the mass-spring system represent SHM? 
+Pendulum The restoring force for the pendulum is given by:
+4
+\n--- PAGE 5 ---\nWorked Example
+The graph shows how the acceleration a of an object varies with the displacement x.
+(a) Outline why the object performs simple harmonic motion.
+(b) State the amplitude of the oscillations.
+(c) Determine the period.
+Worked Example
+A mass of 0.045 kg oscillates simple harmonically at the end of a spring of spring constant 1.3 kN m-1.  Calculate the 
+frequency of the oscillations.
+Worked Example
+An object of mass 2.1 kg attached to a spring undergoes simple harmonic motion on a horizontal frictionless surface. 
+The period of oscillations is 1.8 s and the amplitude is 0.25 m Calculate:
+(a) the angular frequency 
+(b) the maximum force acting on the object
+(c) the spring constant.
+Complete Practice Questions #4 to #8 on pages 376 and 377 of the textbook.
+5
+\n--- PAGE 6 ---\nEnergy changes in 
+simple harmonic 
+motion
+Interchange between kinetic and potential energy. A mass oscillates back and forth on a 
+spring.  Analyze the energy in the system at each location.
+6
+\n--- PAGE 7 ---\nWorked Example
+A body undergoes simple harmonic motion of a frequency 20 Hz. How many times during one second is the kinetic 
+energy of the body zero?
+Worked Example
+The graph shows how the potential energy of a simple pendulum varies with time.
+(a) Identify the first time when:
+(i) the pendulum passes through the equilibrium position
+(ii) the kinetic and the potential energies are equal.
+(b) State the period of oscillations.
+(c) Draw a graph of the variation of the kinetic energy of the pendulum with time.
+7
+\n--- PAGE 8 ---\nSimple Harmonic Motion (AHL)
+The displacement function – A mass on a spring is allowed to oscillate up and down about its mean position without 
+friction. Two traces of the displacement (x) of the mass versus time (t) are shown.
+Initial condition: 
+Spring starts at it’s equilibrium 
+position where .
+Function:
+________________________
+Initial condition:
+Spring starts at an extension or 
+compression .
+Function: 
+_________________________
+Displacement function:
+__________________________
+Worked Example
+Write the functions for the 
+following graph:
+Velocity function:
+____________________________
+Acceleration function:
+____________________________________
+Another useful equation derived 
+using trigonometric identities _________________________________________
+8
+\n--- PAGE 9 ---\nWorked Example
+The graph shows how the displacement of a body performing simple harmonic motion varies with time. Calculate:
+(a) the angular frequency of oscillations
+(b) the maximum velocity of the body
+(c) the velocity after 3.0 s
+(d) the maximum acceleration.
+Worked Example
+A particle of mass 4.0 g undergoes simple harmonic motion with frequency 25 Hz and amplitude 13mm. Calculate, 
+when the displacement of the particle is 10 mm:
+(a) the speed
+(b) the force acting on the particle.
+Complete Practice Questions #9 to #11 on pages 381 and 382 of the textbook.
+Phase angle and phase difference
+The phase angle results in a horizontal translation of the displacement, velocity, and acceleration functions for SHM.
+The resulting equations become:
+where  is the phase angle representing the horizontal translation. The phase difference is represented by .
+9
+\n--- PAGE 10 ---\nWorked Example
+The graph shows how the displacement x varies with time t for an object undergoing simple harmonic motion.
+(a) The displacement can be modelled with an equation 
+(i) State the value of .
+(ii) Calculate the value of .
+(iii) Determine the phase angle, .
+(b) Calculate the velocity of the object at .
+Worked Example
+The displacement x, in metres, of a particle undergoing simple harmonic motion is given by the equation 
+, where  is the time in seconds.
+(a) Calculate the period of motion.
+(b) Calculate the velocity of the particle after 0.30 s.
+Complete Practice Questions #12 and #13 on page 384 of the textbook.
+Energy changes in simple harmonic motion (AHL)
+_______________________________________________________________
+Worked Example
+A mass of 0.15 kg attached at the end of a weightless spring oscillates with simple harmonic motion. The mass passes 
+through the equilibrium position with a speed of 1.4 ms-1.
+(a) Calculate the total energy of the oscillating system.
+(b) The spring constant is 6.4 N m-1. Determine the amplitude of the oscillations.
+10
+\n--- PAGE 11 ---\nWorked Example
+The graph shows how the potential energy of an object executing simple harmonic motion varies with the 
+displacement of the object. The amplitude of motion is 20cm.
+(a) State the total energy of the oscillating system.
+(b) Estimate, using the graph, the displacement of the object when the kinetic and the potential energies are
+equal.
+(c) Sketch a graph showing the variation of the kinetic energy of the object with displacement.
+(d) The mass of the object is 2.6 kg. Calculate the maximum speed of the object.
+(e) Determine the period of the oscillations.
+Complete Practice Questions #14 to #17 on page 386 in the textbook.
+11
+\n--- PAGE 12 ---\n8809-6505
+±± 13+<6,63(1*7=;;
+B2. 7KLV TXHVWLRQ LV LQ two SDUWV Part 1 LV DERXW VLPSOH KDUPRQLF PRWLRQ Part 2 LV DERXW
+HOHFWULF FLUFXLWV
+ Part 1 6LPSOHKDUPRQLFPRWLRQ
+ D ,Q WHUPV RI WKH DFFHOHUDWLRQ VWDWH two FRQGLWLRQV QHFHVVDU\ IRU D V\VWHP WR SHUIRUP
+VLPSOH KDUPRQLF PRWLRQ
+  
+  
+[2]
+ E $WXQLQJIRUNLVVRXQGHGDQGLWLVDVVXPHGWKDWHDFKWLSYLEUDWHVZLWKVLPSOHKDUPRQLF
+PRWLRQ
+d
+7KHH[WUHPHSRVLWLRQVRIWKHRVFLOODWLQJWLSRIRQHIRUNDUHVHSDUDWHGE\DGLVWDQFH d
+ L 6WDWHLQWHUPVRIdWKHDPSOLWXGHRIYLEUDWLRQ
+ 
+ 
+[1]
+ LL 2QWKHD[HVEHORZVNHWFKDJUDSKWRVKRZKRZWKHGLVSODFHPHQWRIRQHWLSRIWKH
+WXQLQJIRUNYDULHVZLWKWLPH [1]
+GLVSODFHPHQW
+0 0 WLPH
+  LLL 2Q\RXUJUDSKODEHOWKHWLPHSHULRG TDQGWKHDPSOLWXGHa [2]
+(This question continues on the following page)
+12
+\n--- PAGE 13 ---\n8809-6505
+±±
+Turn over
+13+<6,63(1*7=;;
+(Question B2, part 1 continued)
+ F 7KH IUHTXHQF\ RI RVFLOODWLRQ RI WKH WLSV LV  +] DQG WKH DPSOLWXGH RI RVFLOODWLRQ RI
+HDFK WLS LV  PP'HWHUPLQH WKH PD[LPXP
+ L OLQHDUVSHHGRIDWLS
+ 
+ 
+ 
+[2]
+ LL DFFHOHUDWLRQRIDWLS
+ 
+ 
+ 
+[2]
+(This question continues on the following page)
+13
+\n--- PAGE 14 ---\n2209-6517
+±± M09/4/PHYSI/SP2/ENG/TZ2/XX+
+B2. 7KLVTXHVWLRQLVLQ twoSDUWV Part 1LVDERXWVLPSOHKDUPRQLFPRWLRQDQGZDYHV Part 2LV
+DERXWĮSDUWLFOHVFDWWHULQJDQGQXFOHDUSURFHVVHV
+ Part 1 6LPSOHKDUPRQLFPRWLRQDQGZDYHV
+ $QREMHFWLV YLEUDWLQJ LQ DLU7KH YDULDWLRQ ZLWK GLVSODFHPHQW x RI WKH DFFHOHUDWLRQa RI WKH
+REMHFW LV VKRZQ EHORZ
+a / m s–2
+3000
+2000
+1000
+0
+–1000
+–2000
+–3000
+ – 0.6 –0.4 –  0.2 0.0 0.2 0.4 0.6
+x / mm
+(This question continues on the following page)
+14
+\n--- PAGE 15 ---\n2209-6517
+±±
+Turn over
+M09/4/PHYSI/SP2/ENG/TZ2/XX+
+(Question B2, part 1 continued)
+ D 6WDWHDQGH[SODLQ twoUHDVRQVZK\WKHJUDSKRSSRVLWHLQGLFDWHVWKDWWKHREMHFWLVH[HFXWLQJ
+VLPSOHKDUPRQLFPRWLRQ
+  
+ 
+ 
+  
+ 
+ 
+[4]
+ E 8VHGDWDIURPWKHJUDSKWRVKRZWKDWWKHIUHTXHQF\RIRVFLOODWLRQLV +]
+ 
+ 
+ 
+ 
+ 
+[4]
+ F 6WDWHWKHDPSOLWXGHRIWKHYLEUDWLRQV
+ 
+[1]
+ G 7KHPRWLRQRIWKHREMHFWJLYHVULVHWRDORQJLWXGLQDOSURJUHVVLYHWUDYHOOLQJVRXQGZDYH
+  L 6WDWHZKDWLVPHDQWE\DORQJLWXGLQDOSURJUHVVLYHZDYH
+ 
+ 
+ 
+ 
+[2]
+  LL 7KH VSHHG RI WKH ZDYH LV  P V –18VLQJ WKH DQVZHU LQ E FDOFXODWH WKH
+ZDYHOHQJWK RI WKH ZDYH
+ 
+ 
+[2]
+(This question continues on the following page)
+15
+\n--- PAGE 16 ---\nC2 Wave model
+Students should understand
+➢ transverse travelling waves
+➢ longitudinal travelling waves
+➢ wavelength, frequency, time period and wave speed when applied to wave motion
+➢ the nature of sound waves
+➢ the nature of electromagnetic waves
+➢ the difference between mechanical waves and electromagnetic waves.
+Pulse –single oscillation or disturbance Continuous traveling wave –succession of oscillations
+(series of periodic pulses)
+Both pulses and traveling waves____________________ though there is__________________ of the medium
+through which the wave passes.
+Mechanical Waves:__________________ (air, fluid, solid) to transfer energy eg. – sound waves, water waves,
+waves on strings, earthquake waves
+Electromagnetic Waves:______________________________ to transfer energy eg. – light waves, all EM
+waves
+EM waves oscillate as electric and magnetic fields – each one creating the other
+Transverse wave
+A transverse wave is one
+in which thedirection of
+the oscillationof the
+particles of the medium
+is_________________ to
+the direction of travel of
+the wave (the energy).
+Examples: light, violin
+and guitar strings, ropes,
+earthquake S waves
+Longitudinal wave
+A longitudinal wave is
+one in which the
+direction of the
+oscillation of the
+particles of the
+medium is
+________________
+to thedirection of
+travelof the wave
+(the energy).
+Example: sound,
+earthquake P wave
+16
+\n--- PAGE 17 ---\nVocabulary for Waves
+Frequency, f, is the ______________________________ per second formed by the wave source. This is also the
+number of crests that pass a point in one second. The unit is the____________________.
+Wavelength, , is the shortest distance between two points on the wave that have the same phase, that is, between
+________________________________ and two consecutive troughs.
+Time period, T, is the time that it takes ________________________ to pass a fixed point. This is the same as the time
+for one particle in the wave to undertake one cycle of the oscillation.
+Amplitude, xo, is the maximum displacement of a particle in the wave from its ____________________ (rest) position.
+Wave speed, c, is the distance a wave moves forward in one second in its direction of propagation.
+Graphing wave motion
+A displacement-distance graphshow how displacement of the medium varies with distance along the wave at
+__________________________. For a mechanical transverse wave, this is essentially a photograph of the wave profile.
+A displacement-time graphshows the variation with time of the motion of______________________ in the medium.
+Transverse
+Wave
+Longitudinal
+Wave
+17
+\n--- PAGE 18 ---\nDrawing a wave for each ¼ of a period that it moves forward
+18
+\n--- PAGE 19 ---\n19
+\n--- PAGE 20 ---\nWorked Example
+A longitudinal wave travels in a medium from left to right. The diagram shows how the displacement of the particles in
+the medium at time t= 0 varies with the distance x along the wave. Displacements to the right of the equilibrium
+positions are positive. The point labelled P represents a particle of the medium whose instantaneous displacement is
+zero.
+(a) State the wavelength and the amplitude of the wave.
+(b) Explain the direction of motion of P at t = 0.
+(c) Explain why P is at a centre of a rarefaction.
+(d) Draw, on a copy of the diagram, a graph showing the
+displacement of the particles at time where T is
+the period of the wave.
+(e) State the displacement and the velocity of particle P at
+.
+Worked Example
+A wave travels in a medium from left to right. The graph shows how
+the displacement of a particle P in the medium varies with time t.
+(a) Calculate the frequency of the wave.
+(b) Another particle Q is directly to the right of P. The
+equilibrium positions of P and Q are separated by one
+quarter of the wavelength. Draw a graph to show the
+variation with time of the displacement of Q.
+Complete Practice Questions #1 to #4 on page 396 in the textbook.
+20
+\n--- PAGE 21 ---\nTerm Definition/Concept/Explanation Illustration/Explanation
+Wave equation Relionship between wave speed, frequency, and
+wavelength
+The distance the wave moves forward in once cycle
+or period is one wavelength, .
+__________________________
+__________________________
+Worked Example
+A loudspeaker emits a sound wave of
+frequency 1200 Hz. The speed of sound in
+air is 340 m s-1. Calculate, for this wave:
+(a) the wavelength
+(b) the time it takes to travel a
+distance of 5.0 m from the
+loudspeaker.
+Worked Example
+A transverse wave of wavelength 1.1 m is produced in a stretched string by periodically moving one end of the string
+up and down with a period of 0.60s. Calculate the speed of the wave.
+Worked Example
+The graph shows how the displacement of a wave on the surface of a lake varies with distance. The red line shows the
+displacement at t = 0 and the blue line shows the displacement at t = 0.25s. Between t= 0 and t= 0.25 s the wave has
+moved by less than one wavelength. Calculate:
+(a) the speed of the wave
+(b) the period.
+Complete Practice Questions #5 to #7 on page 398 in the textbook.
+The nature of sound waves
+Note the rad phase difference between
+compressions and the corresponding
+displacement maxima on the graph.
+Measuring the speed of sound experimentally
+(1) Downloadphyphoxfor your smart phone. (2) Start the acoustic stopwatch and hit the “play” icon. (3) Adjust the
+threshold so that the stopwatch is not triggered by the background noise. (4) Using two smart phones, with the
+acoustic stopwatch ready, place them 5 meters apart. (5) Each person stands next to a smart phone. (6) Person one
+claps followed by person two clapping. Calculate the speed of sound using: (7) Do at least 5 trials, calculate
+an average, and provide an uncertainty on the average speed of sound determined.
+Complete Practice Questions #8 and #9 on page 400 in your textbook.
+21
+\n--- PAGE 22 ---\nThe nature of electromagnetic waves
+● They are regarded as _______________________.
+● They can travel through a vacuum.
+● They have an identical ____________________________.
+● They consist of a time-varying electric field at right angles
+to a time-varying magnetic field. The strengths of these
+fields have their maximum value at the same time.
+● They arise from the motion of accelerated electrons (or
+other charged particles) or occur when charged particles
+change energy land photons are emitted).
+● Like all waves, electromagnetic radiation has a frequency, and hence a wavelength. However, this wavelength
+changes when the radiation enters a different medium whereas the frequency remains constant.
+Region G
+(gamma)
+X
+(x-ray)
+U
+(ultraviolet)
+V
+(visible)
+I
+(infrared)
+M
+(microwave)
+R
+(radio)
+Frequency
+(Hz)
+1025 1020 1015 1015 1015 1010 105
+Wavelength
+(m)
+10-12 10-10 10-8 10-6 10-4 10-2 100
+Complete Practice Questions #10 to #12 on page 405 of the textbook.
+22
+\n--- PAGE 23 ---\nC3 Wave phenomena 
+Students should understand 
+➢ wavefronts and rays
+➢ reflection, refraction, and transmission of waves at a boundary between media
+➢ diffraction around objects and through apertures
+➢ Snell's law, critical angle, and total internal reflection superposition of waves and wave pulses coherent
+sources
+➢ double-source interference
+➢ constructive interference and destructive interference
+➢ Young's double-slit interference
+➢ single-slit diffraction (HL only)
+➢ the modulation of a double slit interference pattern by a single-slit diffraction pattern interference at multiple
+slits and diffraction gratings. (HL only)
+Wavefronts 
+and rays 
+Wavefronts are surfaces that move with the wave and are perpendicular to the direction of the wave 
+motion. Consecutive wavefronts are imagined to be one wavelength apart. 
+Rays are lines that show the direction of _______________ by the wave. They are locally 
+_____________________ to the wavefront. 
+Reflection and transmission of waves 
+A wave that meets a boundary between two different medium will be partially reflected and partially transmitted. If 
+the surface is not transparent, such as a mirror, nearly all of the wave will be reflected. Planes waves will reflect 
+according to the law of reflection and refract according to Snell’s Law. 
+Law of reflection Diffraction of waves – the ______________________ of 
+waves as they pass through an aperture or around objects
+23
+\n--- PAGE 24 ---\nDiffraction of waves explained by Hyugen’s principle – a wavefront is made of an ______________________ of point 
+sources waves. Each point source creates a wavelet that combine to create a larger line wavefront.  
+E
+xamples of diffraction: 
+(1) Sound w aves will pass around a barrier such as a wall.
+(2) Lase r light shining on a narrow slit.
+(3) W ater waves will pass around rocks or a barrier.
+A diffracted wave does not change frequency. 
+Diffraction affects are noticeable when the aperture size is similar 
+in size to the wavelength of the wave. 
+Refraction of waves 
+I
+ndex of refraction: 
+the ratio of the 
+speed of light in a 
+vacuum to the speed 
+of light in a medium. 
+The frequency of the 
+wave is constant 
+when traveling in 
+both medium. 
+_______________ 
+R
+efractive index of 
+some materials 
+air 1.00 
+water 1.33 
+glass 1.50 
+diamond 2.42 
+Snell’s Law 
+_________________________________   
+I
+n which medium is the speed of the wave 
+greater? (medium 1 or medium 2? why?) 
+Worked Example 
+A ray of light in air is incident on a glass surface at an angle of 65.0° with the normal. The refractive index of the glass is 
+1.48. 
+(a) Calcula te the angle of refraction.
+(b) The  wavelength of light in air is 532nm. Calculate the wavelength in the glass.
+24
+\n--- PAGE 25 ---\nWorked Example 
+Travelling sea waves pass a boundary between shallow water and deep water. 
+The diagram shows the direction of the waves and some of the wavefronts. 
+(a) Explain what the diagram implies regarding the speed of the waves in
+shallow and deep water.
+(b) The speed of the waves in shallow water is 4.0 ms-1. Calculate the
+speed of the waves in deep water.
+Complete Practice Questions #1 and #2 on page 413 of the textbook. 
+Total Internal 
+Reflection 
+When light travels from a more optically dense medium to a less optically dense medium, the light 
+will reflect completely above a certain angle, called the _____________________. The phenomenon 
+is called ______________________________. 
+Worked Example 
+Calculate the critical angle for light rays entering air from glass of refractive index 1.60. 
+Worked Example 
+The diagram shows the direction of a light ray travelling from glass of refractive 
+index 1.60 to water of refractive index 1.33. 
+(a) Calculate the critical angle from glass to water.
+(b) Explain whether light emerges from the glass.
+Complete Practice Questions #3 and #4 on pages 415 and 416 of the textbook. 
+25
+\n--- PAGE 26 ---\nSuperposition Principle 
+_____________________
+_____________________
+_____________________
+_____________________
+_____________________
+_____________________ 
+Constructive interference 
+Resultant waveform is larger than either 
+of the two original waveforms 
+Destructive interference 
+Resultant waveform is smaller than 
+either of the two original waveforms. 
+Worked Example 
+By taking appropriate measurements, sketch the resultant waveform of the combination of wave A and wave B. 
+Complete Practice Questions #5 and #6 on page 417 of the textbook. 
+Double-slit interference 
+(interference and 
+diffraction) 
+p.d.=_________________
+Constructive interference 
+_____________________ 
+Destructive interference 
+_____________________ 
+Condition to observe two source 
+interference – Waves must be ___________. 
+Coherent waves are those waves having the 
+same frequency, same wavelength, and a 
+___________________________________.  
+Two source interference – sound or light 
+26
+\n--- PAGE 27 ---\nModelling two source 
+interference 
+When a single wave splits 
+into two due to diffraction 
+or reflection and 
+transmission, the two 
+waves travel different 
+distances. The difference 
+in distance that each wave 
+travels is called the path 
+difference (p.d.). The path 
+difference causes the 
+waves to be out of phase 
+– one wave ahead of the
+other or visa versa. Ergo,
+the waves will interfere.
+When the two waves
+come back in contact with
+each other, depending
+upon the path difference
+the waves may undergo
+complete destructive (p.d.
+= (n+½)λ) or constructive
+interference (p.d. = nλ)
+The distance between consecutive fringes are equidistant. 
+Worked Example 
+Two loudspeakers A and B, driven in phase, emit sound of the same 
+amplitude and frequency of 1400 Hz. A microphone is placed at point M, 
+16.0 m from A and 17.5 m from B. 
+(a) The speed of sound is 350 ms-1. Determine the phase difference
+between the waves arriving at M from the two loudspeakers.
+(b) Hence, state the nature of the interference occurring at M.
+(c) The microphone is now moved from M to point 0, an equal
+distance from A and B. State and explain how many times during
+this motion the microphone will record a minimum of sound.
+27
+\n--- PAGE 28 ---\n 
+Worked Example 
+Monochromatic light of wavelength 627 nm is incident on a double slit. The 
+interference pattern is observed on a screen, a distance 1.8 m from the slits. It is 
+found that 12 bright fringes are present in a length of 5.0 cm of the interference 
+pattern. Calculate the slit spacing. 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #10 to #12 on page 427 of the textbook. 
+ 
+Single slit diffraction (AHL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The intensity of each maximum drops of quickly 
+from the initial intensity, . 
+        
+ 
+ 
+ 
+28
+\n--- PAGE 29 ---\nThe effect of changing the wavelength on the intensity distribution for single-slit diffraction 
+_______________________________________  is the half-width of the central maximum 
+Decreasing the wavelength will decrease the width of the central maximum and visa versa. For 
+example, the width of the central maximum for a blue laser  will be smaller than 
+for a red laser . 
+The effect of changing the slit width on the intensity distribution for single-slit diffraction 
+Decreasing the slit width will increase the width of the central maximum and visa versa. 
+Worked Example 
+A student investigates the diffraction pattern of 
+monochromatic light incident on a single slit. The graph 
+shows how the intensity of the light on the screen varies 
+with the distance along the screen. 
+(a) Explain, with reference to the principle of
+superposition, how the intensity minima are
+formed.
+(b) The screen is at a distance of 2.5 m from the slit.
+The wavelength of the light used in the
+experiment is 532 nm. Determine the width of
+the slit.
+(c) Outline how the width of the central intensity
+maximum changes when:
+(i) the distance between the screen and the slit is decreased
+(ii) the light source is replaced by one of longer wavelength
+(iii) the slit is replaced by one of greater width.
+Complete Practice Questions #7 to #9 on page 423 in the textbook. 
+29
+\n--- PAGE 30 ---\nDouble-slit diffraction revisited (AHL) 
+The double-slit intensity pattern is always modulated by a single-slit pattern. This occurs because each slit also acts like 
+a single-slit of width b. These two single-slit patterns will interfere producing a double-slit pattern with a single-slit 
+overlay. 
+*the intensity maximums
+are the same height when
+the slit width is negligible
+Worked Example 
+The diagram shows how the intensity of light observed in an 
+experiment with two parallel identical slits varies with the diffraction 
+angle. The bright double-slit interference fringe occurring at the 
+diffraction angle  is eliminated. 
+(a) Explain why a minimum intensity of light is observed at the
+angle .
+(b) The width of each slit is 0.20 mm. Determine the distance
+between the slits.
+Complete Practice Questions #13 and #14 on page 430 in the textbook. 
+30
+\n--- PAGE 31 ---\nMulti-slit diffraction and the diffraction grating 
+Increasing the number of slits results in two important changes in 
+the intensity pattern: 
+(1) The bright fringes stay in the same place but become
+__________________________________.
+(2) The intensity of the bright fringes__________________
+(and is proportional to N2, where N is the number of slits).
+In addition, secondary maximum appear between the maximum. 
+The number of secondary maximum is N-2 ,for N≥3.
+The intensity has been scaled. 
+The diffraction grating 
+A diffraction grating is a piece of plastic or glass where ___________________________ have been cut or etched into 
+the material. Diffraction gratings are specified by the number of lines (i.e. slits) per millimeter that have been cut. A 
+typical laboratory diffraction grating would be 500 lines per mm.  
+The distance between consecutive slits in the diffraction grating is more useful. This value is the same as the value of 
+ in the double-slit because it provides the distance between two slits. 
+____________________________________________________________________________________________ 
+The derivation of the diffraction grating formula is the same as the double slit. The result is: 
+___________________________________ 
+n is the order of diffraction or the fringe number where a maximum occurs. 
+31
+\n--- PAGE 32 ---\nWorked Example 
+A diffraction grating has 600 lines per millimetre. A beam of monochromatic light is incident at right angles to the 
+grating. A second-order maximum is observed at an angle of 31° to the direction of the incident beam. 
+(a) Calcula te the wavelength of the light.
+(b) De termine the total number of the diffraction maxima present in the transmitted light.
+Complete Practice Questions #15 and #16 on page 434 in your textbook. 
+Using a diffraction grating to measure the wavelength of a laser 
+(1) A  diffraction grating with a known distance between the grating’s slits, d, is placed in front of a laser of a given
+wavelength.
+(2) The  distance from the diffraction grating to the screen can be measured, D.
+(3) U sing the diffraction pattern on the screen, the distance from the central maximum to the first maximum can
+be measured, , where n=1. Find further data points for n=2, 3, 4, and 5 (note: always measure the distance
+from the central maximum). Create an appropriate data table with uncertainties.
+(4) Using the diffraction grating formula, , plot an appropriate graph.  
+(5) Use the slope of the best-fit line, max, and min lines  to determine  with an appropriate uncertainty.
+(6) Calcula te a percentage discrepancy on the actual value of the laser (provided).
+32
+\n--- PAGE 33 ---\nC4 Standing waves
+Students should understand
+➢ the nature and formation of standing waves
+➢ standing waves patterns in strings and pipes
+➢ nodes and antinodes
+➢ resonance, natural frequency and driver frequency
+➢ relative amplitude and phase difference of points along a standing wave
+➢ the effect of light, critical and heavy damping on an oscillating system.
+Term Definition/Concept/Explanation Illustration/Explanation
+The nature
+and formation
+of standing
+waves
+Standing waves________________________________________
+_____________________________________________________
+The nature of standing waves.
+(1) No net propagation (transmission) of _______________.
+A standing wave does not move forward.
+(2) The ___________ of particles in a standing wave will vary.
+(3) All particles in a standing wave will be either in phase or
+pi out of phase with each other.
+nodes and
+antinodes
+Note: air
+pressure
+variations are
+not required –
+only air
+displacement
+will be
+assessed
+Oscillation of particles between nodes
+(1) Between two adjacent nodes all the particles move in phase with each other.
+(2) In adjacent nodal regions the particles are 180° out of phase.
+(3) The distance between two adjacent nodes (or antinodes) is equal to
+____________________________________ of the original waves.
+(4) The standing wave oscillates with the same frequency as the travelling waves.
+(5) Within adjacent nodes the relative amplitude between two points along the standing wave
+varies. No two points have the same amplitude, which can vary between 0 (at the node) and
+the maximum (at the antinode).
+Comparison between standing waves and travelling waves
+Standing waves Travelling waves
+wave amplitude is constant at all points along the wavewave amplitude varies along positions of the wave
+the wavelength is twice the distance between
+consecutive nodes
+the wavelength is the distance between consecutive
+crests
+phase varies along the wave phase is constant between consecutive crests
+33
+\n--- PAGE 34 ---\nWorked Example
+Two transverse waves with a wavelength of 80 cm each and with equal amplitudes travel in opposite directions on a
+stretched rope. At time t= 0, all the particles of the rope have a displacement of zero. This is represented by the
+horizontal line in the following displacement-position graph, where x is the position along the rope. N is the position of
+one of the nodes of the resulting standing wave. Pand Q are two particles in the rope.
+(a) Label, on a copy of the diagram, the positions of any remaining nodes of the standing wave between x= 0 and
+x= 100cm.
+(b) Compare the amplitude and phase of oscillations of particles P and Q
+(c) At t = 0, particle P is moving in the direction of increasing displacement. Draw a graph to show the
+displacement of the wave at , where T is the period of the wave.
+34
+\n--- PAGE 35 ---\nBoundary conditions
+String with two fixed ends and a pipe closed at both
+ends:
+is the frequncy of the nth
+harmonic.
+is the velocity of the wave
+is the length of the string
+or the length of the pipe
+n=1 → 1st harmonic
+Boundary conditions
+String with one fixed end and a pipe open at one end:
+Note: ONLY odd harmonics are possible
+where
+(i.e. odd numbers only)
+Boundary conditions
+String open at both ends and a pipe open at both ends:
+The same formula as strings and pipes that
+are fixed or closed at both ends EXCEPT the
+positions of nodes and antinodes have
+shifted. _____________________________
+____________________________________
+35
+\n--- PAGE 36 ---\nWorked Example
+A transverse wave of frequency 2.5 Hz travels towards a fixed end of a stretched rope with a speed of 0.60 ms-1.
+(a) Explain why a standing wave will be formed in the rope.
+(b) Calculate the distance from the fixed end of the rope of the first two antinodes of the standing wave.
+Complete Practice Questions #1 on page 441 of the textbook.
+Worked Example
+The diagram shows a second harmonic standing wave on a string of length 0.90 m fixed at both ends. Pand Q are two
+particles in the string. The speed of the waves in the string is 270 ms-1.
+(a) State the phase difference between the oscillations of Pand Q.
+(b) Calculate the frequency of the second harmonic.
+(c) Particle Q is at a distance of 0.30 cm from the left end of
+the string. The string is now clamped at Q and made to
+vibrate with the lowest frequency possible in this situation.
+For this standing wave:
+(i) draw the displacement graph
+(ii) calculate the frequency.
+Worked Example
+A string of length 0.80 m is fixed at both ends. Two successive harmonic frequencies of this string are 360 Hz and
+480Hz.
+(a) Determine the frequency of the first harmonic mode.
+(b) Calculate the speed of the waves in the string.
+36
+\n--- PAGE 37 ---\nWorked Example
+A stiff wire of length 1.5 m is clamped at one end and has the other
+end free. The wire is made to vibrate at a frequency of 420 Hz in a
+standing wave pattern, as shown in the diagram.
+(a) Calculate the wave speed.
+(b) The frequency is changed to 140 Hz. Draw the standing wave
+that will be formed on the wire.
+Worked Example
+A metal rod of length 0.80 m is clamped in the middle and
+made to vibrate in the first harmonic mode, as shown. The
+speed of the transverse waves in the rod is 3200 ms-1.
+(a) Calculate the frequency of the first harmonic mode.
+(b) Determine whether the rod will have any further
+harmonics of frequencies below 5 kHz.
+Complete Practice Questions #2 to #6 on page 445 of the textbook.
+Worked Example
+The first harmonic frequency of the standing wave in a pipe that is closed at one end and open at the other is 440 Hz.
+Calculate the first harmonic frequency in a pipe of the same length that is closed at both ends.
+Worked Example
+A loudspeaker emits a note of a single frequency towards the open end of a
+pipe. The other end of the pipe is closed with a moveable piston. The position
+of the piston is adjusted until a loud sound is heard from the pipe. The
+diagram shows the standing wave pattern formed in the pipe for a particular
+position of maximum loudness. The piston is now moved to the right by 0.24
+m and another loud sound is heard from the pipe. The speed of sound in the pipe is 340 ms-1.
+(a) Calculate the frequency of the note emitted by the loudspeaker.
+(b) Determine the sounding length of the pipe for the situation shown in the diagram.
+Complete Practice Questions #7 to #9 on page 449 on the textbook.
+37
+\n--- PAGE 38 ---\nTerm Definition/Concept/Explanation
+Resonance Resonance occurs when the __________________ to an oscillating system matches the
+_____________________ of vibration of the system resulting in a larger amplitude of
+vibration.
+Damping (1) When a system oscillates with little or no friction these oscillations are known as
+_______________________________
+(2) An oscillating system that experiences friction will result in a progressive decrease in
+amplitude and a loss of energy in the system. Air resistance or friction due to moving
+surfaces are called ________________________________
+Degrees of damping
+Light damping
+Heavy damping
+Critical damping
+(1) Light damping (under-damped) – the system oscillates over a long period of time
+before the system returns to ______________________________
+(2) Heavy damping (over-damped) – the system _____________________ oscillates and
+returns to equilibrium over a period of time.
+(3) Critical damping – the system dissipates energy at the___________________________
+and returns the system to equilibrium without a single oscillation taking place.
+Forced vibrations An oscillator, such as a rotating electric motor, applied to a system provides
+________________________________ on the system.
+The rotational frequency of the motor is known as the_______________________________.
+A system driven by forced vibrations can also experience damping. Damping will result in a
+reduced amplitude. If the driving frequency matches the natural frequency of vibration of the
+system, resonance will occur. The peak amplitude on a resonance curve matches the natural
+frequency of vibration.
+38
+\n--- PAGE 39 ---\nResonance in practice
+Worked Example
+A simple pendulum undergoes damped oscillations.
+(a) Outline two ways in which oscillations of a damped pendulum differ from an undamped one.
+A time-varying driving force is applied to the pendulum so that its point of suspension vibrates horizontally.
+(b) Explain why the pendulum is oscillating with a constant amplitude.
+The frequency of the driving force is adjusted so that the amplitude of the pendulum is a maximum.
+(c) Compare the frequency of the driving force to the natural frequency of the pendulum.
+The frequency of the driving force is now increased so that it becomes much greater than .
+(d) Describe, for the pendulum bob after the change:
+(i) the amplitude
+(ii) the phase of oscillation.
+39
+\n--- PAGE 40 ---\nC5 Doppler effect 
+Students should understand 
+➢ the Doppler effect for sound waves and electromagnetic waves
+➢ visualizing the Doppler effect when either the source or the observer is moving
+➢ the relative change in wavelength for a light wave due to the Doppler effect
+➢ shifts in spectral lines that provide information about the motion of astronomical objects
+➢ quantitative Doppler shifts in sound and mechanical waves when either the source or the observer is moving.
+Term Definition/Concept/Explanation 
+Doppler effect 
+da
+tabooklet 
+__________________________________________________________________________________ 
+Sour
+ce and observer are stationary with respect to one another: 
+M
+oving source and stationary observer: 
+AH
+L 
+How much does the wavelength change when teh source moves toward the observer? 
+Original wavelength as if the source is stationary:  
+N
+ew wavelength after one period, T: _____________________________________________ 
+M
+oving towards observer: Moving away from an observer: 
+_______________________________________________________________
+_________________ 
+40
+\n--- PAGE 41 ---\nWorked Example 
+A source of sound S is moving at a constant speed along the line 
+joining two stationary observers A and B. The diagram shows the 
+wavefronts emitted by S in equal time intervals. 
+(a) Explain, with reference to wavelength and wave speed, 
+why observer B will detect sound of a higher frequency 
+than observer A. 
+(b) Determine the ratio - 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example (AHL) 
+An ambulance moves at a constant speed of 30.0 ms-1 towards a stationary observer. The siren of the ambulance emits 
+a sound of frequency 1600 Hz. The speed of sound in air is 340 ms-1. Calculate: 
+(a) the frequency of the sound heard by the observer 
+(b) the observed wavelength. 
+ 
+ 
+ 
+ 
+ 
+Worked Example (AHL) 
+A train moving at a speed u along a straight track sounds a whistle of frequency 1300 Hz. The frequency heard by an 
+observer standing next to the track is 1250 Hz. 
+(a) State the direction of motion of the train relative to the observer. 
+(b) Calculate the ratio -    of the speed of the train to the speed of sound. 
+ 
+ 
+ 
+ 
+ 
+(AHL) Complete Practice Questions #1 to #3 on page 461 of the textbook. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(AHL) 
+Stationary source and moving observer 
+Moving towards the source                                     Moving away from the source 
+ 
+ 
+    
+_________________________________________________________________________________ 
+ 
+ 
+41
+\n--- PAGE 42 ---\nWorked Example (AHL) 
+Waves of frequency 0.50 Hz travel across the surface of a lake at a constant speed of 2.5 ms-1. A boat is moving at right 
+angles to the wavefronts. A passenger in the boat observes that the boat crosses the wavefronts with a frequency of 
+0.70 Hz. Calculate the speed of the boat relative to the lake. 
+Worked Example (AHL) 
+A bat is flying in a cave at a constant velocity of 6.00 ms-1 towards a flat vertical wall. The bat emits an ultrasound pulse 
+of frequency 45.0 kHz towards the wall. The ultrasound is reflected off the wall and returns to the bat. Calculate the 
+frequency of the ultrasound that the bat will hear, assuming that the speed of sound in air is 340 ms-1. 
+(AHL) Complete Practice Questions #4 and #5 on page 462 of the textbook. 
+Doppler 
+effect for light 
+Electromagnetic waves differ from sound waves in that they require no medium to travel. Light, 
+however, as a transverse wave will exhibit a Doppler shift in frequency due to relative motion. 
+E
+quation that approximates the Doppler shift for electromagnetic waves: 
+__________________________________________________________ 
+The
+ equation is valid only when ____________________ 
+Worked Example 
+A sodium lamp emits light of wavelength 588.995nm. Calculate the wavelength according to an observer moving 
+towards the lamp at a speed of 25 kms-1. 
+Worked Example 
+An ultraviolet wavelength of 85.0 nm is observed in the spectrum of a distant galaxy. A corresponding stationary source 
+on Earth emits a wavelength of 78.0 nm. 
+(a) Explain the  direction of motion of the galaxy relative to the Earth.
+(b) Calcula te the relative speed of the galaxy.
+Complete Practice Questions #6 and #7 on page 465 of the textbook. 
+42
+\n--- PAGE 43 ---\nApplications of the Doppler effect: Medical, Radar, and Astronomical red and blue shift 
+Medical: Use of ultrasound to find the speed of blood flow 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The doppler probe is an ultrasound beam that acts as a ___________________________________. Since the signal is 
+sent and received the doppler shift occurs twice. In addition, accounting for the angle of incidence the velocity of the 
+blood cells becomes ___________________. 
+ 
+Radar: vehicle speed determination 
+Since radar involves a transmitter-receiver scenario, the Doppler shift will occur _______________. First, because the 
+car is moving away from the radar source and second because the car becomes a moving source of the reflected wave 
+that returns to the receiver. The resulting equation becomes: 
+ 
+ 
+_________________________ where v is the velocity of the vehicle and c is the speed of light.  
+ 
+Doppler shift for astronomical objects 
+Below the spectrum of hydrogen is showing a shift in the wavelength compared to the laboratory unshifted spectrum. 
+The fractional change in wavelength is used to compute the velocity of the astronomical object.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+43
+\n--- PAGE 44 ---\n 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+Absorption by mercury atoms is responsible for a spectral line of wavelength 546 nm present in the spectrum of the 
+Sun. When the line is observed in the light coming from the opposite limbs of the solar disk, it is found that the 
+wavelength is shifted by +0.0037 nm and –0.0037 nm, compared with the wavelength observed at the centre of the 
+disk. 
+(a) Describe how this observation provides evidence for the rotation of the Sun. 
+(b) Calculate the speed of the edge of the Sun relative to Earth. 
+(c) The radius of the Sun is 7.0 x 108m. Determine, to the nearest day, the rotational period of the Sun. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+Microwaves of frequency 24 GHz are emitted by a police radar towards an approaching car. The reflected microwaves 
+are recorded by the radar and it is found that their frequency is shifted by 5.6 kHz. 
+(a) Explain why the frequency shift          satisfies the equation                       where f is the emitted frequency and v 
+is the speed of the car. 
+(b) Determine the speed of the car. 
+(c) Calculate the wavelength of the microwaves emitted by the radar. 
+(d) Calculate the wavelength shift of the returning microwaves. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #8 to #10 on page 469 of the textbook. 
+44
+\n--- PAGE 45 ---\n 
+ 
+45
+\n--- PAGE 46 ---\n(HL only) 
+Distance to closest 
+approach for an 
+alpha particle 
+Why is the closest 
+approach an 
+estimate? 
+(1) Gold nucleus also
+moves (repelled by
+alpha particle)
+(2) alpha particle
+does cannot get too
+close or can be
+influenced by the
+strong nuclear force
+Conservation of Energy → Energy of alpha particle = Electric potential energy at d.
+Worked Example 
+Determine the closest approach distance to a Gold nucleus (Z=79e) for an alpha particle with a kinetic energy of 7.68 
+MeV.  
+(HL only) 
+Deviations from 
+Rutherford 
+scattering  
+Alpha particle energies greater than 28 MeV were shown not to conform to the Rutherford 
+model. Calculations produced nuclear radii that were not possible. At such energies the alpha 
+particles get too close to the nucleus and are influenced by nuclear forces.  
+(HL only) 
+Nuclear density 
+The density is the same for all nuclides and is approximately 
+(HL only) 
+Nuclear radius 
+The nuclear volume (V) is proportional to the number of nucleons (A) 
+____________________________ 
+ can be found experimentally to be m
+ is known as the Fermi radius. 
+Worked Example 
+A nucleus of silver-107  has a charge of +47e. 
+(a) Estimate the nuclear radius of Ag-107.
+(b) A beam of alpha particles is directed at an Ag-107 target. The number of alpha particles scattered at very large
+angles deviates from the Rutherford model at initial energies greater than . The radius of an alpha particle
+is approximately 1.9 fm. Estimate .
+(HL only) Complete Practice Questions #1 and #2 on page 597 of the textbook. 
+46
+\n--- PAGE 47 ---\n 
+E1 Structure of the atom (continued) 
+Students should understand: 
+➢ that emission and absorption spectra provide evidence for discrete atomic energy levels 
+➢ that photons are emitted and absorbed during atomic transitions 
+➢ that the frequency of the photon released during an atomic transition depends on the difference in energy 
+level as given by  
+➢ that emission and absorption spectra provide information on the chemical composition. 
+➢ the discrete energy levels in the Bohr model for hydrogen as given by (HL only) 
+➢ that the existence of quantized energy and orbits arise from the quantization of angular momentum in the 
+Bohr model for hydrogen as given by   (HL only) 
+ 
+Term/Concept Definition/Concept/Explanation 
+Emission and 
+absorption spectra 
+ 
+ 
+ 
+ 
+ 
+ 
+Electrons ONLY 
+absorb or emit 
+specific amounts of 
+energy. Dark lines 
+(absorption of 
+energy) or colored 
+lines (emission of 
+energy) occur at 
+specific wavelengths 
+related to the 
+energy absorbed or 
+released.  
+ 
+Emission spectra 
+(1) An element is _________________ 
+with electricity or by heating 
+(2) __________________ is emitted (light) 
+(3) The EM radiation is passed through a 
+_____________________________ 
+and projected onto a screen. 
+(4) ______________________ are seen 
+that are unique to the element. 
+(5) Lines also exist that are 
+_____________ the visible spectrum. 
+Absorption spectra – produced in a similar 
+way as emission spectra but dark lines are seen 
+as electrons absorb energy when moving to higher energy states.. The chemical composition of stars may 
+be deduced from the absorption spectrum produced. 
+ 
+ 
+ 
+ 
+ 
+ 
+Discrete atomic 
+energy levels 
+ 
+Emission and 
+absorption 
+spectrum are 
+evidence of the 
+existence of 
+discrete atomic 
+energy levels. 
+ 
+A quantum of 
+energy is a photon 
+given by E=hf. 
+Atomic energy levels in atoms are discrete. As 
+electrons move from a higher excited state to a 
+lower energy state a “photon” or packet of 
+energy is released given by: 
+ 
+ 
+ 
+ 
+The photon released is EM radiation with 
+frequency, f, and wavelength,  
+Alternatively, electrons may absorb a photon and 
+transition from a lower state to a higher energy 
+state. 
+ 
+47
+\n--- PAGE 48 ---\nWorked Example 
+(a) Outline, with reference to atomic energy levels, how a discrete emission spectrum of a gas is formed.
+(b) The emission spectrum of hydrogen contains an infrared line at 1282 nm. Calculate, in eV, the energy of a
+photon of wavelength 1282 nm.
+Worked Example 
+Singly-ionized helium (He*)is said to be "hydrogen-like" in that it only has 
+one electron (although it has two protons and two neutrons). The energy 
+levels differ from those of hydrogen as shown in the following table: 
+(a) Explain why the ground state has a much higher energy level
+than that of hydrogen (-13.6 eV).
+(b) Determine the frequency of the photon emitted by an electron
+transition from energy level 4 to energy level 2.
+(c) State which region of the electromagnetic spectrum the emitted
+photon belongs to.
+Complete Practice Questions #3 and #4 on page 601 in the textbook. 
+(HL only)  
+The Bohr model 
+revisited 
+Niels Bohr was 
+able to derive the 
+total energy, E, of 
+an electron in the 
+nth energy level. n 
+is known as the 
+principle quantum 
+number. Bohr’s 
+theoretical result 
+matched the 
+empirical results 
+by Balmer and 
+Rydberg .  
+Niels Bohr assumptions about the model of the atom: 
+1. The electron in a hydrogen atom travels around the nucleus in a circular orbit.
+2. The energy of the electron in an orbit is proportional to its distance from the nucleus.
+The further the electron is from the nucleus, the more energy it has.
+3. Only a limited number of orbits with certain energies are allowed. In other words, the
+orbits are quantized.
+4. The only orbits that are allowed are those for which the angular momentum of the
+electron is an integral multiple of Planck's constant divided by 2 (i.e. )
+5. Light is absorbed when an electron jumps to a higher energy orbit and emitted when an
+electron falls into a lower energy orbit.
+6. The energy of the light emitted or absorbed is exactly equal to the difference between
+the energies of the orbits.
+Bohr’s equation for the nth energy level of a hydrogen atom with the assumption that angular 
+momentum is quantized.  
+48
+\n--- PAGE 49 ---\nElectron’s travel as 
+waves. 
+At a given orbital 
+the number of 
+wavelengths 
+traversed by the 
+electron is equal 
+to the principle 
+quantum number, 
+n.  
+Worked Example 
+(a) A beam of electrons passes through a gas sample that contains hydrogen atoms in the ground state. Calculate
+the smallest energy that the electrons in the beam must have in order to excite hydrogen atoms to their
+energy level n = 4.
+(b) Determine the wavelength of the photon emitted by an atomic transition from energy level n = 4 to energy
+level n = 2.
+(c) The radius of the electron orbit in the Bohr model is a rough estimate of the radius of the hydrogen atom. The
+radius of orbit for hydrogen is given by: . Compare the volume of the hydrogen atom in
+the n = 2 state with the volume of its atomic nucleus— a single proton. The radius of a proton is approximately
+0.84 × 10-15 m.
+(HL only) Complete Practice Questions #5 to #8 on page 610 of the textbook. 
+49
+\n--- PAGE 50 ---\nE3 Radioactive decay
+Students should understand
+➢ isotopes
+➢ the random and spontaneous nature of radioactive decay
+➢ the changes in the state of the nucleus following alpha, beta and gamma radioactive decay
+➢ the radioactive decay equations involving
+➢ the existence of neutrinos and antineutrinos
+➢ the penetration and ionizing ability of alpha particles, beta particles and gamma rays
+➢ the spectrum of alpha and gamma radiations provides evidence for discrete nuclear energy levels (HL only)
+➢ the continuous spectrum of beta decay as evidence for the neutrino (HL only)
+Term/Concept Defintion/Concept/Explanation
+Isotope An isotope is an atom with the _____________________________________________
+_______________________________________________________
+Isotopes of Hydrogen include:
+Radioactive decay 1. Radioactive decay occurs when an ________________ emits an ____________
+_____________________________. The resulting nuclei becomes more stable.
+2. Radioactive decay is a _______________________ that is _________________
+_____________________________________________.
+3. Radioactive decay is a ____________________________. We cannot predict
+when a nucleus will decay.
+Alpha decay
+momentum is conserved
+Worked example
+Radon-222 decays by alpha-particle emission into polonium (Po).
+(a) Write down the nuclear equation for this decay.
+(b) Calculate the ratio . Assume that the radon nucleus is at rest immediately before
+the decay.
+Complete Practice Questions #1 and #2 on page 634 of the textbook.
+Beta decay Three variants to beta decay:
+1. the emission of a beta-minus particle (an electron)
+2. the emission of a beta-plus particle (a positron)
+3. electron capture
+50
+\n--- PAGE 51 ---\nNegative beta decay
+Positive beta decay
+Electron capture
+Worked example
+Write down nuclear equations for:
+(a) negative beta decay of cadmium-113 into an isotope of indium (In)
+(b) positive beta decay of oxygen-15 into an isotope of nitrogen (N)
+(c) electron capture by iron-55 transmuting into an isotope of manganese (Mn).
+Complete Practice Questions #3 and #4 on page 635 of the textbook.
+Gamma-photon
+emission
+The decay of Cobalt-60 has
+two possibilities and forms
+Nickel-60 in an excited
+state. 99.88% of the time
+Cobalt decays with the
+emission of a 0.31 MeV
+beta particle.
+The energy of a photon is
+given by:
+and has momentum:
+_______________________________________
+Discrete nuclear energy
+levels (AHL)
+Summary
+Alpha decay – discrete
+Gamma ray – discrete
+Provides evidence for
+nuclear energy levels
+Alpha decay or the emission of a Helium nucleus provides evidence that the _________
+_________________________________________. Alpha decay always occurs in
+____________________ amounts. In other words, the same energy is released each
+time when alpha decay occurs. The Nucleus moves down an “energy level” and
+becomes more stable.
+Much like alpha decay, the emission of a gamma ray photon is also discrete. The same
+frequency (i.e. energy) is observed each time the same atom emits a gamma ray
+photon.
+51
+\n--- PAGE 52 ---\nBeta decay – continuous
+Energy is split between the
+(1) electron,
+and
+(2) antineutrino,
+OR
+(1) positron,
+and
+(2) neutrino,
+Beta decay is not discrete because the energy released is split between the beta particle
+and the neutrino or antineutrino.
+Properties of ionizing
+radiation
+Alpha particles
+➔ _________________________________________
+➔ penetrate matter very poorly
+➔ ____________________________________________________________
+➔ are absorbed by a thin sheet of paper .
+Beta minus particles
+➔ have a moderate ionizing power compared with alpha particles of the same
+energy
+➔ have a moderate ability to penetrate matter
+➔ are absorbed by around 25 cm of air
+➔ are absorbed by a few centimetres of animal or plant tissue
+➔ are absorbed by a few millimetres of aluminium.
+Gamma ray photons
+➔ ____________________________________________
+➔ eject electrons from metals (via the photoelectric effect) that cause secondary
+ionization
+➔ __________________________________________________
+➔ are absorbed by a few centimetres of lead
+➔ are absorbed by a few metres of concrete
+➔ are only weakly absorbed by animal tissue.
+E3 Radioactive decay (cont.)
+Students should understand
+➢ nuclear binding energy and mass defect
+➢ the variation of the binding energy per nucleon with nucleon number
+➢ the mass-energy equivalence as given by in nuclear reactions
+➢ the existence of the strong nuclear force, short-range, attractive force between nucleons
+52
+\n--- PAGE 53 ---\nStrong nuclear force
+_______________________
+_______________________
+_______________________
+_______________________
+_______________________
+_______________________
+_______________________
+_______________
+Atomic mass unit (amu) Defined as the mass of a carbon-12 atom.
+1 atomic mass unit (u) =
+u, kg, MeVc–2 are all units of mass and can be converted between each other .
+With small numbers involving nuclear masses, the atomic mass unit becomes useful.
+Mass defect Mass defect is the difference between the ___________________________________
+of an atom and the ____________________________________.
+A = mass number
+Z = atomic number
+Mass defect is also _______________________________________________________
+_____________________________________________________
+Nuclear binding energy
+Most of the time the energy
+released in a nuclear
+equation is expressed in
+MeV . Why?
+(1) Binding energy is the amount of ______________________ when a nucleus is
+_____________________from its ______________________________.
+(2) Binding energy is the minimum energy that is required to disassemble the
+nucleus of an atom into its constituent protons and neutrons.
+where is the mass defect. Also used to find the energy released in
+a nuclear reaction such as radioactive decay, nuclear fission, and nuclear fusion.
+Worked Example
+The mass of an atom of copper-63 is 62.929 597 u. Calculate, for a nucleus of copper-63, its:
+(a) mass defect
+(b) binding energy (express your answer in MeV and Joules)
+Complete Practice Questions #5 and #6 on page 642 of the textbook.
+53
+\n--- PAGE 54 ---\nWorked Example
+Nitrogen-13 decays into carbon-13 .
+(a) Identify this type of radioactive decay. Write the nuclear equation.
+(b) The atomic mass of nitrogen-13 is 13.005 739 u and that of carbon-13 is 13.003 355 u. Determine the energy
+released in the decay.
+Nuclear binding energy per
+nucleon
+Average binding energy per
+nucleon =
+Binding energy/nucleon #
+or
+Nuclear fusion– two smaller nuclei join to create a larger nuclei with the release of energy. Energy is released because
+the resultant larger nuclei has a larger average binding energy per nucleon.
+Nuclear fission– one large nucleus splits into two smaller nuclei with the release of energy. Energy is released because
+the two smaller nuclei have a larger average binding energy per nucleon than the one large nucleus.
+Any nuclear reaction that results in a nucleus or nuclei with a larger average binding energy per nucleon will release
+energy.
+Using BE/nucleon to find
+the energy released in a
+nuclear reaction
+_________________________________________________________________. Only a
+nucleus with two or more nucleons will have a binding energy. For example, Hydrogen
+or is just a single proton, so does not have a binding energy.
+Worked Example
+Calculate the binding energy per nucleon of copper-63 .
+54
+\n--- PAGE 55 ---\nWorked Example
+Radium-223 decays into radon-219 according to the reaction
+The following data are given.
+Complete Practice Question #7 and #8 on page 645 in the textbook.
+E3 Radioactive decay (cont.)
+Students should understand
+➢ the evidence for the strong nuclear force (AHL)
+➢ the role of the ratio of neutrons to protons for the stability of nuclides (AHL)
+➢ the approximate constancy of binding energy curve above a nucleon number of 60 (AHL)
+➢ the activity, count rate and half-life in radioactive decay
+➢ the changes in activity and count rate during radioactive decay using integer values of half-life
+➢ the effect of background radiation on count rate
+Term/Concept Definition/Concept/Explanation
+Evidence for the strong
+nuclear force (AHL)
+1. Deviations from Rutherford scattering due to alpha particles having high
+enough energy to get too close to the nucleus so that the nuclear forces
+interact with the alpha particle.
+2. Electron scattering and interaction with the nucleus
+3. Near constant value of the nuclear binding energy per nucleon for .
+Nuclear stability (AHL)
+A line of N = Z is also drawn
+on the plot. When N and Z
+are greater than around 15,
+the zone of stability gradually
+moves above this line,
+showing that more neutrons
+than protons are required for
+stability. This is the
+consequence of the
+increased electromagnetic
+repulsion at high Z. The extra
+neutrons supply the
+attractive strong nuclear
+force to overcome this.
+Above zone of
+stability –
+“neutron-rich” ->
+beta-minus decay.
+Below zone of
+stability –
+“proton-rich” ->
+beta-plus decay
+At high Z and N
+are alpha decay
+55
+\n--- PAGE 56 ---\nWorked Example
+Aluminium has only one stable isotope, aluminium-27 . Predict the likely decay mode of the radioactive
+isotopes of aluminium:
+(a) aluminium-26
+(b) aluminium-28.
+Radioactive half-life The half-life of a radioactive nuclide is the ____________________________________
+_____________________________________________
+or
+The half-life of a radioactive nuclide is the time taken for the -____________________
+__________________________________________
+Activity of a sample
+where A is the activity of the
+sample and N is the number
+of parent nuclei.
+The activity of a radioactive sample is the total number of nuclei that decay in the
+sample in one second. The Sl unit of activity is the becquerel (Bq).
+______________________________________________________________
+When the initial number of
+parent nuclei is , the
+number of parent nuclei
+remaining after 1 half-life is:
+After half-lives, the
+amount of parent nuclei
+remaining is:
+In summary:
+or in terms of Activity we
+have:
+Initially, there are 100 parent nuclei (red). In the first half-life, 50% of them decay into
+the daughter nucleus (assumed stable). After successive half-lives, the amount of
+parent nuclei that remain falls to 25%, 12.5%, 6.25% and so on.
+56
+\n--- PAGE 57 ---\nWorked Example
+The graph shows how the activity of a sample of a
+radioactive nuclide varies with time.
+(a) State the half-life of the nuclide.
+(b) Predict the activity of the sample after a
+time of 10 minutes.
+Worked Example
+Nuclide X decays into stable nuclide Y with a half-life of 7 days. A freshly prepared sample contains 240g of pure
+nuclide X. Calculate:
+(a) the mass of nuclide X remaining in the sample after 14 days
+(b) the time after which the sample contains 225 g of nuclice Y .
+Complete Practice Questions #9 to #12 on page 652 of the textbook.
+Radioactive decay
+measurments
+Gieger-Muller tube –
+radiation ionizes gas
+partices. The particles are
+attracted to the central
+electrode. A current is
+produced. A “count” is
+registered.
+Activity vs count rate Activity is the total number of disintegrations per secondin a sample of radioactive
+material. Activity is measured in becquerel.
+_________________is the number of counts detected by a measuring apparatus in
+one second. Count rate is measured in _____________________________.
+Background count rate
+Corrected count rate =
+(observed count rate ) –
+(background count rate)
+______________________
+In the absence of a radioactive souce, the GM-tube will detect ionizing radiation. The
+radiation is coming from natural sources in the environment. This count rate is the
+background count rate. The background count rate is constant and must be subtracted
+from the observed count rate to get the corrected count rate.
+Background count rate = 2(Count rate after 1 half life) – (Initial count rate)
+57
+\n--- PAGE 58 ---\nWorked Example
+A radioactive nuclide decays into a stable nuclide with a half-life of 25 days. A Geiger-Müller detector measures the
+count rate from a sample of the nuclide. The detector is exposed to background radiation of a constant average count
+rate. The table shows how the count rate in the detector varies with time.
+(a) Determine the average background count rate.
+(b) Predict, for a time of 100 days:
+(i) the count rate from the sample corrected for background radiation
+(ii) total count rate as recorded by the detector .
+Complete Practice Questions #13 and #14 on page 656 in the textbook.
+E3 Radioactive decay (cont.) (AHL)
+Students should understand
+➢ the decay constant and the radioactive decay law as given by
+➢ that the decay constant approximates the probability of decay in unit time only in the limit of sufficiently small
+➢ the activity as the rate of decay as given by
+➢ the relationship between half-life and the decay constant as given by
+Term/Concept Definition/Explanation Drawing/Illustration
+Decay constant The activity for a given radioactive sample is proportional
+to the number of radioactive nuclei present in the sample.
+The constant of proportionality is the decay constant.
+The decay constant is defined as the probability per unit
+time that a nucleus will decay if and only if
+Radioactive decay law
+____________________________
+Worked Example
+The count rate, corrected for background radiation, of a sample of radioactive fluorine-18 decreases from 45 counts/s
+to 28 counts/s during a time of 4500s. Determine the decay constant of fluorine-18.
+58
+\n--- PAGE 59 ---\nWorked Example
+The initial activity of a sample of radioactive polonium-210 (Po-210) is 2.3 × 10 8 Bq. The decay constant of Po-210 is 5.8
+× 10–8 s–1
+(a) Determine the initial mass of Po-210 in the sample.
+(b) Calculate the activity of the sample after 100 days.
+Worked Example
+An old piece of cloth is examined for the content of radioactive carbon-14. It is found that the mass ratio of carbon-14
+to stable carbon-12 has decreased to 70% of its value in living matter . The half-life of carbon-14 is 5700 years.
+Determine the age of the cloth.
+Complete Practice Questions #15 and #16 on page 660 in the textbook.
+Relationship between
+half-life and the decay
+constant
+Worked Example
+The half-life of phosphorus-32 (P-32) is 14.3 days. A sample initially contains 2.0 mg of P-32.
+(a) Calculate, giving your answer in s –1, the decay constant of P-32.
+(b) Determine the initial activity of the sample.
+(c) Calculate the mass of P-32 remaining in the sample after 30 days.
+Complete Practice Questions #17 and #18 on page 661 in the textbook.
+Determining long
+half-lives
+1. Measure the activity, A, of the sample with a G-M tube.
+2. Given the mass of the sample, calculate the number of nuclei in the sample.
+3. Using calculate for .
+4. Using solve for the half-life.
+59
+\n--- PAGE 60 ---\nM18/4/PHYSI/HP2/ENG/TZ2/XX
+– 24 –
+(Question 9 continued)
+(d) Rhodium-106 ( )10645Rh  decays into palladium-106 ( )10646Pd  by beta minus ( b  – ) decay.
+Th
+e diagram shows some of the nuclear energy levels of rhodium-106 and palladium-106.
+The arrow represents the b  – decay.
+E / MeV
+3.54
+0.48
+0
+106
+45Rh
+b  –
+106
+46Pd
+(i) Explain what may be deduced about the energy of the electron in the b  – decay. [3]
+ ..........................................................................
+  
+..........................................................................
+  ..........................................................................
+  ..........................................................................
+  ..........................................................................
+  ..........................................................................
+  (ii) Suggest why the b  – decay is followed by the emission of a gamma ray photon. [1]
+ ..........................................................................
+  
+..........................................................................
+  (iii) Calculate the wavelength of the gamma ray photon in (d)(ii). [2]
+ ..........................................................................
+  
+..........................................................................
+(This question continues on the following page)
+60
+\n--- PAGE 61 ---\n2209-6512
+–	9	–
+Turn over
+M09/4/PHYSI/SP3/ENG/TZ1/XX+
+B3.	 This	question	is	about	nuclear	energy	levels	and	radioactive	decay.
+The	diagram	shows	some	of	the	nuclear	energy	levels	of	the	boron	isotope	 512 B	and	the	carbon	
+isotope	 612C.		Differences	in	energy	between	the	levels	are	indicated	on	the	diagram.		A	particular	
+beta	decay	of	boron	and	a	gamma	decay	of	carbon	are	marked	on	the	diagram.
+Boron
+13.4 MeV
+Beta decay
+Gamma decay4.4 MeV
+Carbon
+(a) Calculate	 the	wavelength	of	the	photon	emitted	in	the	gamma	decay.
+.......................................................................
+	 .......................................................................
+	 .......................................................................
+[2]
+(b) Calculate	 the	 maximum	 kinetic	 energy	 of	 the	 electron	 emitted	 in	 the	 beta	 decay
+indicated.
+.......................................................................
+	 ...............................................................
+........
+[1]
+(c) Explain	 why	the	electrons	emitted	in	the	indicated	beta	decay	of	boron	do	not	always	have
+the	
+kinetic	energy	calculated	in	(b).
+.......................................................................
+	 .......................................................................
+	 .......................................................................
+[2]
+61
+\n--- PAGE 62 ---\nE.4 Fission
+Students should understand
+➢ that energy is released in spontaneous and neutron-induced fission
+➢ the role of chain reactions in nuclear fission reactions
+➢ the role of control rods, moderators, heat exchangers, and shielding in a nuclear power plant
+➢ the properties of the products of nuclear fission and their management.
+Term Definition/Concept/Explanation SI unit/Drawing
+Nuclear fission
+The energy
+released in a
+single nuclear
+fission reaction is
+mostly in the form
+of the kinetic
+energy of the
+fission fragments.
+Nuclear fission occurs when a _____________________ (usually greater than A=230) splits into
+______________________________. Nuclear fission occurs in two possible ways:
+_______________________________________________________________. A release of
+energy results due to the products of the fission having a larger binding energy per nucleon.
+Energy released in
+a fission reaction Energy type Energy released/MeV
+Immediate release fission product kinetic energy _____________
+neutron kinetic energy 5
+gamma photons (during fission) 7
+later release from
+activity of fission
+products
+beta particles 7
+gamma emission 7
+antineutrinos 9
+net energy released / fission ______________
+62
+\n--- PAGE 63 ---\nWorked Example
+In neutron-induced fission, a nucleus of uranium-235 absorbs a neutron and yields a nucleus of xenon-140
+and a nucles of strontium-94 , according to the reaction
+(a) Calculate the number of neutrons released in the reaction.
+The atomic masses of the nuclides are given in the table.
+(b) Calculate, in MeV, the energy released in the reaction.
+(c) Estimate, in J, the nuclear energy transferred when 1.0 kg
+of pure uranium-235 undergoes fission.
+Worked Example
+Xe-140 and Sr-94 produced in neutron-induced fission of uranium-235 in the previous Worked example are radioactive
+and undergo further decays. The stable end products of their respective chains of decays are
+cerium-140 and zirconium-94 .
+(a) Explain why the combined proton number of Ce-140 and
+Zr-40 is different from the proton number of U-235.
+The binding energies per nucleon are given in the table.
+(b) Calculate, in MeV, the total energy released as a result of this
+fission reaction of U-235.
+Complete Practice Questions (#1 and #2 on page 671 in the textbook.
+63
+\n--- PAGE 64 ---\nChain reaction –
+neutrons
+produced in a
+single reaction
+can be used to
+split other
+uranium atoms.
+Problems in
+establishing a
+chain reaction:
+(1) neutrons
+produced are too
+fast to be
+absorbed
+(2) U-238 is a good
+absorber of
+neutrons and does
+not fission
+(3) too much
+U-235 will cause
+an uncontrollable
+chain reaction.
+➢ 99.3% of naturally mined uranium is U-238 and does not fission
+➢ only 0.3% is U-235 and will undergo fission
+➢ _________________________ is the process of
+increasing the proportion of U-235
+➢ >3% U-235 is needed for reactors
+Solutions to problems:
+(1) ______________________________________
+(2) ______________________________ but do not
+exceed the “critical mass” of U-235 that would
+cause an_______________________________
+64
+\n--- PAGE 65 ---\nModerator
+The moderator
+can be:
+(1) Deuterium
+oxide or “heavy
+water”
+(2) carbon or
+graphite rods
+The moderator
+slows down
+neutrons through
+successive
+collisions. Each
+collision transfers
+some kinetic
+energy
+The role of moderator is to _________________________________ (about 10 4 km/s) to usable
+levels (about 2 km/s). The moderator must also be inert and a poor absorber of neutrons.
+Control rods Control rods are used to __________________________________________________________.
+Control rods are made of cadmium or boron – neutron absorbing elements.
+Heat exchanger The moderator is circulated through a winding tube that is in direct contact with water in a
+separate chamber . The heat from the winding tube is transferred to the water . The separate
+chamber containing the winding tube is known as the heat exchanger .
+Sheilding a
+nuclear reactor
+➢ The reactor vessel is made of thick steel to withstand the high temperatures and
+pressures present in the reactor . This has the benefit of also absorbing alpha and beta
+radiations together with some of the gamma photons and stray neutrons.
+➢ The vessel itself is _________________________________________________________
+________________________________________________________________________
+➢ The whole reactor is within a containment building designed to withstand major events
+such as earthquakes. In the worst scenario, the entire contents of the reactor would be
+trapped in this construction.
+➢ There are emergency safety mechanisms that operate quickly to shut the reactor down in
+the event of an accident.
+➢ The fuel rods are inserted into and removed from the core using robots, so that human
+operators do not come into contact with the spent fuel rods, which become highly
+radioactive during their time in the reactor .
+Managing nuclear
+waste
+The medium and short half-life products produced in the fuel rods during the reaction need to be
+treated carefully. They are highly active materials. Remember that a short half-life means a large
+decay constant with high activity.
+➢ The spent fuel rods are initially transferred to cooled underwater storage in something
+resembling a large swimming pool. The rods are stored for roughly five to ten years
+before undergoing treatment to recycle the uranium into fresh fuel rods. This is called
+reprocessing.
+➢ ________________________________________________________________________
+________________________________________________________________________
+65
+\n--- PAGE 66 ---\nE.5 Fusion and stars
+Students should understand
+➢ that the stability of stars relies on an equilibrium between outward radiation pressure and inward
+gravitational forces
+➢ that fusion is a source of energy in stars
+➢ the conditions leading to fusion in stars in terms of density and temperature
+➢ the effect of stellar mass on the evolution of a star
+➢ the main regions of the Hertzsprung-Russell (HR) diagram and how to describe the main properties of stars in
+these regions
+➢ the use of stellar parallax as a method to determine the distance d to celestial bodies as given by
+➢ how to determine stellar radil.
+Term Definition/Concept/Explanation SI unit/Drawing
+Nuclear fusion in
+stars
+p-p cycle occurs in
+the core of stars
+at temperaturs up
+to 107K.
+Fusion – _______________________
+______________________________.
+In stars, hydrogen is the main source
+of fuel. The hydrogen must have
+sufficient velocity (i.e. kinetic energy)
+to overcome the electrostatic
+repulsion between protons to get in
+range of the strong nuclear force.
+This requires: (1) high temperature
+and (2) high pressure resulting from
+high density.
+Proper conditions lead to the proton-proton cycle and “hydrogen burning” occurs.
+The overall reaction with a release of about 26.7MeV is:
+Worked Example
+Deuterium and tritium undergo fusion into helium-4 according to the reaction
+Binding energies per nucleon of these nuclides are given in the table.
+(a) Calculate, in J, the energy released in this reaction.
+(b) Estimate the fraction of the mass of deuterium and tritium converted
+to energy
+66
+\n--- PAGE 67 ---\nWorked Example
+Consider the proton-proton chain of fusion reactions, whose net result is the fusion of four protons into a nucleus of
+helium:
+(a) Determine, in MeV, the energy released in the reaction. The mass of the helium nucleus is 4.001506 u.
+(b) Calculate the additional energy released when the two positrons produced in the first stage of the cycle
+annihilate with electrons in the surrounding matter.
+(c) Estimate the total energy, in J, transferred when 1 kg of hydrogen undergoes fusion according to the proton-
+proton cycle.
+Complete Practice Questions #1 to #4 on page 682 of the textbook.
+67
+\n--- PAGE 68 ---\nLuminosity and
+temperature of a
+star
+Hertzsprung–Russell Diagram (HR diagram) –shows the variation of star luminosity with temperature (log-log graph)
+Main sequence stars like our
+Sun -hydrogen burning –
+creating helium – represents
+90% of all stars
+Red giants –large surface
+area stars but cooler (i.e. red
+in color). The large surface
+area means they are more
+luminous.
+Supergiants are large and
+very bright.They can emit
+105 times the energy of the
+Sun or greater and therefore
+have a surface area 105
+larger too. Their radius, in
+this case is
+times that of the Sun. The
+inner planets of the Solar
+System and the Sun will
+easily fit into the volume of a
+supergiant. Red giants and supergiants make up only 1%
+of the total number of stars. This indicates that their
+lifetime is comparatively short.
+White dwarf –remains of old stars – high temperature,
+low surface area, low luminosity. 9% of all stars. A typical
+white dwarf can have roughly the mass of the Sun but the
+radius of Earth. They are extremely dense.
+The instability strip, a narrow region almost vertical on
+the HR diagram, which contains variable stars. Stars,
+usually more massive than the Sun, enter this region
+when they leave the main sequence. They then become
+unstable and pulsate, changing their size cyclically. As a
+result, their luminosity varies too. The stars in the
+instability strip include the Cepheid variables which can
+be used for astronomical distance estimates.
+68
+\n--- PAGE 69 ---\nWorked Example
+In the following examples, assume that the surface temperature of the Sun is T☉ = 5800K. Vega is a bright star in the
+constellation of Lyra. The luminosity of Vega is 40L☉, where L☉ is the luminosity of the Sun. The average surface
+temperature of Vega is 9600 K. Determine the radius of Vega. State the answer in terms of the solar radius, R☉.
+Worked Example
+Mirach is a star in the constellation of Andromeda. The radius of
+Mirach is approximately 100R☉ and its surface temperature is 3800K.
+(a) Estimate, in terms of L☉, the luminosity of Mirach.
+(b) Mark approximate locations of Vega and Mirach in the HR
+diagram.
+(c) Hence, state the stellar type of each star.
+Complete Practice Questions #5 to #7 on page 686 of the textbook.
+Stellar evolution
+and stellar mass
+T represents time
+Larger stars have a
+much shorter
+lifespan!
+(1) Gravity causes the gas in a nebula to condense.
+(2) As gas and dust condense they lose potential energy and gain kinetic energy. The gain in
+kinetic energy raises the temperature of the gas. Aprotostaris formed.
+(3) The protostar grows in mass and temperature. With sufficient temperature, around 107K,
+the hydrogen gas can fuse into helium and a star is born.
+(4) Fusion within the star produces and outward radiation pressure.
+(5) At the same time gravity continues to act on the gas in the star.
+(6) The inward gravitational force and outward radiation pressure reach a state of
+equilibrium. The star is considered a main sequence star. A star will spend most of its
+lifetime as a main sequence star.
+(7) The balance between gravity
+and radiation pressure implies
+that larger stars must be more
+massive to produce greater
+radiation pressure. More
+radiation pressure implies a
+larger temperature and more
+fusion occuring. With more
+fusion there is more energy
+produced per unit time. As a
+result, luminosity is directly
+related to the mass of a star.
+Nuclear theory shows:
+69
+\n--- PAGE 70 ---\nEvolution of stars
+Low-mass star
+< 4M☉
+Fate of the core
+_______________
+< 1.4 M☉
+High-mass star
+> 4M☉
+Supernova
+Core remnant
+_______________
+_______________
+> 3 M☉
+_______________
+Chandrasekhar Limit– A white dwarf cannot have a mass of more than 1.4 solar masses because
+of _______________________________________.
+Oppenheimer-Volkoff Limit– a white dwarf greater than 1.4 solar masses will collapse into a
+neutron star. The mass limit for the neutron star is between 1.5 to 3 solar masses – the limit for
+_________________________________________. A higher solar mass leads to the collapse of
+the neutron star into a black hole.
+Evolutionary pathway for the Sun
+70
+\n--- PAGE 71 ---\nPractice Question #8 on page 693 in the textbook.
+Mu Columbae is a luminous main sequence star of a mass of approximately 16M☉
+(a) Outline why Mu Columbae is likely to remain a shorter time on the main sequence than the Sun.
+(b) Compare and contrast fusion processes that will take place in Mu Columbae and the Sun after the stars leave
+the main sequence.
+(c) Explain, by reference to the Chandrasekhar and Oppenheimer-Volkoff limits, the likely final evolutionary stages
+of Mu Columbae and the Sun.
+Practice Question #9 on page 693 in the textbook.
+(a) Describe main physical properties of white dwarfs.
+(b) Outline how a white dwarf maintains a constant radius.
+(c) State the origin of the energy radiated by white dwarfs.
+Astronomical distances
+Light year (ly)
+The distance light travels in a “Juilian” year (365.25 days). __________________________
+Astronomical unit
+(AU)
+The average distance between the Sun and the Earth. ________________________________
+Parsec (pc) One parsec corresponds to the distance at which the mean radius of the earth's orbit subtends
+an angle of one second of arc.
+_________________________________________________
+71
+\n--- PAGE 72 ---\nStellar parallax
+(1) A star’s
+position in the
+night sky is
+recorded.
+(2)
+_______________
+_______________
+the stars position
+is taken again.
+(3) Based upon
+the two positions
+taken by the
+telescope, the
+parallax angle, p,
+is determined.
+(4) The angle
+measured is very
+small. As a result,
+the angle is
+measured in
+arc-seconds.
+(5) The distance is
+found using
+trigonometry.
+Distances measured using stellar parallax are limited to
+approximately100 parsecs or 0.01 arc-seconds. The angle
+becomes too small to notice any positional change in the star.
+Telescopes outside the Earth’s atmosphere, in orbit,
+have a limitation of about 100,000 pc or 7
+Determination of
+stellar radius Apparant brightness of a star is given by (from B.1):
+Wien’s law states( from B.1): For a black body with a temperature, T, we have:
+Given the maximum wavelength given off by a star and the distance to the star, the luminosity
+and temperature of the star can be determined. Taking ratios with data for the Sun, we have:
+Worked Example
+The following data are given about star Epsilon Tauri: surface temperature = 4900K and luminosity = 3.7 × 1028 W.
+Calculate the radius of Epsilon Tauri.
+72
+\n--- PAGE 73 ---\nWorked Example
+The parallax angle for star Tau Ceti is 0.274 arcsecond.
+(a) Calculate, in light years, the distance to Tau Ceti.
+The apparent brightness of Tau Ceti as observed from Earth is 1.18 × 10–9W m–2.
+(b) Determine the luminosity of Tau Ceti relative to the luminosity of the Sun, L☉ = 3.83 × 1026 W.
+The peak wavelength of the black-body spectrum of Tau Ceti is 540 nm.
+(c) Estimate the radius of Tau Ceti. Use T☉ = 5800K.
+Complete Practice Questions #10 to #12 on page 697 in the textbook.
+Complete End of Theme Question #5 on page 699 in the textbook.
+How is the parsec equal to 3.26 ly?
+73
+\n--- PAGE 74 ---\n 
+Determining the value of 1 parsec or 1pc
+tan p = 1AUd
+for small angles, tan p ≈ p
+⇒ p = 1AUd
+⇒ d = 1AUp
+Let p =1 arcsecond
+1" = 13600⎛⎝⎜ ⎞⎠⎟°
+converting degrees to radians we have 1" = 13600⎛⎝⎜ ⎞⎠⎟° π180⎛⎝⎜ ⎞⎠⎟ = 4.848 ×10−6 radians
+∴1 parsec or 1pc = 1AU1" = 1.5×1011 m4.848 ×10−6 rad ≈ 3.09 ×1016 m ≈ 3.26ly
+74
+\n--- PAGE 75 ---\nD.1	Parallax	questions
+If	the	parallax	angle	is	one	arcsecond	(1	“)	the	
+distance	to	the	star	is	called	a	parsec	
+d	(parsecs)	=		 1 /p														(p	in	arcsecs)	
+Converting	degrees	to	arcsecs	(in	radians)	
+• Multiply	by	2π/360	to	convert	to	radians
+• Then	multiply	by	1/3600	to	convert	to
+arcsecs
+1	parsec	=	3.26	ly	
+1. Pr
+oxima	Centauri,	our	closest	star,	has	a
+parallax	angle	of	 0.7687	arcsecs.	Find	the	distance	in	parsecs	to	Proxima
+Centauri.
+2. Find	the	distance	in	parsecs	and	light	years	to	Procyon,	which	 has	a	parallax
+angle	of	0.285”.
+3. The	distance	to	Sirius	is	8.6	ly.	What	is	its	parallax?	(angle)
+4. The	distance	to	Gliese	876	is	15.3	ly.	What	is
+its	parallax?
+5. Explain	why	stellar	parallax	can	only	be	use d
+to	measure	the	distance	to	stars	up	to 	about
+300	ly	using	earth	based	telescopes.
+Who	am	
+I?
+75
+\n--- PAGE 76 ---\nD.2 Life Cycle of a Star - Worksheet 
+ 
+A STAR IS BORN – STAGES COMMON TO ALL STARS 
+All stars start as a nebula.  A nebula is a large cloud of gas and dust. Gravity can pull 
+some of the gas and dust in a nebula together. The contracting cloud is then called a 
+protostar. A protostar is the earliest stage of a star’s life. A star is born when the gas 
+and dust from a nebula become so hot that nuclear fusion starts. Gravitational energy 
+has changed to kinetic energy for this to happen. Once a star has “turned on” it is known 
+as a main sequence star.  When a main sequence star begins to run out of hydrogen fuel 
+in its core(when it has used about 12% of its total hydrogen), the star becomes a red 
+giant or a red super giant. 
+THE DEATH OF A LOW OR MEDIUM MASS STAR 
+After a  low or medium mass or star has become a red giant the outer parts grow bigger 
+and drift into space, forming a cloud of gas called a planetary nebula. The blue-white 
+hot core of the star that is left behind cools and becomes a white dwarf (maximum mass 
+1.4 solar masses).  The white dwarf eventually runs out of fuel and dies as a black 
+dwarf. 
+ 
+THE DEATH OF A HIGH MASS STAR 
+A red super giant can fuse together larger and larger atoms until it makes iron. The star 
+then suddenly explodes. The explosion is called a supernova. After the star explodes, 
+some of the materials from the star are left behind. This material may form a neutron star. 
+Neutron stars (max mass 3 solar masses) are the remains of high-mass stars. The most 
+massive stars (remnant bigger than 3 solar masses) become black holes when they die. 
+The gravity of the black hole is so strong that nothing can escape, not even light. 
+ 
+76
+\n--- PAGE 77 ---\nQuestion Sheet 
+Just like living things and humans, stars have a life cycle, which consists of birth, growth, 
+development, middle age, old age, and death. The life cycle of a star spans over billions 
+of years.  
+ 
+Section One - Sequencing 
+The stages below are not in the right order. Number the stages in the correct order. 
+ 
+_____   The star begins to run out of fuel and expands into a red giant or red super    
+             giant. 
+ 
+_____   Stars start out as diffused clouds of gas and dust drifting through space. A single    
+             one of these clouds is called a nebula 
+ 
+_____   What happens next depends on the mass of the star. 
+ 
+_____   Heat and pressure build in the core of the protostar until nuclear fusion takes place. 
+ 
+_____   The force of gravity pulls a nebula together forming clumps called protostars. 
+ 
+_____   Hydrogen atoms are fused together generating an enormous amount of energy  
+  igniting the star causing it to shine. 
+ 
+Section Two - Vocabulary 
+Match the word on the left with the definition on the right. 
+ 
+____ black dwarf  e. star left at the core of a planetary nebula 
+ 
+____ white dwarf   g. a red super giant star explodes 
+ 
+____ nebula    c. what a medium-mass star becomes at the end of its life 
+ 
+____ protostar   b. a large cloud of gas or dust in space 
+ 
+____ supernova  a. exerts such a strong gravitational pull that no light escapes 
+ 
+____ neutron star   d. the earliest stage of a star ’s life 
+ 
+____ black hole   f. the remains of a high mass star 
+ 
+ 
+ 
+77
+\n--- PAGE 78 ---\nSection Three – Understanding Main Ideas - Low Mass Star 
+ 
+ 
+ 
+____ 1. Red giant  
+____ 2. Where fusion begins 
+____ 3. Nebula 
+____ 4. Black dwarf 
+____ 5. The stage the sun is in 
+____ 6. White dwarf 
+____ 7. Planetary Nebula 
+ 
+Section Four – Understanding Main Ideas - High Mass Star 
+ 
+ 
+____ 1. Black Hole 
+____ 2. Supernova 
+____ 3. Protostar 
+____ 4. Gravity causes this to condense into a protostar 
+____ 5.  Main sequence star 
+____ 6. When a star begins to run out of fuel and grows larger 
+____ 7. Neutron star 
+ 
+78
+\n--- PAGE 79 ---\nSection Five – Graphic Organizer – Putting it all Together 
+Section Six – Venn Diagram - Compare and Contrast 
+ 
+79
+\n--- PAGE 80 ---\n 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+80
+\n--- PAGE 81 ---\n 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+81
+\n--- PAGE 82 ---\nE2 Quantum physics (HL only)
+Students should understand
+➢ the photoelectric effect as evidence of the particle nature of light
+➢ that photons of a certain frequency, known as the threshold frequency, are required to release photoelectrons
+from the metal
+➢ Einstein’s explanation using the work function and the maximum kinetic energy of the photoelectrons as given
+by where is the work function of the metal.
+➢ Compton scattering of light by electrons as additional evidence of the particle nature of light
+➢ that photons scatter off electrons with increased wavelength
+➢ the shift in photon wavelength after scattering off an electron as given by
+Term/Concept Definition/Concept/Explanation
+The photoelectric
+effect
+Energy of a photo is
+given by:
+Evidence for the
+particle nature of
+light:
+The wave theory of
+light implies that any
+frequency of light
+incident on the metal
+will eject an electron
+because waves
+transfer energy at a
+continuous rate. That
+is not what is
+observed. A threshold
+frequency is required.
+This implies light is
+not a continuous form
+of energy but a
+“packet” of energy,
+the photon. Moreover,
+the intensity of the
+incident light does not
+matter – only a
+frequency above the
+threshold frequency.
+Note: the intensity of
+light is related to how
+many photons are
+present.
+The photoelectric effect refers to the emission or _____________________________ from
+the surface of a metal in response to incident light on the metal.
+IMPORTANT OBSERVATIONS:
+(1) no electrons ejected until after a certain frequency – referred to as the ___________
+______________ given by, f0. The threshold frequency is different for every element.
+(2) The maximum kinetic energy of the emitted electron is not dependent upon light
+intensity but only on the frequency of the incident light.
+Work function( ): ____________________________ required to eject an electron from the
+metal surface. In this case 2.0eV is required for the potassium metal (i.e. )
+If a photon has more energy than the work function, the remaining energy is given to the
+electron as ________________________. Einstein recognized the relationship between the
+incident photon, work function, and remaining kinetic energy of the electron.
+_________________________________________________________________________
+In symbols:
+__________________________________________________
+The relationship between the work function and the threshold frequency. The existence of
+the threshold frequency cannot be explained by the wave theory of light.
+82
+\n--- PAGE 83 ---\nWorked Example
+A copper plate is illuminated by a beam of monochromatic light of wavelength 580 nm and power 0.50 mW . The work
+function of copper is 4.7 eV .
+(a) Calculate the number of photons incident on the copper plate in one second.
+(b) Show that no electrons will be emitted from the plate.
+Milikin’s
+photoelectric
+experiment
+Graph of
+provides a way to find
+Planck’s constant, .
+The wave theory of
+light suggests that the
+intensity of light
+should affect the
+energy of emitted
+electrons. The same
+stopping voltage for
+all intensities shows
+this is not the case.
+An evacuated chamber consisting of two
+electrodes (anode and cathode or
+positive and negative conductors). One
+electrode, the metal, was exposed to
+incident light. If the light was above the
+threshold frequency for the metal
+electrode, a current registered in the
+ammeter . The voltage from the battery
+was reversed so that the electrons
+causing the current would be repelled.
+The voltage that reduced the current to
+zero, also called the _________________,
+can be used to calculate the maximum
+kinetic energy of the emitted electrons,
+.
+Regardless of the intensity of the light incident on the metal (which increases the current),
+the stopping voltage is always the same for a given frequency.
+83
+\n--- PAGE 84 ---\nWorked Example
+The graph shows how the maximum kinetic energy E max of
+photoelectrons emitted from a metal surface varies with
+the frequency f of the incident electromagnetic radiation.
+(a) Explain why, for radiation of wavelength 500 nm,
+no electrons are emitted from the surface.
+(b) Estimate, using the graph:
+(i) the maximum kinetic energy of the
+electrons emitted when radiation of
+wavelength 250 nm is incident on the
+surface
+(ii) the work function of the metal
+(iii) Planck's constanth, giving the answer in J
+s.
+(c) Another metal surface has a work function of 1.8
+eV . Draw a graph showing how Emax varies with f for
+this surface.
+Worked Example
+In an experiment to investigate the photoelectric effect, monochromatic light of
+wavelength 430 m is incident on a metal surface.
+(a) Calculate, in eV, the energy of the photons incident on the
+photosensitive surface.
+A variable voltage V is applied across the photoelectric cell. The current in the
+ammeter is zero when Vis 0.60 V or more.
+(b) Determine:
+(i) the work function of the metal
+(ii) the photoelectric threshold frequency for the metal.
+Complete Practice Questions #1 to #3 on page 618 in the textbook.
+84
+\n--- PAGE 85 ---\nThe Compton effect
+Arthur Compton
+focused high energy
+X-rays at a Carbon
+target. The X-ray
+photon would
+collide with an
+electron. Both the
+electron and X-ray
+are scattered at
+various angles. The
+scattered X-ray
+photon wavelength
+increases.
+Photon energy:
+Photon momentum:
+Worked Example
+A photon of energy 15 keV interacts with a free electron that is initially at rest. The electron recoils and the photon is
+scattered at an angle of 60° relative to the original direction.
+(a) Explain why the energy of the photon decreases as a result of the interaction with the electron.
+(b) Calculate the wavelength of:
+(i) the incident photon
+(ii) the scattered photon.
+(c) Determine the energy of the recoil electron.
+85
+\n--- PAGE 86 ---\nWorked Example
+In a Compton scattering experiment, an X-ray photon of wavelength 1.20 × 10 –11m collides with a free, stationary
+electron. The outgoing photon is detected at an angle of 90° to the original direction.
+(a) Calculate the wavelength of the outgoing photon.
+(b) Determine the change in momentum (magnitude and direction) of the photon.
+(c) Hence, state the angle through which the electron recoils.
+Complete Practice Questions #4 to #6 on page 624.
+The de Broglie
+hypothesis
+Louis de Brogliepostulated that ____________________________________ and have an
+associated wavelength given by:
+____________________________________________________________________
+Davisson-Germer
+experiment
+Electron accelerated
+through a potential
+difference.
+Clinton Davisson and Lester Germerverified the de Broglie hypothesis experimentally by firing
+electrons at a nickel target. The result was a ____________________ produced by the electron.
+Experimental wavelength is given by
+Or, if given the interatomic distance, , then
+Worked Example
+Calculate the de Broglie wavelength for:
+(a) a neutron moving with a speed of 2.5 × 10 3 m/s
+(b) an electron accelerated from rest through a potential difference of 500 V .
+Worked Example
+The atomic structure of a crystal can be investigated using a beam of electrons that diffract from parallel planes of
+atoms in the crystal, in a similar way to light diffracting at parallel slits. Distances between atomic planes of a particular
+crystal are of the order of 1.5 × 10 –10 m. Estimate the energy of electrons in a beam suitable for a diffraction
+experiment with this crystal.
+Complete Practice Questions #7 and #8 on page 627 of the textbook.
+86
+\n--- PAGE 87 ---\nB4 Thermodynamics
+Students should understand
+➢ that the first law of thermodynamics as given by results from the application of
+conservation of energy to a closed system and relates the internal energy of a system to the transfer of energy
+as heat and as work
+➢ that the work done by or on a closed system as given by when its boundaries are changed can
+be described in terms of pressure and changes of volume of the system
+➢ that the change in internal energy as given by of a system is related to the
+change of its temperature
+Term Definition/Concept/Explanation
+System The “system” is the body or bodies under investigation.
+Closed system A system that can transfer energy, but not matter (i.e. mass), into and from its surroundings.
+Isolated system A system where no thermal energy or matter (i.e. mass) can be transferred into or from its
+surroundings.
+The first law of
+thermodynamics
+All quantities
+involve energy
+and have units in
+Joules, J.
+When an amount of heat is given to a gas, the gas will absorb that energy and use it to change
+its internal energy and/or to do work. The conservation of energy demands that:
+where is the change in internal energy and is the work done.
+Important sign conventions:
+➔ A positive means that heat energy is transferredFROM the surroundings TO the
+system.
+➔ A positive means that the internal energy of the system increases.
+➔ A positive means that the system does work ON the surroundings.
+Computing
+Worked Example
+80J of work is transferred to a system. The internal energy of the system increases by 60J.
+(a) State, referring to the first law of thermodynamics, the magnitude and the sign of:
+(i)
+(ii)
+(b) Calculate the energy transferred between the system and the surroundings. State whether the energy is
+transferred into or out of the system.
+Worked Example
+An ideal gas in a sealed container with a piston expands without change in temperature. Explain why thermal energy
+must be transferred to the gas.
+87
+\n--- PAGE 88 ---\nWorked Example
+A cylinder with a piston contains 0.025 mol of monatomic ideal gas at a temperature 10°C. Thermal energy of 12J is
+supplied to the gas. The gas expands and does a work of 5.0J on the piston. Calculate:
+(a) the change in the internal energy of the gas
+(b) the final temperature of the gas.
+Complete Practice Questions #1 to #4 on page 276 of the textbook.
+Pressure-Volume
+graphs –
+determining the
+word done on a
+gas or by a gas
+Compression of a gas – work done is negative. Why?
+Expansion of a gas
+Work done is positive. Why?
+Be careful of the “false origin”
+Worked Example
+A monatomic ideal gas is compressed along the path AB as shown.
+(a) Calculate the work done during the compression.
+The temperature of the gas at A is 480 K.
+(b) Calculate the temperature of the gas at B.
+(c) Determine:
+(i) the change in the internal energy of the gas
+(ii) the energy transferred between the gas and the
+surroundings.
+Worked Example
+The P-V graph shows two possible processes that can change the conditions of a
+gas from the initial state A to the final state B. Deduce which of the processes
+results in a greater amount of:
+(a) work done by the gas
+(b) thermal energy transferred to the gas.
+88
+\n--- PAGE 89 ---\nWorked Example
+An ideal gas expands along the path AB shown in the P-V diagram.
+(a) Calculate the work done by the gas.
+(b) Show that the initial and the final temperature of the gas is the same.
+(c) Hence, state the energy supplied to the gas.
+Complete Practice Questions #5 and #6 on page 279 in the textbook.
+B4 Thermodynamics (continued)
+Students should understand
+➢ that isovolumetric, isobaric, isothermal and adiabatic processes are obtained by keeping one variable fixed
+➢ that adiabatic processes in monatomic ideal gases can be modelled by the equation as given by
+➢ that cyclic gas processes are used to run heat engines
+➢ that a heat engine can respond to different cycles and is characterized by its efficiency as given by
+➢ that the Carnot cycle sets a limit for the efficiency of a heat engine at the temperatures of its heat reservoirs
+as given by
+Term Definition/Concept/Explanation
+Four changes that occur in a gas
+Process Description Equation P-V graph
+Isobaric Pressure stays constant
+Isovolumetric Volume stays constant
+89
+\n--- PAGE 90 ---\nIsothermal Temperature stays
+constant
+Adiabatic
+Work done BY
+the system
+Word done
+ON the
+system
+No heat enters or
+leaves the system
+This process must be
+very rapid – no time is
+available for an energy
+transfer.
+For monotomic gases
+ONLY (e.g. Helium gas)
+– the exponent
+changes if the gas is
+made of more than
+one atom (e.g.
+Nitrogen gas, N2)
+NOTE: In a complete thermodynamic cycle the net change in internal energy is zero.
+Worked Example
+An ideal gas undergoes a cyclic process along the loop ABCA, as
+shown in the P-V graph. The change AB is isothermal at a
+temperature of 900 K.
+(a) Calculate the temperature of the gas at C.
+The work done by the gas during the change AB is 330J.
+(b) Determine the net work done in one cycle.
+(c) Explain whether thermal energy is transferred to the gas
+or from the gas during each of the changes AB, BC and CA.
+90
+\n--- PAGE 91 ---\nWorked Example
+A monatomic ideal gas at an initial temperature 300K, pressure 1.00 × 105 Pa
+and volume 3.60 × 10–4m is compressed adiabatically to a new volume of
+1.20 × 10–4 m3. The compression is represented by the change AB in the P-V
+graph.
+The gas is then allowed to cool at constant volume to the original
+temperature, as represented by the change BC. The dashed line is the
+isothermal at 300 K.
+(a) Calculate, for the gas in state B: (i) its pressure (ii) its temperature.
+(b) Determine the change in the internal energy of the gas during the
+compression. Give the answer to the nearest joule.
+(c) Hence, state: (i) the work done during change AB (ii) the energy
+transferred during change BC.
+Complete Practice Questions #7 to #9 on pages 282 and 283 of the textbook.
+Heat cycles and
+Heat engines
+A device that performs useful work by continuously converting energy to work is known as a heat
+engine.
+The first description of a cyclic heat engine was given by the French engineer and physicist Nicolas
+Léonard Sadi Carnot in 1824. He described a cycle in which an ideal gas is carried around four
+processes in sequence: two isothermal and two adiabatic. The moving parts of the heat engine
+are assumed to be completely frictionless. This is known as theCarnot cycle.
+AB → isothermal expansion
+BC → adiabatic expansion
+CD → isothermal compression (work done on the gas)
+DA → adiabatic compression (work done on the gas)
+91
+\n--- PAGE 92 ---\nReversible nature
+of the Carnot
+cycle.
+A heat engine that performs the Carnot cycle is reversible.
+A reversible process is one in which a system can be returned to its previous state with only an
+infinitesimal change to the properties of the system or its surroundings. In order for this to be
+possible it would have to go at an infinitely slow pace.
+The Carnot cycle is important because it represents the optimal efficiency possible for a heat
+engine. For all real world engines, the cycle is not reversible. There is always energy lost to
+friction or the environment.
+Worked Example
+A heat engine is modelled as a Carnot cycle whose hot and cold reservoirs are maintained at constant temperatures of
+900K and 350 K, respectively.
+(a) Calculate the efficiency of this cycle.
+The energy is transferred from the hot reservoir into the engine at a rate of 720W.
+(b) Calculate: (i) the useful power developed by the engine (ii) the rate at which waste thermal energy is rejected
+to the cold reservoir.
+Worked Example
+An ideal gas operating in a Carnot cycle absorbs 1.50 kJ of energy per cycle from a hot reservoir of a constant
+temperature of 490 °C. The gas transfers energy to the low-temperature reservoir at a rate of 0.63 kJ per cycle.
+Calculate:
+(a) the efficiency of the cycle
+(b) the temperature of the cold reservoir.
+(c) Explain why a practical heat engine operating between the same temperatures as a Carnot cycle is likely to
+require a higher energy input from its hot reservoir to do the same useful work.
+Complete Practice Questions #10 to #12 on page 285 in the textbook.
+92
+\n--- PAGE 93 ---\nWorked Example
+A heat engine is modelled by the cycle ABCDA shown in the
+P-V diagram. The working substance is 7.00 × 10–2 mol of a
+monatomic ideal gas. Change AB is an adiabatic compression to
+¼ of the original volume. During change BC, the pressure of the
+gas increases by a factor of 3 under a constant volume. Change
+CD is adiabatic and change DA is isovolumetric. The pressure of
+the gas at A is 1.00 × 105 Pa.
+(a) Calculate the pressure at B.
+The temperature of the gas at B is 866 K.
+(b) Calculate the temperature at C.
+(c) Calculate the energy transferred to the gas during the
+change BC.
+The energy transferred from the gas to the environment during
+the change DA is 600J.
+(d) Calculate: (i) the work done by the gas during one cycle
+(ii) the efficiency of the cycle.
+Complete Practice Questions #13 and #14 on pages 289 and 290 in the textbook.
+93
+\n--- PAGE 94 ---\nB4 Thermodynamics (continued)
+Students should understand
+➢ that entropy S is a thermodynamic quantity that relates to the degree of disorder of the particles in a system
+➢ that entropy can be determined in terms of macroscopic quantities such as thermal energy and temperature
+as given by and also in terms of the properties of individual particles of the system as given by
+where is the Boltzmann constant and is the number of possible microstates of the system
+➢ that the second law of thermodynamics refers to the change in entropy of an isolated system and sets
+constraints on possible physical processes and on the overall evolution of the system
+➢ that processes in real isolated systems are almost always irreversible and consequently the entropy of a real
+isolated system always increases
+➢ that the entropy of a non-isolated system can decrease locally, but this is compensated by an equal or greater
+increase of the entropy of the surroundings
+Term Definition/Concept/Explanation
+The second law of
+thermodynamics
+➔ Energy cannot be transferred from a body at a lower temperature to a body at a greater
+temperature unless work is done on the system.
+➔ Energy cannot be extracted from a hot object and transferred entirely into work.
+➔ In any natural thermodynamic process, the total entropy of an isolated system will either
+increase or remain constant; it never decreases.
+Entropy Entropy is a measure of the disorder or randomness of a system.
+Macroscopic
+interpretation of
+entropy
+is an increase
+in entropy.
+A change in entropy can be defined on a macroscopic scale for
+a reversible change as:
+where is the energy transferred INTO the system and
+is the temperature at which it occurred.
+Unit for entropy, S, is the Joule
+per Kelvin
+Unit for S: J K –1
+Worked Example
+(a) A sample of 0.15 kg of water at 0°C freezes. The specific latent heat of fusion of water is 3.3 × 105J kg–1.
+Calculate the change in entropy of the water during freezing.
+(b) The freezing takes place outdoors on a winter day when air temperature is -10°C. Calculate the change in
+entropy of the water-air system as the water freezes.
+(c) Comment on your answers to a. and b. with reference to the second law of thermodynamics.
+Worked Example
+The diagram shows a Carnot cycle for an ideal gas.
+(a) Describe the change in entropy taking place during each part of the cycle.
+(b) State the change in entropy during once complete cycle ABCDA.
+94
+\n--- PAGE 95 ---\nMicroscopic
+interpretation of
+entropy
+The molecules in a gas constantly explore all the alternative speeds and positions available to
+them.
+When there are S different arrangements for a group of molecules, then the entropy of these
+molecules is defined to be:
+where is the number of microstates possible.
+Worked Example
+Imagine a container divided into two equal parts (Left and Right) with a removable partition in the middle. The
+container has a total of 6 gas particles. Initially, all the particles are confined to the left side of the box. When the
+partition is removed, the gas particles are free to move throughout the entire container. Now, the particles can be in
+either the Left or the Right side.
+(a) How many microstates are possible for this scenario (i.e. how many possible combinations exists for the
+number of particles on each side of the partition)?
+(b) Determine the increase in entropy of the system after the partition is removed.
+Note: For a similar scenario with N particles there will be microstates.
+Worked Example
+A box contains ten identical particles that move randomly and have an equal probability of being found in the
+left-hand half and in the right-hand half of the box. A, B and C are three configurations of the system, with zero, two
+and five particles in the left half of the box.
+(a) State the number of microstates of the system in configuration A.
+(b) Show that the number of microstates of the system in configuration B is 45.
+(c) Calculate the number of microstates of the system in configuration C.
+(d) All microstates of the system are equally probable. Explain why the system is more likely to be found in a state
+with particles evenly divided between the two halves of the box.
+(e) Calculate, in terms of , the value of Sc – Sa, where Sc and Sa are the entropies of the system in configurations
+C and A. Comment on the answer with reference to the second law of thermodynamics.
+Note: For specific number of microstates for a given macrostate use where is the total number of particles and
+is the specific number of particles for a given microstate.
+95
+\n--- PAGE 96 ---\nPractice Questions – Entropy
+1. Explain why in an isothermal compression of an ideal gas the entropy of the gas decreases. Why does this
+decrease in entropy of the gas not violate the second law of thermodynamics?
+2. In an isothermal expansion of an ideal gas all the thermal energy supplied is used to perform work. Doesn't this
+violate the second law of thermodynamics?
+3. In an isothermal expansion of an ideal gas the entropy of the gas increases. How do we understand this increase
+in entropy in terms of microstates?
+4. In an adiabatic expansion you would expect the entropy to increase since the volume increases, thus increasing
+disorder. What accounts for the fact that the entropy change is zero?
+5. Calculate the change in entropy of 25 g of ice at 0 °C that melts into water at 0 °C. Take the specific latent heat of
+fusion of ice to be 334 kJ kg–1.
+6. Two very large bodies at 0 °C and 100 °C are brought into thermal contact. Calculate the overall change in
+entropy when an amount of heat of 50 J leaves the hot body and enters the cold body.
+7. A 15 g ice cube at 0 °C is dropped into a very large container of water at 20 °C. Take the specific latent heat of
+fusion of ice to be 334 kJ kg–1 and the specific heat capacity of water to be 4200 J kg–1 K–1.
+a. Calculate the change in entropy of the ice after all the ice has turned into water at 0 °C.
+b. The 15 g of water at 0 °C will eventually reach 20 °C. During this process the entropy of the 15g of water
+increases by 4.5 J K–1. Calculate the overall change in entropy of the ice and the water after equilibrium is
+reached.
+96
+\n--- PAGE 97 ---\nAnswers to Practice Questions on Entropy
+1. Heat has been taken out of the gas and so the entropy of the gas decreased. The heat extracted from the gas
+goes into the surroundings, increasing the entropy by the same amount as the decrease in entropy of the gas.
+This is an ideal reversible process and so the total entropy of the universe stayed the same, consistently with the
+second law.
+2. No, because the conversion of thermal energy to mechanical work with 100% efficiency is forbidden for cyclic
+processes, and we don’t have a cyclic process here.
+3. The volume increases and so the number of microstates available also increases.
+4. The temperature is reduced.
+5.
+6.
+7. a.
+b.
+97
+\n--- PAGE 98 ---\nD.4 Induction
+Students should understand
+⇒ magnetic flux as given by
+⇒ that a time-changing magnetic flux induces an emf as given by Faraday’s law of induction
+⇒ that a uniform magnetic field induces an emf in a straight conductor moving perpendicularly to it as given by
+⇒ that the direction of induced emf is determined by Lenz’s law and is a consequence of energy conservation
+⇒ that a uniform magnetic field induces a sinusoidal varying emf in a coil rotating within it
+⇒ the effect on induced emf caused by changing the frequency of rotation.
+Term Concept/Definition/Explanation SI unit/Drawing/Illustration
+electromagnetic
+induction
+An electromotive force is produced when there is
+______________________________________________
+_____________________________________ such that
+an angle exists between the conductor and magnetic
+field. If they are parallel, no emf will be produced.
+electromagnetic
+induction in a
+straight conductor
+moving
+perpendicular to a
+magnetic field
+_________________
+conductor is moving upward with a constant velocity, v.
+(a) as the conductor moves
+perpendicular to the magnetic
+field a __________________ is
+produced on the charge carriers
+(electrons) in the conductor (not
+shown). An equal an opposite
+force is also produced by the
+moving charges to oppose the
+motion (not shown). An
+_____________________ to
+move the rod must always be
+present or the rod will stop
+moving.
+(b) the result is a separation of
+charge – Hence, an emf is
+produced. The emf has the ability
+to do work or move charges.
+(c) if a complete circuit exists with
+the conductor a continuous
+current will form in the loop.
+98
+\n--- PAGE 99 ---\nLenz’ Law(named for
+German scientist
+Heinrich Lenz in
+1833)
+Lenz's law states that the ____________________________________ in a conductor by a
+changing magnetic field is such that the ____________________________________________
+____________________________________________________________________________
+In other words the induced current will move in such a way to create a magnetic field that will
+oppose the magnetic field that is creating the current. The two magnetic fields will repel each
+other. As a result, work needs to put into the system in order for the current to continue to
+flow or for emf to be produced.
+Worked Example
+A metal rod of length L = 0.75 m moves without friction at a constant speed v = 1.5 ms–1 along a pair of parallel
+conducting rails. The rails are electrically connected at the left-hand side and form a complete electric circuit with the
+rod. The system is in a uniform magnetic field of magnitude B = 0.16 T directed out of the page.
+(a) Calculate the magnitude of the electromotive force induced in
+the rod. The rod has a resistance of 4.0 . The resistance of the
+rails is negligible.
+(b) Calculate the current in the rod and explain its direction.
+(c) Explain why an external force must act on the rod to maintain
+the constant speed.
+(d) Calculate the rate at which the energy is transferred to the
+system.
+Complete Practice Question #1 and #2 on page 566 in the textbook.
+Term Definition/Concept/Explanation SI unit/Drawing/Ilustration
+Magnetic flux density
+= magnetic field
+strength
+= number of field lines
+per unit area.
+Magnetic flux
+__________________
+Magnetic fluxLINKAGE – considers more than one loop.
+N is the number of loops.
+___________________________________
+Unit for magnetic flux = Tesla m2
+and is a scalar quantity.
+or _______________________
+The abbreviation for Weber is
+Wb.
+Unit for magnetic flux linkage =
+Weber-turns or Wb-turns.
+99
+\n--- PAGE 100 ---\nFaraday’s law and
+Neumann’s equation
+Faraday’s law states that the ___________________________________________________
+__________________________________________________________________________.
+The negative sign represents Lenz’ Law. Together, they make Neumann’s equation.
+Combined with magnetic flux linkage or the use of more than one loop, we have:
+The magnetic flux can be changed in three different ways:
+➢ by changing the area of cross-section with time —
+➢ by changing , the angle between B and A, with time —
+➢ by changing magnetic flux density with time —
+Each of these leads to the generation of an induced emf.
+Worked Example
+A square loop of side length 15 cm is perpendicular to a uniform magnetic field of magnitude B = 0.36 T, directed out
+of the plane of the paper.
+(a) Calculate the magnetic flux through the loop.
+The direction of the magnetic field is reversed in a time of 0.50 s.
+(b) Calculate the average emf induced in the loop.
+(c) Explain the direction of the current induced in the loop.
+(d) The resistance of the loop is 1.0 × 10–3 . Determine the total energy transferred to the loop.
+Moving a coil in and
+out of a field
+or
+Loop enters - current
+induced is clockwise
+Loop exits – current
+induced is
+counter-clockwise
+The maximum magnetic flux
+occurs when the entire loop is
+in the magnetic field, YET there
+is no emf produced. Why?
+________________________
+________________________.
+100
+\n--- PAGE 101 ---\nWorked Example
+A 5 cm by 5 cm square coil with 200 turns is passing through a uniform magnetic field of 0.07T moving at a uniform
+velocity of 1.1 m/s.
+(1) Calculate (a) the magnetic flux linkage for the loop (b) the magnitude of the avg. induced emf.
+(2) State Lenz' Law and the direction of the current from position 2 to 3 and 4 to 5.
+(3) Sketch a graph of the emf induced as the coil moves from position 1 to 6.
+(4) Sketch a graph of the change in magnetic flux as the coil moves from 1 to 6.
+(5) How would the sketch of induced emf change if the coil was circular?
+101
+\n--- PAGE 102 ---\nFlipping a loop in a
+magnetic field
+self-inductance – only
+a qualitative
+description
+This is called “back
+emf”. All motors have
+coils that produce back
+emf
+In a simple circuit with a coil, when the switch is closed a
+magnetic field will rise in the coil and reach a maximum.
+Since there is a time-changing magnetic flux in the coil an
+emf will be produced that opposes the direction of induced
+current. This is called self-inductance.
+Worked Example
+The graph shows the variation of magnetic flux with time through a coil of 500 turns.
+Calculate the magnitude of the emf induced in the coil.
+Worked Example
+A small cylindrical magnet and an aluminium cylinder (which is non-magnetic) of similar shape and mass are dropped
+from rest down a vertical copper tube of length 1.5 m.
+(a) Show that the aluminium cylinder will take about 0.5 s to reach the bottom of the tube.
+(b) The magnet takes 5s to reach the bottom of the tube. Explain why the objects take different times to reach the
+bottom.
+Complete Practice Questions #3 to #6 on page 573 in the textbook.
+102
+\n--- PAGE 103 ---\nRotating a coil in a
+magnetic field – the
+alternating current
+generator
+AC GENERATOR
+__________________
+is the angular
+velocity of the coil and
+__________________________
+_____________________________
+➢ A graph of versus will be a____________________.
+➢ A graph of versus will be a ____________________.
+➢ The two graphs have a phase difference of or radians.
+➢
+Worked Example
+A 4.5 cm by 3.0 cm rectangular loop rotates at a constant angular speed in a uniform magnetic field of 0.3T.
+Thefrequency of rotation is 50Hz.
+(a) Calculate the maximum emf induced in the coil.
+(b) Sketch and annotate a graph of magnetic flux versus angle of rotation for the coil. Label this graph as PHI. On
+the same axis, sketch a graph of induced emf versus angle of rotation. Label this graph as EMF.
+103
+\n--- PAGE 104 ---\nWorked Example
+A rectangular coil of area 6.0 × 10–2m2 and 500 turns is placed in a
+uniform magnetic field of magnitude 53 mT. The coil rotates at a
+constant angular speed with a period of 0.04s. At t = 0, the coil is
+perpendicular to the field.
+(a) Calculate the average emf induced in the coil between t = 0
+and t = 0.02s.
+The maximum instantaneous emf induced in the coil is
+250V.
+(b) Draw a graph to show how the induced emf varies with time during the first complete rotation of the coil.
+Worked Example
+A coil rotates at a constant rate in a uniform magnetic field. The variation of the emf E with angle between the coil
+and the field direction is shown. Copy the graph below and, on the same axes, add the emf that will be produced when
+the rate of rotation of the coil is doubled. Explain your answer.
+Mutual inductance
+transformers
+Worked Example
+Two stationary coils X and Y are parallel to each other and
+have a common axis. There is a decreasing current in coil X.
+(a) Explain the direction of the current induced in Y
+relative to that in X.
+(b) Explain the nature of the magnetic force between
+the coils.
+Complete End of Theme Questions #5 and #7 on page 585 in the textbook.
+104
+\n--- PAGE 105 ---\nA4 Rigid body mechanics 
+Students should understand 
+➢ that the rotation of a body can be described in terms of angular displacement, angular velocity and angular 
+acceleration 
+➢ that equations of motion for uniform angular acceleration can be used to predict the body’s angular position 
+, angular displacement , angular speed  and angular acceleration , as given by 
+ 
+ 
+ 
+ 
+ 
+ 
+Angular 
+acceleration 
+Angular acceleration is defined as the rate of change of 
+angular velocity with time    Unit: rad s–2 
+Acceleration 
+involving circular 
+motion 
+(1) centripetal acceleration (constant tangential velocity 
+-> no tangential acceleration)  
+    
+(2) tangential acceleration (if tangential velocity is not 
+constant)     
+ 
+Worked Example 
+A bicycle is placed on a repair stand and a mechanic spins its rear wheel from rest to a final angular velocity of 240 
+revolutions per minute in a time of 4.0 s. 
+(a) Calculate the angular acceleration of the wheel, in rad s–2, assuming that it is constant. 
+(b) The radius of the wheel is 34 cm. Calculate the final linear speed of a point on the circumference of the wheel. 
+(c) Outline how the centripetal acceleration of the point on the circumference of the wheel varies with time. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+The angular acceleration of a wheel, rotated from rest, is 16 rad s–2. The wheel accelerates for 5.0s. Calculate: 
+(a) the final angular velocity 
+(b) the number of revolutions of the wheel in reaching this angular velocity. 
+ 
+ 
+ 
+ 
+ 
+ 
+105
+\n--- PAGE 106 ---\nWorked Example 
+A spinning top is rotating with an initial angular velocity of 30 rad s–1. It decelerates at a constant rate of 0.45 rad s–2. 
+The top falls over when its angular velocity has decreased to 5.0 rad s–1 Calculate: 
+(a) the number of rotations the top makes before it falls over 
+(b) the time it takes for the top to fall over. 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A merry-go-round of radius 2.0m is rotated from rest with a constant angular acceleration and makes two complete 
+revolutions during a time of 16s. Calculate: 
+(a) the angular acceleration 
+(b) the final linear speed of a point on the circumference of the merry-go-round 
+(c) the time it took to complete the first revolution. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #1 to #4 on page 133 of the textbook 
+Angular mechanics graphs 
+Worked Example 
+The diagram shows a hula-hoop (a large plastic ring) rolling with constant angular speed along a horizontal surface, A. 
+It then rolls down a uniform inclined plane, B. When it reaches a second horizontal surface, C, it moves with a constant 
+angular speed again. Sketch and explain graphs to show the variation with time of: 
+(a) the angular velocity 
+(b) the angular acceleration. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+106
+\n--- PAGE 107 ---\nA4 Rigid body mechanics 
+Students should understand 
+➢ that the moment of inertia  depends on the distribution of mass of an extended body about an axis of 
+rotation 
+➢ the moment of inertia for a system of point masses as given by  
+➢ the torque  of a force about an axis as given by  
+➢ Newton’s second law for rotation as given by  where   is the average torque 
+➢ that bodies in rotational equilibrium have a resultant torque of zero 
+➢ that an unbalanced torque applied to an extended, rigid body will cause angular acceleration 
+ 
+Term Definition/Explanation Illustration/Drawing/Unit 
+Moment of Inertia 
+ 
+ 
+Unit: kg m2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The moment of inertia, often denoted by , is a measure of an object's resistance to changes in 
+its rotation about an axis. It depends on the mass distribution of the object relative to the axis 
+of rotation.  
+ 
+Each bit has mass , and its distance from the axis is . We multiply the mass of each bit by 
+the distance of the bit to the axis squared and sum up for all the bits making up the body; that 
+is, we form the quantity 
+ 
+which we call the moment of inertia of the body about the given axis. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+The graph shows how the angular velocity of a rotating cylinder varies with time. 
+Calculate: 
+(a) the angular acceleration of the cylinder during the first 4.0s.  
+(b) the angular displacement of the cylinder from 0 to 10.0s. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+107
+\n--- PAGE 108 ---\nWorked Example 
+Two identical point masses are connected by a rod that has a radius of length L. 
+Determine the expression for the moment of inertia of the rod and point masses 
+in terms of the radius L. 
+ 
+Worked Example 
+A bicycle wheel has a mass of 850g and a radius of 34 cm. Estimate the moment of inertia of the wheel about the axis 
+of rotation. 
+ 
+ 
+Worked Example 
+Two circular discs are cut from the same uniform metal plate. The moment of inertia of the first disc about its central 
+axis is . The radius of the second disc is twice the radius of the first disc. Calculate, in terms of , the moment of 
+inertia of the second disc. 
+ 
+ 
+ 
+ 
+Complete Practice Questions #5 and #6 on page 137 of the textbook. 
+Torque (Newton’s 
+2nd law of 
+rotational motion) 
+ 
+ 
+Torque is defined as the product of the Force and the 
+perpendicular distance to the line of action between 
+the force and the center of rotation. 
+ 
+Torque is also the product of the moment of inertia and 
+the rotational acceleration of the object.  
+ 
+Unit: N m 
+ 
+ 
+ 
+Newton’s 1st Law 
+of rotational 
+motion 
+ 
+An object moves at a constant angular velocity (which may be zero) unless an external torque 
+acts on it. 
+ 
+Also called the Principle of Moments – the total clockwise torque is equal to the total 
+counter-clockwise torque – Rotational Equilibrium. 
+Worked Example 
+Find the torque on the rod for the three different diagrams. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+108
+\n--- PAGE 109 ---\nWorked Example 
+A uniform ladder of length 5.0 m resting against a vertical, 
+frictionless wall. The other end of the ladder rests on the floor 
+where a frictional force f prevents the ladder from slipping. 
+The weight of the ladder is 350 N. Calculate the minimum 
+coefficient of static friction between the ladder and the floor 
+so that the ladder does not slip. The ladder makes an angle of 
+60° with the floor. 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+Two objects of masses 1.5 kg and m are attached to the ends of a 
+weightless horizontal rod, as shown in the diagram. The rod is 
+supported at point P . The rod remains in equilibrium. Calculate: 
+(a) the mass m 
+(b) the reaction force on the rod at P . 
+ 
+ 
+ 
+ 
+Complete Practice Questions #8 to #10 on page 139 in the textbook. 
+Couples A couple consists of two equal and opposite forces 
+which do not act along the same straight line. Because 
+the forces are offset, they produce a torque which 
+causes the system to rotate. Because they are equal 
+and opposite, they do not produce a linear 
+acceleration. The system is in translational equilibrium 
+but not rotational equilibrium. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Why? 
+Worked Example 
+Two parallel forces of magnitudes F1= 3.0 N and F2 = 4.0 N are applied to a 
+circular disc, as shown in the diagram. 
+(a) Calculate the magnitude of: 
+(i) the net force acting on the disc 
+(ii) the net torque about the centre P of the disc. 
+(b) The moment of inertia of the disc is 0.080 kg m2. Calculate the initial 
+angular acceleration of the disc. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+109
+\n--- PAGE 110 ---\nWorked Example 
+A constant force of 25 N is applied tangentially to the sprocket of a bicycle wheel. The wheel 
+accelerates from rest to an angular velocity of 40 rad s–1 in a time of 3.0s. The radius of the 
+sprocket is 4.0 cm. Calculate the moment of inertia of the wheel. 
+ 
+ 
+ 
+Worked Example 
+A constant frictional torque acting on a spinning top causes its angular velocity to decrease from 150 rad s–1 to 80 rad 
+s–1. The top undergoes 300 revolutions while the angular velocity is changing. The moment of inertia of the spinning 
+top is 5.0 × 10–3kg m2. Calculate the magnitude of the frictional torque acting on the top. 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+Two objects of masses 2.0 kg and 1.0 kg are attached to the ends of a 
+weightless rod supported at point P as shown in the diagram. The rod is 
+initially horizontal. Determine the initial linear acceleration of each mass 
+when the rod is released. 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #11 to #14 on page 142 in the textbook.  
+ 
+A4 Rigid body mechanics 
+Students should understand 
+➢ that an extended body rotating with an angular speed has an angular momentum  as given by  
+➢ that angular momentum remains constant unless the body is acted upon by a resultant torque 
+➢ that the action of a resultant torque constitutes an angular impulse  as given by   
+ 
+➢ the kinetic energy of rotational motion as given by 
+ 
+Term Definition/Explanation Illustration/Drawing/Unit 
+Newton’s 3rd law of 
+rotational motion 
+When object A applies a torque to object B, then object B will apply an equal and opposite 
+torque to object A. 
+Work done by torque Work = torque X angular displacement   
+Unit: Joule, J 
+Power produced by a 
+torque 
+Power = torque X angular velocity  
+Unit: Watt, W 
+Rotational kinetic 
+energy  
+Unit: Joule, J 
+110
+\n--- PAGE 111 ---\nWorked Example 
+A uniform disc of mass 0.25 kg and radius 0.15 m rotates about the central axis with an initial angular velocity of 8.0 
+rad s–1. Calculate: 
+(a) the initial rotational kinetic energy of the disc 
+(b) the work done in increasing the angular velocity of the disc from 8.0 rad s–1 to 16 rad s–1. 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A stationary bicycle trainer has a flywheel with electronically controlled resistance to simulate different cycling 
+conditions. When the cyclist stops pedaling, the flywheel comes to rest from an initial angular velocity of 180 rad s–1 in 
+a time of 9.0s. The moment of inertia of the flywheel is 0.070 kg m2. Calculate: 
+(a) the resistive torque acting on the flywheel, assuming that it is constant 
+(b) the work done by the resistive torque in stopping the flywheel 
+(c) the power that the cyclist needs to transfer to the flywheel to maintain the constant angular velocity of 180 
+rad s–1.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A meter stick of mass 0.15 kg is suspended at one end and can rotate freely about the 
+point of suspension. The meter stick is set in motion so that it passes through the 
+vertical position with an angular velocity of 3.4 rad s–1. 
+(a) Calculate the rotational kinetic energy of the meter stick in the vertical position. 
+(b) Explain why the torque acting on the meter stick increases with the angular 
+displacement from the vertical position. State the direction of the torque. 
+(c) Determine the maximum angle max  through which the meter stick 
+rotates before it reverses the direction of motion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #15 to #18 on page 147 of the textbook. 
+111
+\n--- PAGE 112 ---\nAngular momentum Angular momentum = moment of inertia X angular 
+velocity 
+ 
+Unit: kg m2 [rad] s–1  
+Note: the radian is often omitted 
+as it is a unitless quantity 
+Conservation of 
+angular momentum 
+The total angular momentum of a system remains 
+constant providing no external torque acts on the system. 
+ 
+Worked Example 
+A disc of radius 30 cm and mass 1.2 kg spins freely at an angular velocity of 5.0 rad 
+s–1. A small object of mass m = 0.25 kg is dropped onto the disc with a negligible 
+initial velocity and comes to rest relative to the disc at a distance of 20 cm from the 
+axis of rotation. 
+(a) Calculate the final angular velocity of the system consisting of the disc and 
+the mass, assuming that no external torques act on the system. 
+(b) Determine the change in the rotational kinetic energy of the system. 
+(c) Explain why the rotational kinetic energy has decreased. 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A rotating star collapses, decreasing its moment of inertia to  of the initial value. The initial angular velocity of the 
+star is  and its initial rotational kinetic energy is       .   For the star after the collapse, calculate: 
+(a) the angular velocity 
+(b) the rotational kinetic energy. 
+ 
+ 
+ 
+ 
+Worked Example 
+A child sits at the edge of a merry-go-round of radius r = 2.5 m. The child throws a stone of mass 
+m = 0.50 kg tangentially to the merry-go-round, with an initial speed of v = 8.0 ms–1. 
+(a) Show that the angular momentum of the stone relative to the rotation axis of the 
+merry-go-round is given by L = mvr. 
+The merry-go-round is initially at rest and can rotate without friction. The combined moment of 
+inertia of the child and the merry-go-round is I =1400 kg m2. 
+(b) Calculate the final angular velocity  of the merry-go-round. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #19 and #20 on page 149 of the textbook. 
+112
+\n--- PAGE 113 ---\nAngular Impulse  
+ 
+Angular impulse is the change in angular momentum   
+Unit: N m s 
+Worked Example 
+Two rocket thrusters T1 and T2  separated by a distance of 80m are used to 
+rotate a space station around its axis. Each of the thrusters provides a 1.0 
+kN force at a right angle to the line joining the thrusters. The moment of 
+inertia of the space station about the point halfway between the thrusters 
+is 2.8 × 108 kg m2. The space station rotates initially in a clockwise direction 
+with a period of 20 minutes. The thrusters operate for 30s. Calculate: 
+(a) the initial angular momentum of the space station 
+(b) the angular impulse delivered to the space station by the thrusters 
+(c) the final rotational period of the space station. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A flywheel of the moment of inertia 0.070 kg m2 is driven by an 
+electric motor that provides a torque that varies with time t. The 
+graph shows the variation with t of the net torque applied to the 
+flywheel. The flywheel is initially at rest. Calculate: 
+(a) the angular momentum of the flywheel when t = 5 s 
+(b) the angular velocity of the flywheel when t = 10 s 
+(c) the average acceleration of the flywheel during the first 10s. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #21 to #23 on page 154 in the textbook. 
+Rolling without 
+slipping – an energy 
+perspective 
+When an object rolls without slipping, both translational 
+kinetic energy and rotational kinetic energy are present.  
+where v is the speed of the 
+object a the center of mass 
+Total energy for an 
+object rolling from a 
+height, h. 
+     
+where  
+113
+\n--- PAGE 114 ---\nWorked Example 
+A round object of mass M, radius R and moment of inertia  rolls without slipping down an inclined plane that makes 
+an angle  with the horizontal. 
+(a) Draw a diagram showing the forces acting on the object. 
+(b) Derive an expression for the linear acceleration of the object. 
+(c) Calculate, in terms of , the linear acceleration of the object if the object is: 
+(i) a solid sphere 
+(ii) a solid cylinder 
+(iii) a thin hoop. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A solid cylinder rolls down an incline that makes an angle  with the horizontal. The cylinder starts from rest 
+and travels a distance of 1.0m, measured along the plane. 
+(a) Determine the final linear speed of the cylinder: 
+(i) by using the kinematic (suvat) equations for uniformly accelerated motion 
+(ii) by considering energy changes of the cylinder. 
+(b) A solid sphere of the same mass as the cylinder in part a. rolls down the same inclined plane, starting from 
+rest. Explain which of the obiects has a greater rotational kinetic energy at the bottom of the plane. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #24 to #27 on pages 157 and 158 in the textbook. 
+ 
+ 
+ 
+114
+\n--- PAGE 115 ---\nA5 Galilean and special relativity 
+Students should understand 
+➢ reference frames 
+➢ that Newton's laws of motion are the same in all inertial reference frames and this is known as Galilean 
+relativity 
+➢ that in Galilean relativity the position  and time  of an event are given by  and  
+➢ that Galilean transformation equations lead to the velocity addition equation as given by  
+➢ the two postulates of special relativity 
+➢ the relativity of simultaneity 
+➢ proper time interval and proper length 
+➢ time dilation as given by  
+➢ that the postulates of special relativity lead to the Lorentz transformation equations for the coordinates of an 
+event in two inertial reference frames as given by 
+ 
+ where  
+Term Definition/Concept/Illustration Unit/Drawing 
+frame of 
+reference 
+A frame of reference is a coordinate system or a set of axes 
+within which to measure the position, orientation, and other 
+properties of objects in it. It provides a perspective from which 
+observations and measurements are made, allowing for a 
+systematic way to describe the motion and interaction of 
+objects. 
+ 
+inertial reference 
+frame 
+A frame of reference that is either at rest or moves with a constant velocity. In such a frame, the 
+laws of physics (particularly Newton's laws of motion) hold true without any modifications. 
+Translating 
+information 
+between inertial 
+frames of 
+reference 
+To translate between inertial frames of reference, Galilean transformations are used.  
+ 
+Suppose there are two frames of reference, S and S’. S’ is moving at constant velocity, , with 
+respect to S. Measuring distances, x, and times, t, for reference frame S is as usual. To translate 
+from S to S’ we use:  
+(1)  
+(2)  
+Worked Example 
+A bus moves at a constant velocity of 8.0 m s–1 relative to the ground. A boy on the bus walks towards the rear of the 
+bus at a constant velocity of 1.5 m s–1 relative to the bus. 
+(a) Calculate the velocity of the boy relative to the ground. 
+The distance walked by the boy relative to the bus is 3.0 m. 
+(b) Calculate the distance travelled during the same time by the boy relative to the ground. 
+ 
+ 
+ 
+ 
+ 
+ 
+115
+\n--- PAGE 116 ---\nWorked Example 
+A train is moving at a constant velocity of . A passenger is walking at  in the same 
+direction as the motion of the train. An observer outside the train starts taking measurements in line with the 
+passenger that is walking such that  and .  
+(a) What is the velocity of the passenger that is walking relative to the observer outside the train? 
+(b) Write an expression, in terms of time, for the position of the passenger in the reference frame of the train, S’. 
+(c) Write an expression, in terms of time, for the position of the passenger relative to the observer. 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A cyclist rides a bicycle along a straight road, in the direction of the positive x-axis of the reference frame of the road. 
+The position of the cyclist at t = 0 is x = 0 and the position at t = 50 is x = 350 m. A car moving at a constant velocity of 
+12m s–1 relative to the road overtakes the cyclist. Calculate, relative to a reference frame in which the car is at rest: 
+(a) the displacement of the cyclist from t = 0 to t = 50 s 
+(b) the average velocity of the cyclist. 
+ 
+ 
+ 
+ 
+ 
+What happens when we deal with objects or reference frames that are moving at very fast velocities (near the 
+speed of light or a fraction of the speed of light (i.e. 0.5 c)? Galilean transformations no longer apply. 
+The two 
+postulates of 
+special relativity 
+1. The laws of physics are the same in all inertial frames of reference.  
+2. The speed of light relative to any observer in an inertial frame is independent of the 
+motion of the source of light relative to the inertial observer. 
+Simultaneity Classical (Newtonian) Simultaneity: 
+● In classical physics, time is considered absolute, meaning that all observers, regardless of 
+their state of motion, will agree on whether two events occur simultaneously. 
+● This implies a universal clock that ticks the same for everyone, making simultaneity an 
+objective fact. 
+Relativistic Simultaneity: 
+● In the theory of relativity, simultaneity is relative, depending on the observer's state of 
+motion. 
+● Two events that are simultaneous in one frame of reference may not be simultaneous in 
+another frame moving relative to the first. 
+● This is due to the finite speed of light and the way space and time are intertwined in the 
+fabric of spacetime. 
+Light clock  Relative the the stationary 
+reference frame, the distance 
+traveled by the light is no longer 
+L, but D. Hence, the light travels 
+a farther distance. Since the 
+speed of light is constant, the 
+time is different for each 
+reference frame. 
+116
+\n--- PAGE 117 ---\nProper Time 
+ 
+ 
+ 
+ is the Lorentz 
+factor. 
+The time interval  is known as the proper time interval 
+(often shortened to proper time). 
+The proper time interval between two events is the time 
+interval measured by an inertial observer at the place where 
+the events occur. 
+Time dilation occurs in any other frame, with the time interval 
+observed to be longer than the proper time interval. 
+ 
+Lorentz factor 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+Leah is flying a plane at 0.9c. The landing lights on the plane flash every 2 s as measured in the reference frame of the 
+plane. Zosia watches the plane go by. Calculate the time between flashes as observed by Zosia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A spaceship travels at a constant speed from Earth to a space station. The space station is stationary relative to Earth. 
+According to clocks on the spaceship, the journey takes 4.0 days and according to clocks on Earth and on the planet, it 
+takes 5.0 days. 
+(a) Outline which of these intervals is the proper time interval between the launch and the anival of the 
+spaceship. 
+(b) Calculate the speed of the spaceshio relative to Earth. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+117
+\n--- PAGE 118 ---\nThe Lorentz 
+transformations  
+ 
+Inverse Lorentz transformations 
+ 
+ 
+Worked Example 
+Lightning strikes a point on the ground (frame S) at position x = 3500 m and time t = 5.0 s. Determine where and when 
+the lightning struck according to a rocket that flies past the ground at speed 0.80c to the right. 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A reference frame S' is moving at a velocity of 2.7 × 108 m s–1 relative to a reference frame S, in the direction of the 
+positive x-axis of S. The Lorentz factor  for the relative speed of frames S and S' is 2.29. Spacetime coordinates of 
+events A and B are measured in frames S and S'. 
+ 
+According to measurements in frame 5, event A occurs at xA = 50 m, yA = zA = 0, tA = 0.30 , 
+and event B occurs at xB = 80 m, yB = zB = 0, t0 = 0.40 . Calculate, as measured in S': 
+(a)  the distance between events A and B 
+(b) the time interval between events A and B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A rescue spaceship is sent from Earth to the site of a space accident. The spaceship moves in the direction of the 
+positive x-axis of the reference frame of Earth, at a relative speed of 0.75c. The clocks on Earth and in the spaceship 
+are synchronized so that the launch of the spaceship occurs at t = t’ = 0 and x = x’ = 0. When the spaceship arrives at 
+the site of the accident, the clock in the spaceship reads 8.0 s. 
+(a) Explain why, according to Earth observers, the journey of the spaceship takes longer than 8.0 s. 
+(b) Calculate, in the reference frame of Earth, the spacetime coordinates of the arrival of the spaceship at the site 
+of the accident. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #1 and #2 on page 174 in the textbook. 
+ 
+118
+\n--- PAGE 119 ---\nA5 Galilean and special relativity 
+Students should understand 
+➢ length contraction as given by  
+ 
+➢ that Lorentz transformation equations lead to the relativistic velocity addition equation as given by 
+ 
+  
+➢ that the space–time interval  between two events is an invariant quantity as given by 
+ 
+➢ space–time diagrams 
+➢ that the angle between the world line of a moving particle and the time axis on a space–time diagram is 
+ 
+➢ related to the particle’s speed as given by  
+ 
+➢ that muon decay experiments provide experimental evidence for time dilation and length contraction. 
+ 
+Proper length Proper length is defined as the length of an object measured 
+by an observer at rest relative to the object. 
+ 
+Worked Example 
+Priya and Orhan fly identical spacecraft that are 16 m long in their own frame of reference. Priya's spacecraft is 
+travelling at a speed of 0.5 c relative to Orhan's. Calculate the length of: 
+(a) Priya's aircraft according to Orhan 
+(b) Orhan's aircraft according to Priya. 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+Alpha Centauri is a nearby stellar system located at a distance of 4.4 light years (ly) from Earth, as measured in a 
+reference frame in which Earth is at rest. A spaceship is sent from Earth to Alpha Centauri at a constant speed of 0.40c. 
+(a) In the reference frame of the spaceship, calculate: 
+(i) the distance between Earth and Alpha Centauri 
+(ii) the time taken for the travel. 
+Immediately after the spaceship reaches the Alpha Centauri system, a radio message is sent to Earth. 
+(b) Calculate, according to clocks on Earth, how long after the departure of the spaceship the radio message is 
+received. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #3 and #4 on page 175 in the textbook. 
+119
+\n--- PAGE 120 ---\nVelocity addition 
+ 
+Suppose a rocket moving at 0.80c relative to the ground 
+(frame S) fires a missile with speed 0.50c relative to the 
+rocket. How fast would the missile be going relative to the 
+ground (frame S)? According to Galileo, it is 1.30c. But, we 
+know that is not possible. We use the vector addition 
+formula to solve this scenario. Show the answer is 0.93c.  
+In this case, we are looking for . 
+ 
+ 
+ 
+Worked Example 
+Jean and Phillipe are in separate frames of reference, neither of which is accelerating. Jean observes a spacecraft 
+moving to his right at 0.8c. Phillippe observes the same spacecraft moving to his left at 0.9c. Calculate the velocity of 
+Phillippe's frame of reference relative to Jean's. 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #5 and #6 on page 177 in the textbook. 
+The space-time 
+interval: an 
+invariant quantity  
+Is there a quantity that two observers in different reference frames will agree on? YES. It is the 
+space-time interval. The space time interval is given by: 
+ 
+it can be shown that  
+ 
+Worked Example 
+Events A and B are two lightning strikes. In the reference frame of a ground observer, A and B have coordinates xA = 2.5 
+× 103m, tA= 0 and xB = 8.0 × 103m, tB = 1.2 × 10–5s. A rocket flies above the ground at a speed of 0.75c towards the 
+positive x-axis of the ground observer.  
+(a) Calculate the spacetime interval between events A and B, using the coordinates of: 
+(i) the frame of reference of the ground observer 
+(ii) the frame of reference of the rocket. 
+(b) Discuss whether it is possible that A and B occur at: 
+(i) the same position 
+(ii) the same time relative to some other inertial reference frame. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Note:  
+            
+ 
+ 
+120
+\n--- PAGE 121 ---\nMuon Decay as 
+evidence for 
+relativity 
+Muons are particles similar to electrons but are more 
+massive. Muons are produced in the upper atmosphere of 
+Earth by collisions of air molecules with cosmic rays (i.e. high 
+energy protons mostly coming from the Sun). Muons decay 
+or break apart in about 2.2 microseconds. Muons travel at 
+0.99c.  
+ 
+If a muon is created at the top of a 3.0 km high mountain, 
+would it be detected at the bottom of the mountain? 
+According to Galileo, the muon would only travel 0.653 km 
+(0.99 x 3.0x108 x 2.2x10–6). The muon should never hit the 
+detector. But, muons are detected often. How is this 
+possible? Time dilation! The lifetime of the muon in the 
+laboratory is 2.2 x 10–6s, but what if is traveling at 0.99c?  
+ 
+(a) Calculate the new time for the muon to decay. 
+(b) Determine the new distance the muon will travel 
+down the mountain. Does it hit the detector?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #7 and #8 on page 180 in the textbook. 
+Minkowski 
+Space-time 
+diagrams and 
+worldlines 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For diagram a, notice the axis. The vertical axis is given as distance, but actually represents time 
+because the speed of light is constant in any inertial reference frame. So, the value of 6.0 m, 
+represents the time of  s (i.e. ct = 6.0 m).  
+ 
+For diagram b, the angled line represents an object travelling at constant velocity and is referred 
+to as a “worldline”. The vertical line at “a” along the x axis represents a stationary object. To find 
+the velocity of the object, use: 
+. The maximum value for  is  because no object can travel faster than . 
+ 
+ 
+An object traveling to the right will have a worldline on the 
+right. Similarly, a worldline will appear on the left for an 
+object traveling to the left.  
+ 
+121
+\n--- PAGE 122 ---\n 
+ 
+ 
+ 
+new worldline axis 
+for an object 
+traveling at a 
+constant velocity 
+An event occurring in the stationary reference frame will not be represented by the same time 
+and space coordinates in the reference frame of an object moving at a constant velocity.  
+ 
+Showing both the space-time axis for an object moving at constant velocity to the right. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+The space-time diagram given shows an object moving to the right with respect to frame 
+S (given by the axis ct vs x). Estimate the velocity of the object in frame S’ according to 
+frame S. 
+Finding the scale 
+on the primed axis 
+(i.e. frame S’) 
+The Lorentz transformation equations need to 
+be used to determine the new scale for the 
+moving object. The object is moving at 0.60c 
+ 
+ 
+ 
+or  
+ 
+ 
+ 
+What is the equivalent of 1.0m on the S axis? 
+How do we get 1.25?   The coordinates of (x’, ct’) are (1, 0) and (0, 1).  
+ 
+ 
+Does it work going from S to S’? The coordinates of (x, ct) would be (1.25, 0.75) and (0.75, 1.25). 
+Show. 
+ 
+ 
+ 
+122
+\n--- PAGE 123 ---\nWorked Example 
+Find the scale on the S’ axis. In other words, what is the equivalent of (1.0, 
+0) and (0, 1.0) on the (x, ct) axis? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Length contraction 
+and spacetime 
+diagrams 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Drawing worldlines parallel to either ct or ct’ and intersecting with the x or x’ axis will provide 
+the value of the length contraction, respectively.  
+Time dilation and 
+spacetime 
+diagrams 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Similarly, drawing worldlines parallel to either x or x’ and intersecting with the ct or ct’ axis will 
+provide the value of the time dilation, respectively.  
+ 
+The coordinates in frame S is (1.5, 0.5). Using the proper worldlines, estimate the length 
+contraction and time dilation that is perceived by Frame S’.  
+ 
+ 
+ 
+ 
+ 
+123
+\n--- PAGE 124 ---\nSimultaneity and 
+spacetime 
+diagrams 
+ Notice that the events A and B 
+occur at different positions in 
+space but occur at the same time 
+in frame S. 
+ 
+Drawing lines parallel to x’ and 
+intersecting with ct’ shows the 
+times the events occur in frame 
+S’. Notice that the events do not 
+occur at the same time.  
+ 
+Worked Example 
+In the spacetime diagram that is shown, list the events from earliest to 
+latest in each frame of reference.  
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+A spacecraft is moving away from earth at speed 0.60c. At ct = 0, just 
+as the spacecraft begins to move, a flash of light leaves a space 
+station which is at rest 4.0 ly from earth, according to earth. Using a 
+spacetime diagram, estimate the time the flash of light arrives at the 
+spacecraft according to a earth and b the spacecraft. 
+ 
+ 
+ 
+ 
+ 
+ 
+Worked Example 
+Two stars, A at position -3 ly and B at position +3 ly, both explode at ct 
+= 0. A spacecraft moving at velocity +0.60c is at x = 0 when ct = 0. Use 
+a spacetime diagram to determine (a) which star exploded first 
+according to the spacecraft observers and (b) from which star 
+explosion light reaches the spacecraft observers first. 
+ 
+ 
+ 
+ 
+ 
+Complete Practice Questions #9 to #13 on pages 191 and 192 in the textbook. 
+ 
+124
+\n--- PAGE 125 ---\n– 7 – 8824 – 9595
+Turn over
+24EP07
+Section B
+Answer all of the questions from one of the options. Answers must be written within the answer boxes 
+provided.
+Option A — Relativity
+3. P transmits a radio signal to Q. Relative to the Earth’s surface, Q is stationary and P moves 
+at a speed of 0.70c as shown.
+ 
+P Q
+Earth
+0.70c
+(a) State, using Galilean relativity, the speed of the radio signal relative to Q. [1]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b) Determine, using relativistic velocity addition, the speed of the radio signal relative to Q. [2]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(c) A paradigm shift in science replaced Galilean relativity with the theory of special relativity.
+Explain how this paradigm shift was linked to Maxwell’s discovery of a set of 
+electromagnetic equations. [1]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(Option A continues on the following page)
+125
+\n--- PAGE 126 ---\n– 8 – 8824 – 9595
+24EP08
+(Option A continued)
+4. The spacetime diagram (x, ct) for a space station S shows the worldlines of two clocks (clock 
+1 and clock 2). Each clock is 2.0 km from S. The spacetime diagram also shows the worldline 
+of spaceship A.
+0 1
+1
+2
+2
+3
+3
+4
+4
+5
+5
+6
+7
+8
+9
+10
+−1−2
+ct / km
+x / km
+A
+E
+clock 2 clock 1
+(Option A continues on the following page)
+126
+\n--- PAGE 127 ---\n– 9 – 8824 – 9595
+Turn over
+24EP09
+(Option A, question 4 continued)
+(a) (i)  Outline how clock 1 a nd clock 2 can be synchronized with a clock on S.  [2]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(ii) Determine, in terms of c, the speed of A in the reference frame of S. [2]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(iii) Clock 1 and clock 2 emit separate light signals when A is at (0,0).
+Identify, on the diagram, the proper time that elapses between the arrival of the 
+light signals at A. [2]
+(b) At event E, spaceship P leaves S to intercept spaceship A. The speed of P is 0.50c in 
+the reference frame of S.
+(i) Identify, with the letter X on the diagram, the event of P intercepting A. [1]
+(ii) State, in seconds, the time of event X for clock 2. [1]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(Option A continues on the following page)
+127
+\n--- PAGE 128 ---\n– 10 – 8824 – 9595
+24EP10
+(Option A, question 4 continued)
+(c) Spaceship A then returns to S.
+The spacetime diagram shows the rest frame of A on its outward journey (x, ct ) and 
+on its return journey (x, ct ).
+ct
+ct ″
+x″ct ′
+x′
+x
+An observer in A determines, for the reference frame of S, the time t1 immediately 
+before the change of velocity of A and the time t2 immediately after the change of 
+velocity of A.
+(i) Identify, with lines and labels on the spacetime diagram, the difference between 
+t1 and t2. [2]
+(ii) Explain how the difference between t1 and t2 arises. [1]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(Option A continues on the following page)
+128
+\n--- PAGE 129 ---\n– 11 – 8824 – 9595
+Turn over
+24EP11
+(Option A continued)
+5. Muons are formed in the Earth’s atmosphere 2.5 km above the surface and then travel 
+vertically downwards at a speed of 0.975c. The mean lifetime of a muon is 2.2 ms when 
+measured in a frame in which the muon is at rest. 
+(a) Calculate the mean lifetime of the muon for the reference frame of the Earth. [2]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b) Muons are detected at the Earth’s surface.
+Explain, with supporting calculations, why this is evidence for time dilation. [3]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+End of Option A
+129
+\n--- PAGE 130 ---\nQuestion Answers Notes Total 
+3 a 1.7c  1 
+b 
+seen  
+c  
+Award MP2 if no calculation seen. 
+2 
+c (Discovery implied that) speed of light (in vacuum) is constant / invariant / does not 
+depend on speed of source / same in all inertial frames    1 
+130
+\n--- PAGE 131 ---\nQuestion Answers Notes Total 
+4 a i Alternate 1 
+Place light source midway between clocks / at origin O  
+set clocks at 2000/c and start them with flash of light from O  
+Alternate 2 
+Initially together (at origin) and synchronised  
+then moved apart (infinitely) slowly 
+2 
+ii 1tan 4θ =  
+0.25vc=   
+Accept BCA 
+2 
+iii Correct construction of light cones seen 
+Line identified on diagram 
+2 
+b i Line at correct angle intersecting A at worldline of right-hand clock. 1 
+ii 8000
+c
+= 2.7x10-5 «s»  Allow ECF fron b) i) 1 
+X 
+131
+\n--- PAGE 132 ---\nc i two construction lines 
+difference in time identified correctly  
+2 
+ii A has changed from one inertial reference frame to another (when it changed 
+velocity)  
+Accept “Due to acceleration at turnaround” 
+1 
+132
+\n--- PAGE 133 ---\nQuestion Answers Notes Total 
+5 a 4.5γ =   
+time interval in Earth frame = 9.9=  «µs» 2 
+b ALTERNATIVE 1 
+For Earth time of flight = 8.5μs  
+8.5μs >> 2.2μs so muons should have decayed   
+but 9.9μs (time dilation) > 8.5μs so many muons survive OWTTE  
+AL
+TERNATIVE 2 
+Without time dilation the distance travelled in Earth frame = 
+60.975 2.2 10 0.64c −×× × =   km  
+Wi
+th time dilation the distance travelled in Earth frame = 60.975 9.9 10 2.9c −×× × =  
+ km   
+Wi
+thout time dilation, most of the muons would have decayed before reaching the 
+surface  
+3 
+133
+\n--- PAGE 134 ---\nMinowski space-time diagrams -- Extra Practice
+Name____________________________
+134
+\n--- PAGE 135 ---\n– 6 – 2224 – 6706
+24EP06
+Section B
+Answer all of the questions from one of the options. Answers must be written within the answer boxes 
+provided.
+Option A — Relativity
+3.
+ The length of a space station is measured to be 100
+ m according to observer 
+A at rest in the 
+space station.
+Observer B is moving at 0.60c with respect to the space station.
+(a)
+ W
+rite down the length of the space station according to Galilean relativity.
+ [1]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(b)
+ (i)
+ Define what is mean
+t by proper length.
+ [1]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(ii)
+ Calculate the length of the space station according to observer B, with reference 
+to special relativity
+.
+ [2]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(c)
+ Outline how the results in (b)(ii) contradict Newton’
+s postulates concerning time and 
+space.
+ 
+[2]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(Option 
+A continues on the following page)
+135
+\n--- PAGE 136 ---\n– 7 – 2224 – 6706
+Turn over
+24EP07
+(Option A continued)
+4.
+ The diagram below shows two particles travelling in opposite directions above the ground.
+ground
+A B
+The velocity with respect to the ground of particle A is 0.6c and the velocity of particle B with 
+respect to the ground is –0.75c.
+(a)
+ Calculate the velocity of particle B according to particle 
+A.
+ [2]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+The particles were emitted at the same time according to observer X at rest with respect to 
+the ground. 
+Another observer, Y, is moving parallel to the ground.
+(b)
+ Show that the particles are not
+ emitted simultaneously in the frame of observer Y, 
+according to the Lorentz transformation equations.
+ [2]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(Option 
+A continues on the following page)
+136
+\n--- PAGE 137 ---\n– 8 – 2224 – 6706
+24EP08
+(Option A continued)
+5.
+ The spacetime diagram gives the ct
+-x axes for observer A. The worldline and x′ axis for 
+observer B are also shown. When observer A and observer B were at the origin of the 
+spacetime diagram their clocks were synchronized.
+0
+0
+1 2
+2
+11
+2
+3
+1
+2
+3
+3
+3
+x
+x'
+–7 7
+7
+8–6
+–6
+6
+6
+–5
+–5
+5
+5
+–4
+–4
+4
+4
+4
+4
+–3
+–3
+–3
+–3
+–4
+–2
+–2
+–2
+–2
+–1
+–1
+–1–1
+ct
+ct'
+(a) Calculate the speed of observer B with respect to observer A.  [2]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(Option 
+A continues on the following page)
+137
+\n--- PAGE 138 ---\n– 9 – 2224 – 6706
+Turn over
+24EP09
+(Option A, question 5 continued)
+(b)
+ For observer 
+A an event has spacetime coordinate x = 3 and ct = 1.
+(i)
+ Plot the point corresponding to the event on the diagram. Label the point E.
+ [1]
+(ii)
+ According to observer B, event E occurs before observer 
+A and observer B meet. 
+Justify this statement using the spacetime diagram.
+ [2]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(iii)
+ Determine the spacetime coordinates of the event according to observer B.
+ [3]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(iv)
+ Show that the spacetime interval between the clock synchronization and the 
+event is invariant.
+ [2]
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+End of Option A
+138
+\n--- PAGE 139 ---\nSection B 
+Option A — Relativity 
+Question Answers Notes Total 
+3. a 100«m»  1 
+3. b i the length measured by an observer at rest « with respect to the object being 
+measured »  
+Accept the length of an object in the 
+object’s rest frame. 
+Allow
+ “the maximal measurable length/ 
+longest measurable distance of object. 
+1 
+3. b ii 
+γ =« 
+2
+2
+1
+0.61 1
+
+
+ −
+» = 1.25 
+«100/1.25 =»80«m»  
+2 
+3. c Newton assumed that «time and» space are absolute / OWTTE 
+OR 
+relativity assumes that « time and » space are not absolute/constant    
+different length measurements contradict Newton’s assumption / OWTTE   
+2 
+139
+\n--- PAGE 140 ---\n4. a −−
++×
+0.75 0.6
+1 0.75 0.6
+c   
+−0.93c 
+2 
+4. b 
+γ ∆′ = −∆  20 vxt c OR mention of gamma factor for Y with respect to ground  
+Conclude 0t′ ≠∆ , meaning that the particles were not emitted at the same time  
+2 
+140
+\n--- PAGE 141 ---\nQuestion Answers Notes Total 
+5. a evidence of attempt to find gradient or tan 𝜃𝜃 
+OR 
+x/ct = 4/5  
+0.8c  
+2 
+5. b i point drawn at (3, 1) in x-ct coordinates  Point must be labelled as E 1 
+5. b ii lines drawn from (3, 1) roughly parallel to x′ to intersect with ct′ axis  
+according to B, event is taking place at t′ < 0/before origin «so before»  
+Watch for ECF from bi). 
+Allow w
+orking on diagram OR correct 
+arguments in the answer box.  
+Accept us
+e of Lorentz transformation to 
+show ct’ = –2.3.  
+2 
+5. b iii ALTERNATIVE 1 using diagram: 
+line drawn in (b)(ii) intersecting ct′ between −2 and −2.75  
+line drawn parallel to ct′ intersecting with x′ from (3, 1)  
+x′ between 3 and 4  
+ALTERNATI
+VE 2 using Lorentz transformation: 
+γ = 1.66   
+′ct « γ −= = −× 1.66(1 0.8 3)vxct c » = −2.3  
+′x « ( )γ −= = −× 1.66(3 0.8 1)x vt » = 3.7  
+ALTERNATIVE 3 
+Allow ECF from (a). 
+Without explicit answer, award [2max], 
+even if working on diagram seems to be 
+correct.  
+Penalise for incorrect 
+signs. 
+3 
+141
+\n--- PAGE 142 ---\nline drawn in (b)(ii) intersecting ct′ between −2 and −2.75  
+use of invariant formula as in b(iv) with values 
+to get x’=3.7  
+5. b iv − = −= −2 222()() 1 3 8xct   
+′′ − = − ≈−22 22()( ) 2.3 3.7 8xct   
+Allow ECF from (b)(iii). 
+2 
+142
